@@ -25,22 +25,8 @@ __TOC__
 
 
 ## Related Events
-1. KDD workshop on fashion [[2019]](https://kddfashion2019.mybluemix.net/) [[2018]](https://kddfashion2018.mybluemix.net/) [[2017]](https://kddfashion2017.mybluemix.net/) [[2016]](http://kddfashion2016.mybluemix.net/)
-2. Workshop on Computer Vision for Fashion, Art and Design [[CVPR 2020]](https://sites.google.com/view/cvcreative2020) [[ICCV 2019]](https://sites.google.com/view/cvcreative/home) [[ECCV 2018]](https://sites.google.com/view/eccvfashion/) [[ICCV 2017]](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
-
-
-
-
-## Datasets
-1. Fashionpedia [[website]](https://fashionpedia.github.io/home/index.html)
-2. DeepFashion2 Dataset [[website]](<https://github.com/switchablenorms/DeepFashion2>)
-3. DeepFashion Dataset [[website]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
-4. FashionGen [[website]](https://fashion-gen.com/)
-5. FashionAI [[Tianchi]](http://fashionai.alibaba.com/datasets/?spm=a2c22.11190735.991137.8.501b6d83ilPJsX)
-6. TaobaoClothMatch [[Tianchi]](TaobaoClothMatch)
-7. Fashion-MNIST [[zalandoresearch/fashion-mnist]](https://github.com/zalandoresearch/fashion-mnist)
-8. Fashion IQ [[website]](https://www.spacewu.com/posts/fashion-iq/)
-
+1. Workshop on Computer Vision for Fashion, Art and Design [CVFAD 2023](https://sites.google.com/view/cvfad2023/home) [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
+2. Workshop on Multimedia Computing towards Fashion Recommendation [MCFR 22](https://dl.acm.org/doi/abs/10.1145/3503161.3554765)
 
 
 ## Companies
