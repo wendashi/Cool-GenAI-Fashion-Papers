@@ -41,9 +41,10 @@ __TOC__
 
 
 ## Other Useful Resources
-1. [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
-2. [ayushidalmia/awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
-3. [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
-4. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on)
-5. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
-6. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
+1. [fAshIon Dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data)
+2. [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
+3. [ayushidalmia/awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
+4. [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
+5. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on)
+6. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
+7. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
