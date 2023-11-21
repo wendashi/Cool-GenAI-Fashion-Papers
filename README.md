@@ -3,7 +3,7 @@
 
 All the listed papers have been published from 2022 onwards (including 2022).
 
-Before 2022, refer to Other Useful Resources.
+Before 2022, refer to [Other Useful Resources](https://github.com/wendashi/Cool-GenAI-Fashion-Papers/blob/main/README.md#other-useful-resources).
 
 Feel free to send a PR or issue.
 
