@@ -49,7 +49,7 @@ __TOC__
 | ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
 | [Zalando Research](https://research.zalando.com/)            | 2016  | Research                                    | [[2023.04 fashion assistant powered by ChatGPT]](https://corporate.zalando.com/en/technology/zalando-launch-fashion-assistant-powered-chatgpt) |
 | [极睿 infimind](http://infimind.com/)                        | 2017  | Fashion Product Content, AI model           | [2023.11 interview in mandarin](https://www.bilibili.com/video/BV1iu4y1879i/?spm_id_from=333.337.search-card.all.click&vd_source=32f6f61e74ca115cbaca6bd6bb144662)  |
-| [知衣 zhiyi](https://www.zhiyitech.cn/)                      | 2018  | Fashion Design Collaboration, AIGC collaborate with [Scietrain](https://xinchenai.com/)          | [2023.08 Fashion Diffusion](https://mp.weixin.qq.com/s/TnYEc0bl0IasEdHsYmACOA) |
+| [知衣 zhiyi](https://www.zhiyitech.cn/)                      | 2018  | Fashion Design Collaboration, AIGC collaborate with [西湖辰心Scietrain](https://xinchenai.com/)          | [2023.08 Fashion Diffusion](https://mp.weixin.qq.com/s/TnYEc0bl0IasEdHsYmACOA) |
 
 
 
