@@ -48,11 +48,6 @@ __TOC__
 | Name                                                         | Found | Info                                        | News                                                         |
 | ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
 | [Zalando Research](https://research.zalando.com/)            | 2016  | Research                                    | [[2016.10 founding]](https://earlymoves.com/2016/10/07/zalando-research-is-shaping-the-future-of-online-fashion/) |
-| [MatchU 码尚](https://www.immatchu.com/)                     | 2016  | Modeling                                    | [[2018.12 funding]](http://www.iheima.com/article-195955.html) |
-| [mode.ai](https://mode.ai/#/about)                           | 2016  | Recognition, NLP, Searching                 | [[2018.5 TechRepublic]](https://www.techrepublic.com/article/how-mode-ai-powers-personalized-shopping-experiences-via-chatbot/) |
-| [Markable.AI](https://markable.ai/)                          | 2016  | Recognition, Searching                      | [[2018.7 journal sentinel]](https://www.jsonline.com/story/money/business/2018/07/26/shazam-fashion-markable-app-shops-comparable-outfits/816175002/) |
-| [衣呼 YIHU (TOZI)](https://www.emtailor.com/solutions)       | 2017  | 3D Modeling                                 | [[2018.9 funding]](https://www.lieyunwang.com/archives/447739) |
-| [macty.eu](https://www.macty.eu/)                            | 2017  | Recognition, Searching, Recommendation, NLP | [[2018.12 START IT]](https://startitkbc.prezly.com/complete-the-look-tool-macty-leverages-ai-to-revolutionise-the-fashion-industry) |
 | [极睿 infimind](http://infimind.com/)                        | 2017  |                                             |                                                              |
 | [知衣 zhiyi](https://www.zhiyitech.cn/)                      | 2018  |                                             |                                                              |
 
