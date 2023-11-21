@@ -2,6 +2,7 @@
 🕶️ Cool resources about Fashion + GenAI! (papers, workshops, companies, ...) (constantly updating)
 
 All the listed papers have been published from 2022 onwards (including 2022).
+Before 2022, refer to Other Useful Resources.
 
 Feel free to send a PR or issue.
 
@@ -43,10 +44,8 @@ __TOC__
 
 ## Companies
 
-| Brand                                        | Name                                                         | Found | Info                                        | News                                                         |
-| -------------------------------------------- | ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
-| <img src="img/myntra.png" height="80px">     | [Myntra](https://www.myntra.com/)                            | 2007  | Forecast, Synthesis                         | [[2017.11 livemint]](https://www.livemint.com/)              |
-| <img src="img/alibaba.png" height="50px">    | [Alibaba 图像和美](https://www.leiphone.com/aiWeights/lab/79) | 2009  | Recognition                                 | [[2018.7 FashionAI]](https://www.leiphone.com/news/201807/Bp6UlbXIab29rIN6.html) |
+| Name                                                         | Found | Info                                        | News                                                         |
+| ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
 | <img src="img/stitchfix.png" width="200px">  | [STITCH FIX](https://www.stitchfix.com/), [BLOG](https://multithreaded.stitchfix.com/blog/) | 2011  | Personalization                             | [[2018.5 Forbes]](https://www.forbes.com/sites/bernardmarr/2018/05/25/stitch-fix-the-amazing-use-case-of-using-artificial-intelligence-in-fashion-retail/#5d5ff05c3292) |
 | <img src="img/heuritech.png" width="200px">  | [Heuritech](https://www3.heuritech.com/)                     | 2013  | Forecast, Recognition                       | [[2019.1 Fashnerd]](https://fashnerd.com/2019/01/french-startup-heuritech-wants-to-help-fashion-brands-make-clothes-that-customers-want/) |
 | <img src="img/yi+ai.png" height="50px">      | [Yi+](http://www.dressplus.cn/home)                          | 2014  | Recognition                                 | [[2018.8 funding]](https://pe.pedaily.cn/201808/434505.shtml) |
@@ -62,7 +61,7 @@ __TOC__
 |                                              | [极睿 infimind](http://infimind.com/)                        | 2017  |                                             |                                                              |
 |                                              | [知衣 zhiyi](https://www.zhiyitech.cn/)                      | 2018  |                                             |                                                              |
 | <img src="img/glitch.gif" height="30px">     | [glitch-ai](https://glitch-ai.com/)                          | 2019  | AI Design                                   | [[2019.6 news]](https://www.vice.com/en_us/article/vb9pgm/this-clothing-line-was-designed-by-ai) |
-| <img src="img/stylingai.png" height="30px">  | [深尚科技 StylingAI](https://shenshangtech.com/)             | 2019  | AI Design                                   | [[2020.1 news]](https://36kr.com/p/5281004)                  |
+
 
 
 
