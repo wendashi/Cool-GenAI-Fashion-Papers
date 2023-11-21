@@ -2,6 +2,7 @@
 🕶️ Cool resources about Fashion + GenAI! (papers, workshops, companies, ...) (constantly updating)
 
 All the listed papers have been published from 2022 onwards (including 2022).
+
 Before 2022, refer to Other Useful Resources.
 
 Feel free to send a PR or issue.
@@ -52,8 +53,8 @@ __TOC__
 | [Markable.AI](https://markable.ai/)                          | 2016  | Recognition, Searching                      | [[2018.7 journal sentinel]](https://www.jsonline.com/story/money/business/2018/07/26/shazam-fashion-markable-app-shops-comparable-outfits/816175002/) |
 | [衣呼 YIHU (TOZI)](https://www.emtailor.com/solutions)       | 2017  | 3D Modeling                                 | [[2018.9 funding]](https://www.lieyunwang.com/archives/447739) |
 | [macty.eu](https://www.macty.eu/)                            | 2017  | Recognition, Searching, Recommendation, NLP | [[2018.12 START IT]](https://startitkbc.prezly.com/complete-the-look-tool-macty-leverages-ai-to-revolutionise-the-fashion-industry) |
-|                                              | [极睿 infimind](http://infimind.com/)                        | 2017  |                                             |                                                              |
-|                                              | [知衣 zhiyi](https://www.zhiyitech.cn/)                      | 2018  |                                             |                                                              |
+| [极睿 infimind](http://infimind.com/)                        | 2017  |                                             |                                                              |
+| [知衣 zhiyi](https://www.zhiyitech.cn/)                      | 2018  |                                             |                                                              |
 
 
 
