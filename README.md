@@ -7,26 +7,29 @@ All the listed GenAI-Fashion papers have been published from 2022 onwards (inclu
 For resources before 2022, please refer to [Other Useful Resources](#other-useful-resources).
 
 Feel free to send a PR or open an issue.
-
-__TOC__
-* [Papers](#papers)
-   * [Synthesis](#synthesis)
-      * [2D Synthesis](#2D-synthesis)
-        * [Try-On](#try-on)
-      * [3D Synthesis](#3D-synthesis)
-   * [Agent](#agent)
-   * [Understanding](#understanding)
-      * [Vision Language](#vision-language)
-      * [Segmentation, Recognition](#segmentation-recognition)
-      * [Trend Analysis](#trend-analysis)
-      * [Retrieval](#retrieval)
-      * [Fashion Compatibility](#fashion-compatibility)
-    
-* [Related Events](#related-events)
-* [Companies](#companies)
-* [Researchers](#researchers)
-* [Industry Reports](#industry-reports)
-* [Other Useful Resources](#other-useful-resources)
+<details>
+  <summary>Table Of Content</summary>
+  
+  * [Papers](#papers)
+     * [Synthesis](#synthesis)
+        * [2D Synthesis](#2D-synthesis)
+          * [Try-On](#try-on)
+        * [3D Synthesis](#3D-synthesis)
+     * [Agent](#agent)
+     * [Understanding](#understanding)
+        * [Vision Language](#vision-language)
+        * [Segmentation, Recognition](#segmentation-recognition)
+        * [Trend Analysis](#trend-analysis)
+        * [Retrieval](#retrieval)
+        * [Fashion Compatibility](#fashion-compatibility)
+      
+  * [Related Events](#related-events)
+  * [Companies](#companies)
+  * [Researchers](#researchers)
+  * [Industry Reports](#industry-reports)
+  * [Other Useful Resources](#other-useful-resources)
+  
+</details>
 
 
 ## Papers
