@@ -118,7 +118,7 @@ __TOC__
 | Aesthetic 100 (Evaluation Protocol) | How Good Is Aesthetic Ability of a Fashion Model? | CVPR2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf) | [dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data) |
 | - | - | - | - | project |
 
-### Safty
+### Safety
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | - | Infrared Invisible Clothing: Hiding from Infrared Detectors at Multiple Angles in Real World | CVPR2022 | [2205.05909](https://arxiv.org/abs/2205.05909) | project |
