@@ -12,12 +12,12 @@ __TOC__
    * [Synthesis](#synthesis)
       * [2D Synthesis](#2D-synthesis)
       * [3D Synthesis](#3D-synthesis)
-   * [Assistant/Agent](#assistant/agent)
+   * [Assistant/Agent](#assistant-agent)
 
 * [Related Events](#related-events)
-* [Companies/Product](#companies/product)
+* [Companies/Product](#companies-product)
 * [Researchers](#researchers)
-* [Industy reports](#industy-reports)
+* [Industry reports](#industry-reports)
 * [Other Useful Resources](#other-useful-resources)
 
 
