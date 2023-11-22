@@ -10,6 +10,8 @@ Feel free to send a PR or issue.
 __TOC__
 * [Papers](#papers)
     * [Synthesis](#synthesis)
+       * [2D Synthesis](#2Dsynthesis)
+       * [3D Synthesis](#3Dsynthesis)   
 * [Related Events](#related-events)
 * [Companies/Product](#companies/product)
 * [Researchers](#researchers)
@@ -19,11 +21,26 @@ __TOC__
 
 ## Papers
 ### Synthesis
+#### 2D Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | FashionTex | FashionTex: Controllable Virtual Try-on with Text and Texture. | SIGGRAPH 2023 | [2305.04451](https://arxiv.org/abs/2305.04451) | [code](https://github.com/picksh/FashionTex)|
 | FashionMatrix | - | arXiv | [[2104.05519]](https://arxiv.org/abs/2104.05519) | -|
+| - | - | - | - | - |
+| - | - | - | - | - |
+| - | - | - | - | - |
 
+#### 3D Synthesis
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh
+Reconstruction from Single Images | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Registering_Explicit_to_Implicit_Towards_High-Fidelity_Garment_Mesh_Reconstruction_From_CVPR_2022_paper.pdf) | - |
+| REC-MV | REC-MV: REconstructing 3D Dynamic Cloth
+from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) |
+| HairStep | HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling
+ | CVPR 2023 | -> | [project](https://paulyzheng.github.io/research/hairstep/) |
+| - | - | - | - | - |
+| - | - | - | - | - |
 
 ## Related Events
 1. Workshop on Computer Vision for Fashion, Art, and Design [CVFAD 2023](https://sites.google.com/view/cvfad2023/home) [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
@@ -51,17 +68,7 @@ __TOC__
 | [Unbound](https://www.unboundml.com/) | - | personal AI business assistant | - |
 | [Zeg AI](https://www.zeg.ai/)| - | AI Product Content, Videos, 3D Render | - |
 | - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
+
 
 ## Researchers
 
