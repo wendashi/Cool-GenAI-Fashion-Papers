@@ -9,9 +9,11 @@ Feel free to send a PR or issue.
 
 __TOC__
 * [Papers](#papers)
-    * [Synthesis](#synthesis)
-       * [2D Synthesis](#2D-synthesis)
-       * [3D Synthesis](#3D-synthesis)   
+   * [Synthesis](#synthesis)
+      * [2D Synthesis](#2D-synthesis)
+      * [3D Synthesis](#3D-synthesis)
+   * [Assistant(Agent)](#Assistant(Agent))
+
 * [Related Events](#related-events)
 * [Companies/Product](#companies/product)
 * [Researchers](#researchers)
@@ -25,7 +27,6 @@ __TOC__
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | FashionTex | FashionTex: Controllable Virtual Try-on with Text and Texture. | SIGGRAPH 2023 | [2305.04451](https://arxiv.org/abs/2305.04451) | [code](https://github.com/picksh/FashionTex)|
-| FashionMatrix | - | arXiv | [[2104.05519]](https://arxiv.org/abs/2104.05519) | -|
 | - | - | - | - | - |
 | - | - | - | - | - |
 | - | - | - | - | - |
@@ -38,6 +39,15 @@ __TOC__
 | HairStep | HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling | CVPR 2023 | -> | [project](https://paulyzheng.github.io/research/hairstep/) |
 | - | - | - | - | - |
 | - | - | - | - | - |
+
+### Assistant(Agent)
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arXiv | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
+| - | - | - | - | - |
+| - | - | - | - | - |
+
+
 
 ## Related Events
 1. Workshop on Computer Vision for Fashion, Art, and Design [CVFAD 2023](https://sites.google.com/view/cvfad2023/home) [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
