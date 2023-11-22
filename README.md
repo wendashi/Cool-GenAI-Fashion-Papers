@@ -12,18 +12,20 @@ __TOC__
 * [Papers](#papers)
    * [Synthesis](#synthesis)
       * [2D Synthesis](#2D-synthesis)
+        * [Try-On](#try-on)
       * [3D Synthesis](#3D-synthesis)
    * [Agent](#agent)
    * [Understanding](#understanding)
       * [Vision Language](#vision-language)
       * [Segmentation, Recognition](#segmentation-recognition)
       * [Trend Analysis](#trend-analysis)
-      * [Retrieval](#retrieval) 
+      * [Retrieval](#retrieval)
+      * [Fashion Compatibility](#fashion-compatibility)
     
 * [Related Events](#related-events)
 * [Companies](#companies)
 * [Researchers](#researchers)
-* [Industry reports](#industry-reports)
+* [Industry Reports](#industry-reports)
 * [Other Useful Resources](#other-useful-resources)
 
 
@@ -34,6 +36,20 @@ __TOC__
 | ----- | ----- | ----------- | ----- | ---- |
 | FashionTex | FashionTex: Controllable Virtual Try-on with Text and Texture. | SIGGRAPH 2023 | [2305.04451](https://arxiv.org/abs/2305.04451) | [code](https://github.com/picksh/FashionTex)|
 | Patternshop | Patternshop: Editing Point Patterns by Image Manipulation | SIGGRAPH 2023 | -> | [project](https://xchhuang.github.io/patternshop/index.html) |
+| MGD | Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing | ICCV2023 | [2304.02051](https://arxiv.org/abs/2304.02051) | [code](https://github.com/aimagelab/multimodal-garment-designer) |
+| FreeDoM | FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | ICCV2023 | [2303.09833](https://arxiv.org/abs/2303.09833) | [code](https://github.com/vvictoryuki/FreeDoM) |
+| BoxDiff | BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | ICCV2023 | [2307.10816](https://arxiv.org/abs/2307.10816) | [code](https://github.com/showlab/BoxDiff) |
+| ControlNet | Adding Conditional Control to Text-to-Image Diffusion Models | ICCV2023 | [2302.05543](https://arxiv.org/abs/2302.05543) | [code](https://github.com/lllyasviel/ControlNet) |
+| PromptStyler | PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization | ICCV2023 | -> | [project](https://promptstyler.github.io/) |
+| - | - | - | - | project |
+| - | - | - | - | project |
+| - | - | - | - | project |
+
+##### Try-On
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| - | - | - | - | project |
+| - | - | - | - | project |
 | - | - | - | - | project |
 | - | - | - | - | project |
 | - | - | - | - | project |
@@ -44,9 +60,11 @@ __TOC__
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | ReFU | A Repulsive Force Unit for Garment Collision Handling in Neural Networks | ECCV2022 | -> | [project](https://gamma.umd.edu/researchdirections/mlphysics/refu/) |
-| ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Registering_Explicit_to_Implicit_Towards_High-Fidelity_Garment_Mesh_Reconstruction_From_CVPR_2022_paper.pdf) | - |
+| ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Registering_Explicit_to_Implicit_Towards_High-Fidelity_Garment_Mesh_Reconstruction_From_CVPR_2022_paper.pdf) | [project](https://kv2000.github.io/2022/03/28/reef/) |
+| SNUG | SNUG: Self-Supervised Neural Dynamic Garments | CVPR2022 | -> | [project](https://mslab.es/projects/SNUG/) |
 | True Seams | True Seams:Modeling Seams in Digital Garments | SIGGRAPH 2022 | -> | [project](https://gabrielcirio.gitlab.io/projects/trueseams/trueseams.html) |
 | NeuralTailor | NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments | SIGGRAPH 2022 | [2201.13063](https://arxiv.org/abs/2201.13063) | - |
+| VirtualBones | Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks | SIGGRAPH 2022 | -> | [project](http://www.cad.zju.edu.cn/home/jin/SigCloth2022/SigCloth2022.htm) |
 | REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) |
 | HairStep | HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling | CVPR 2023 | -> | [project](https://paulyzheng.github.io/research/hairstep/) |
 | Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors |ICCV2023|->|[project](https://x-zhangyang.github.io/2023_Get3DHuman/) |
@@ -89,8 +107,16 @@ __TOC__
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | MODC | Fine-grained Fashion Representation Learning by Online Deep Clustering| ECCV2022 | [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf) | - |
+| FashionVLP | FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback | CVPR2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.pdf) | - |
+| EI-CLIP | EI-CLIP: Entity-aware Interventional Contrastive Learning for E-commerce Cross-modal Retrieval | CVPR2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf) | - |
 | - | - | - | - | project |
+
+#### Fashion Compatibility
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| A100 | How Good Is Aesthetic Ability of a Fashion Model? | CVPR2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf) | [dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data) |
 | - | - | - | - | project |
+
 
 ## Related Events
 1. Workshop on Computer Vision for Fashion, Art, and Design [CVFAD 2023](https://sites.google.com/view/cvfad2023/home) [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
