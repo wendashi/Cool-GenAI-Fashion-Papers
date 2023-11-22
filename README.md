@@ -15,7 +15,7 @@ __TOC__
    * [Assistant_Agent](#assistant-agent)
 
 * [Related Events](#related-events)
-* [Companies&Product](#companies-product)
+* [Companies&Product](#companies&product)
 * [Researchers](#researchers)
 * [Industry reports](#industry-reports)
 * [Other Useful Resources](#other-useful-resources)
@@ -54,7 +54,7 @@ __TOC__
 2. Workshop on Multimedia Computing towards Fashion Recommendation [MCFR 22](https://dl.acm.org/doi/abs/10.1145/3503161.3554765)
 
 
-## Companies/Product
+## Companies&Product
 
 | Name                                                         | Found | Info                                        | News                                                         |
 | ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
