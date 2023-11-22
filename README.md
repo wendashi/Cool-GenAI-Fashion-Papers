@@ -11,7 +11,7 @@ __TOC__
 * [Papers](#papers)
     * [Synthesis](#synthesis)
 * [Related Events](#related-events)
-* [Companies](#companies)
+* [Companies/Product](#companies/product)
 * [Researchers](#researchers)
 * [Industy reports](#industy-reports)
 * [Other Useful Resources](#other-useful-resources)
@@ -30,31 +30,38 @@ __TOC__
 2. Workshop on Multimedia Computing towards Fashion Recommendation [MCFR 22](https://dl.acm.org/doi/abs/10.1145/3503161.3554765)
 
 
-## Companies
+## Companies/Product
 
 | Name                                                         | Found | Info                                        | News                                                         |
 | ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
 | [CALA](https://ca.la/) | 2016 | fashion supply chain interface that unifies design, development, production, and logistics | [2022.11](https://mp.weixin.qq.com/s/INLwwAqkHzQ2iLq-Oj7ZjA) |
 | [Zalando Research](https://research.zalando.com/)            | 2016  | Research                                    | [2023.04 fashion assistant powered by ChatGPT](https://corporate.zalando.com/en/technology/zalando-launch-fashion-assistant-powered-chatgpt) |
-| [极睿 infimind](http://infimind.com/)                        | 2017  | Fashion Product Content           | [2023.11 interview in mandarin](https://www.bilibili.com/video/BV1iu4y1879i/?spm_id_from=333.337.search-card.all.click&vd_source=32f6f61e74ca115cbaca6bd6bb144662)  |
-| [知衣 zhiyi](https://www.zhiyitech.cn/)                      | 2018  | Fashion Design Collaboration, AIGC collaborate with [西湖辰心Scietrain](https://xinchenai.com/)          | [2023.08 Fashion Diffusion](https://mp.weixin.qq.com/s/TnYEc0bl0IasEdHsYmACOA) |
-| [LALALAND](https://lalaland.ai/) | 2019 | AI model | [2023.08 collaborate with Browzwear-VStitcher](https://mp.weixin.qq.com/s/ZPGR9UhlcaGIeRFUhiG4fA) |
+| [Vue.ai](https://vue.ai/) | 2016 | Retail AI analysis, AI avatar | - |
+| [极睿 infimind](http://infimind.com/)| 2017  | Fashion Product Content           | [2023.11 interview in mandarin](https://www.bilibili.com/video/BV1iu4y1879i/?spm_id_from=333.337.search-card.all.click&vd_source=32f6f61e74ca115cbaca6bd6bb144662)  |
+| [知衣 zhiyi](https://www.zhiyitech.cn/)| 2018  | Fashion Design Collaboration, AIGC collaborate with [西湖辰心Scietrain](https://xinchenai.com/)          | [2023.08 Fashion Diffusion](https://mp.weixin.qq.com/s/TnYEc0bl0IasEdHsYmACOA) |
+| [LALALAND](https://lalaland.ai/) | 2019 | AI avatar, Fashion Product Content | [2023.08 collaborate with Browzwear-VStitcher](https://mp.weixin.qq.com/s/ZPGR9UhlcaGIeRFUhiG4fA) |
 | [PatternedAi](https://www.patterned.ai/) | - | Pattern Design | - |
-| [Dsign.Ai](https://app.dsign.ai/) | - | Create Prints and Patterns with AI | - |
-| Vue.ai | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
+| [Dsign.Ai](https://app.dsign.ai/) | - | Prints and Patterns Design | - |
 | [AIMDE-Symmpix](https://aimde.design/en) | 2023 | Fashion Pattern, 3D | [2023.11 new feature](https://mp.weixin.qq.com/s/priz3aVNByLW40hk2AdxSA) |
-
-5 key elements of the fashion business value chain: 
-1. Fashion design & product development
-2. Fashion marketing
-3. E-commerce product content
-4. Supply chain and logistics
-5. 
+| [Weshop](https://www.weshop.com/) | - | AI model & Fashion Product Content | a subsidiary of [MOGU](https://www.mogu.com/)  |
+| [Wondershare VirtuLook](https://virtulook.wondershare.com/) | - | AI model & Fashion Product Content | a subsidiary of [wondershare](https://www.wondershare.com/)|
+| [Pixelcut](https://www.pixelcut.ai/) | - | AI-powered editing tools(Product Content) | - |
+| [CreatorKit](https://creatorkit.com/) | - | AI Product Content, Videos | - |
+| [DeepImage](https://deep-image.ai/) | - | AI Product Content | - |
+| [Unbound](https://www.unboundml.com/) | - | personal AI business assistant | - |
+| [Zeg AI](https://www.zeg.ai/)| - | AI Product Content, Videos, 3D Render | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
 
 ## Researchers
 
@@ -63,10 +70,10 @@ __TOC__
 | [GAP Lab-CUHKSZ](https://gaplab.cuhk.edu.cn/pages/publications) | [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en)|
 | [HCP-I2 Lab-SYSU](https://www.sysu-hcp.net/publications/index.html) | [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl=en),[Zhenyu Xie](https://xiezhy6.github.io/)|
 | HIT SZ|[Haijun Zhang](https://dl2link.com/#)|
-| [AiDlab-PolyU+RCA](https://www.aidlab.hk/en/)|[Calvin WONG](https://research.polyu.edu.hk/en/persons/wai-keung-wong-2)|
+| [AiDlab-PolyU+RCA](https://www.aidlab.hk/en/)|[Calvin WONG](https://research.polyu.edu.hk/en/persons/wai-keung-wong-2),[Xingxing Zou](https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN)|
 | [MMLab-NTU](https://www.mmlab-ntu.com/index.html)|[Ziwei Liu](https://liuziwei7.github.io/index.html)|
 | UIUC | [Ranjitha Kumar](http://ranjithakumar.net/)|
-| [AImageLab](https://aimagelab.ing.unimore.it/imagelab/)| [Rita Cucchiara](https://scholar.google.com/citations?user=OM3sZEoAAAAJ&hl=en)|
+| [AImageLab](https://aimagelab.ing.unimore.it/imagelab/)|[Rita Cucchiara](https://scholar.google.com/citations?user=OM3sZEoAAAAJ&hl=en)|
 | The University of Utah|[Ziad Al-Halah](https://users.cs.utah.edu/~ziad/)|
 | Georgia Tech|[Devi Parikh](https://faculty.cc.gatech.edu/~parikh/)|
 | UT Austin|[Kristen Grauman](https://www.cs.utexas.edu/users/grauman/)|
@@ -81,11 +88,12 @@ __TOC__
 
 ## Other Useful Resources
 1. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech#table-of-content)
-2. [Fashion Datasets](https://github.com/AemikaChow/DATASOURCE)
-3. [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
-4. [ayushidalmia/awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
-5. [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
-6. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on)
-7. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
-8. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
-9. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
+2. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap)
+3. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
+4. [Fashion Datasets](https://github.com/AemikaChow/DATASOURCE)
+5. [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
+6. [ayushidalmia/awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
+7. [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
+8. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on)
+9. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
+10. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
