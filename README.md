@@ -48,11 +48,13 @@ __TOC__
 ##### Try-On
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| - | - | - | - | project |
-| - | - | - | - | project |
-| - | - | - | - | project |
-| - | - | - | - | project |
-| - | - | - | - | project |
+| wFlow | Dressing in the Wild by Watching Dance Videos | CVPR2022 | -> | [project](https://awesome-wflow.github.io/) |
+| ClothFormer | ClothFormer: Taming Video Virtual Try-on in All Module | CVPR2022 | -> | [project](https://cloth-former.github.io/) |
+| Flow-Style-VTON | Style-Based Global Appearance Flow for Virtual Try-On | CVPR2022 | -> | [project](https://github.com/SenHe/Flow-Style-VTON/) |
+| RT-VTON | Full-Range Virtual Try-On with Recurrent Tri-Level Transform | CVPR2022 | -> | [project](https://lzqhardworker.github.io/RT-VTON/) |
+| DGP | Weakly Supervised High-Fidelity Clothing Model Generation | CVPR2022 | [2112.07200](https://arxiv.org/abs/2112.07200) | - |
+| - | - | CVPR2022 | - | project |
+| - | - | CVPR2022 | - | project |
 | - | - | - | - | project |
 
 
@@ -81,25 +83,24 @@ __TOC__
 | - | - | - | - | project |
 
 ### Understanding
-
 #### Vision Language
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV2022 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
+| FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV2022 | -> | [project](https://github.com/BrandonHanx/mmf) |
 | - | - | - | - | project |
 | - | - | - | - | project |
 
 #### Segmentation, Recognition
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV2022 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
+| Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV2022 | -> | [project](https://github.com/xushilin1/FashionFormer) |
 | - | - | - | - | project |
 | - | - | - | - | project |
 
 #### Trend Analysis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| POP | POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion | ECCV2022 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
+| POP | POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion | ECCV2022 | -> | [project](https://github.com/HumaticsLAB/POP-Mining-POtential-Performance) |
 | - | - | - | - | project |
 | - | - | - | - | project |
 
@@ -124,7 +125,6 @@ __TOC__
 
 
 ## Companies
-
 | Name                                                         | Found | Info                                        | News                                                         |
 | ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
 | [CALA](https://ca.la/) | 2016 | fashion supply chain interface that unifies design, development, production, and logistics | [2022.11](https://mp.weixin.qq.com/s/INLwwAqkHzQ2iLq-Oj7ZjA) |
