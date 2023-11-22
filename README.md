@@ -49,7 +49,7 @@ __TOC__
 | NeuralTailor | NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments | SIGGRAPH 2022 | [2201.13063](https://arxiv.org/abs/2201.13063) | - |
 | REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) |
 | HairStep | HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling | CVPR 2023 | -> | [project](https://paulyzheng.github.io/research/hairstep/) |
-| Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors | ICCV2023 | -> | [project](https://x-zhangyang.github.io/2023_Get3DHuman/) |
+| Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors |ICCV2023|->|[project](https://x-zhangyang.github.io/2023_Get3DHuman/) |
 | - | - | - | - | project |
 | - | - | - | - | project |
 | - | - | - | - | project |
