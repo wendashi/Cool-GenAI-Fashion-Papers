@@ -16,8 +16,10 @@ __TOC__
    * [Agent](#agent)
    * [Understanding](#understanding)
       * [Vision Language](#vision-language)
-      * [Segmentation, Recognition](#segmentation-recognition)    
-
+      * [Segmentation, Recognition](#segmentation-recognition)
+      * [Trend Analysis](#trend-analysis)
+      * [Retrieval](#retrieval) 
+    
 * [Related Events](#related-events)
 * [Companies](#companies)
 * [Researchers](#researchers)
@@ -37,17 +39,21 @@ __TOC__
 | - | - | - | - | project |
 | - | - | - | - | project |
 
+
 #### 3D Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| ReFU | A Repulsive Force Unit for Garment Collision Handling in Neural Networks | ECCV2022 | -> | [project](https://gamma.umd.edu/researchdirections/mlphysics/refu/) |
 | ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Registering_Explicit_to_Implicit_Towards_High-Fidelity_Garment_Mesh_Reconstruction_From_CVPR_2022_paper.pdf) | - |
+| True Seams | True Seams:Modeling Seams in Digital Garments | SIGGRAPH 2022 | -> | [project](https://gabrielcirio.gitlab.io/projects/trueseams/trueseams.html) |
+| NeuralTailor | NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments | SIGGRAPH 2022 | [2201.13063](https://arxiv.org/abs/2201.13063) | - |
 | REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) |
 | HairStep | HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling | CVPR 2023 | -> | [project](https://paulyzheng.github.io/research/hairstep/) |
-| Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors
- | ICCV2023 | -> | [project](https://x-zhangyang.github.io/2023_Get3DHuman/) |
+| Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors | ICCV2023 | -> | [project](https://x-zhangyang.github.io/2023_Get3DHuman/) |
 | - | - | - | - | project |
 | - | - | - | - | project |
 | - | - | - | - | project |
+
 
 ### Agent
 | Model | Title | Publication | Paper | Link |
@@ -68,7 +74,21 @@ __TOC__
 #### Segmentation, Recognition
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV2022 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
+| Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV2022 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
+| - | - | - | - | project |
+| - | - | - | - | project |
+
+#### Trend Analysis
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| POP | POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion | ECCV2022 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
+| - | - | - | - | project |
+| - | - | - | - | project |
+
+#### Retrieval
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| MODC | Fine-grained Fashion Representation Learning by Online Deep Clustering| ECCV2022 | [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf) | - |
 | - | - | - | - | project |
 | - | - | - | - | project |
 
