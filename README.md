@@ -1,11 +1,12 @@
 # Cool-GenAI-Fashion-Papers
+
 🕶️ Cool resources about GenAI-Fashion! (papers, workshops, companies, ...) (constantly updating)
 
 All the listed GenAI-Fashion papers have been published from 2022 onwards (including 2022).
 
-Before 2022, please refer to [Other Useful Resources](#other-useful-resources).
+For resources before 2022, please refer to [Other Useful Resources](#link-to-other-useful-resources).
 
-Feel free to send a PR or issue.
+Feel free to send a PR or open an issue.
 
 __TOC__
 * [Papers](#papers)
@@ -13,6 +14,9 @@ __TOC__
       * [2D Synthesis](#2D-synthesis)
       * [3D Synthesis](#3D-synthesis)
    * [Agent](#agent)
+   * [Understanding](#understanding)
+      * [Vision Language](#vision-language)
+      * [Segmentation, Recognition](#segmentation-recognition)    
 
 * [Related Events](#related-events)
 * [Companies](#companies)
@@ -27,9 +31,11 @@ __TOC__
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | FashionTex | FashionTex: Controllable Virtual Try-on with Text and Texture. | SIGGRAPH 2023 | [2305.04451](https://arxiv.org/abs/2305.04451) | [code](https://github.com/picksh/FashionTex)|
-| - | - | - | - | - |
-| - | - | - | - | - |
-| - | - | - | - | - |
+| Patternshop | Patternshop: Editing Point Patterns by Image Manipulation | SIGGRAPH 2023 | -> | [project](https://xchhuang.github.io/patternshop/index.html) |
+| - | - | - | - | project |
+| - | - | - | - | project |
+| - | - | - | - | project |
+| - | - | - | - | project |
 
 #### 3D Synthesis
 | Model | Title | Publication | Paper | Link |
@@ -37,17 +43,34 @@ __TOC__
 | ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Registering_Explicit_to_Implicit_Towards_High-Fidelity_Garment_Mesh_Reconstruction_From_CVPR_2022_paper.pdf) | - |
 | REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) |
 | HairStep | HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling | CVPR 2023 | -> | [project](https://paulyzheng.github.io/research/hairstep/) |
-| - | - | - | - | - |
-| - | - | - | - | - |
+| Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors
+ | ICCV2023 | -> | [project](https://x-zhangyang.github.io/2023_Get3DHuman/) |
+| - | - | - | - | project |
+| - | - | - | - | project |
+| - | - | - | - | project |
 
 ### Agent
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arXiv | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
-| - | - | - | - | - |
-| - | - | - | - | - |
+| - | - | - | - | project |
+| - | - | - | - | project |
 
+### Understanding
 
+#### Vision Language
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV2022 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
+| - | - | - | - | project |
+| - | - | - | - | project |
+
+#### Segmentation, Recognition
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV2022 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
+| - | - | - | - | project |
+| - | - | - | - | project |
 
 ## Related Events
 1. Workshop on Computer Vision for Fashion, Art, and Design [CVFAD 2023](https://sites.google.com/view/cvfad2023/home) [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
