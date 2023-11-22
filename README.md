@@ -4,7 +4,7 @@
 
 All the listed GenAI-Fashion papers have been published from 2022 onwards (including 2022).
 
-For resources before 2022, please refer to [Other Useful Resources](#other-useful-resources).
+For resources before 2022, please refer to [Other FashionAI Resources](#other-fashionai-resources).
 
 Feel free to send a PR or open an issue.
 <details>
@@ -171,15 +171,18 @@ Feel free to send a PR or open an issue.
 | [The Complete Playbook for Generative AI in Fashion](https://www.businessoffashion.com/case-studies/technology/generative-ai-playbook-machine-learning-emerging-technology/)|Bof|2023.06|
 | [Generative AI: Unlocking the future of fashion](https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion) |McKinsey|2023.03|
 
-## Other Useful Resources
+## Other FashionAI Resources
+1.  [Fashion Datasets](https://github.com/AemikaChow/DATASOURCE)
+2. [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
+3. [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
+4. [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
+5. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on)
+6. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
+7. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
+
+## Other GenAI Resources
 1. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech#table-of-content)
 2. [GAN-Inversion Survey](https://github.com/weihaox/GAN-Inversion#gan-inversion-a-survey)
 3. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap)
-4. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
-5. [Fashion Datasets](https://github.com/AemikaChow/DATASOURCE)
-6. [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
-7. [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
-8. [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
-9. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on)
-10. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
-11. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
+4. [Multimodal Image Synthesis and Editing: The Generative AI Era](https://github.com/fnzhan/Generative-AI)
+5. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
