@@ -21,6 +21,7 @@ __TOC__
       * [Trend Analysis](#trend-analysis)
       * [Retrieval](#retrieval)
       * [Fashion Compatibility](#fashion-compatibility)
+   * [Safety](#safety)
     
 * [Related Events](#related-events)
 * [Companies](#companies)
@@ -64,12 +65,15 @@ __TOC__
 | ReFU | A Repulsive Force Unit for Garment Collision Handling in Neural Networks | ECCV2022 | -> | [project](https://gamma.umd.edu/researchdirections/mlphysics/refu/) |
 | ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Registering_Explicit_to_Implicit_Towards_High-Fidelity_Garment_Mesh_Reconstruction_From_CVPR_2022_paper.pdf) | [project](https://kv2000.github.io/2022/03/28/reef/) |
 | SNUG | SNUG: Self-Supervised Neural Dynamic Garments | CVPR2022 | -> | [project](https://mslab.es/projects/SNUG/) |
+| ICON | ICON: Implicit Clothed humans Obtained from Normals | CVPR 2022 | -> | [project](https://github.com/YuliangXiu/ICON) |
+| TemporalUV | TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates | CVPR 2022 | [2204.03671](https://arxiv.org/abs/2204.03671) | - |
 | True Seams | True Seams:Modeling Seams in Digital Garments | SIGGRAPH 2022 | -> | [project](https://gabrielcirio.gitlab.io/projects/trueseams/trueseams.html) |
 | NeuralTailor | NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments | SIGGRAPH 2022 | [2201.13063](https://arxiv.org/abs/2201.13063) | - |
 | VirtualBones | Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks | SIGGRAPH 2022 | -> | [project](http://www.cad.zju.edu.cn/home/jin/SigCloth2022/SigCloth2022.htm) |
 | REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) |
 | HairStep | HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling | CVPR 2023 | -> | [project](https://paulyzheng.github.io/research/hairstep/) |
-| Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors |ICCV2023|->|[project](https://x-zhangyang.github.io/2023_Get3DHuman/) |
+| Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors |ICCV2023| -> |[project](https://x-zhangyang.github.io/2023_Get3DHuman/) |
+| ECON | ECON: Explicit Clothed humans Optimized via Normal integration | CVPR 2023 | -> | [project](https://github.com/YuliangXiu/ECON) |
 | - | - | - | - | project |
 | - | - | - | - | project |
 | - | - | - | - | project |
@@ -80,7 +84,6 @@ __TOC__
 | ----- | ----- | ----------- | ----- | ---- |
 | FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arXiv | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
 | - | - | - | - | project |
-| - | - | - | - | project |
 
 ### Understanding
 #### Vision Language
@@ -88,20 +91,17 @@ __TOC__
 | ----- | ----- | ----------- | ----- | ---- |
 | FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV2022 | -> | [project](https://github.com/BrandonHanx/mmf) |
 | - | - | - | - | project |
-| - | - | - | - | project |
 
 #### Segmentation, Recognition
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV2022 | -> | [project](https://github.com/xushilin1/FashionFormer) |
 | - | - | - | - | project |
-| - | - | - | - | project |
 
 #### Trend Analysis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | POP | POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion | ECCV2022 | -> | [project](https://github.com/HumaticsLAB/POP-Mining-POtential-Performance) |
-| - | - | - | - | project |
 | - | - | - | - | project |
 
 #### Retrieval
@@ -115,9 +115,13 @@ __TOC__
 #### Fashion Compatibility
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| A100 | How Good Is Aesthetic Ability of a Fashion Model? | CVPR2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf) | [dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data) |
+| Aesthetic 100 (Evaluation Protocol) | How Good Is Aesthetic Ability of a Fashion Model? | CVPR2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf) | [dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data) |
 | - | - | - | - | project |
 
+### Safty
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| - | Infrared Invisible Clothing: Hiding from Infrared Detectors at Multiple Angles in Real World | CVPR2022 | [2205.05909](https://arxiv.org/abs/2205.05909) | project |
 
 ## Related Events
 1. Workshop on Computer Vision for Fashion, Art, and Design [CVFAD 2023](https://sites.google.com/view/cvfad2023/home) [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
