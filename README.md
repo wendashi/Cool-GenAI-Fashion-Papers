@@ -33,12 +33,9 @@ __TOC__
 #### 3D Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh
-Reconstruction from Single Images | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Registering_Explicit_to_Implicit_Towards_High-Fidelity_Garment_Mesh_Reconstruction_From_CVPR_2022_paper.pdf) | - |
-| REC-MV | REC-MV: REconstructing 3D Dynamic Cloth
-from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) |
-| HairStep | HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling
- | CVPR 2023 | -> | [project](https://paulyzheng.github.io/research/hairstep/) |
+| ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Registering_Explicit_to_Implicit_Towards_High-Fidelity_Garment_Mesh_Reconstruction_From_CVPR_2022_paper.pdf) | - |
+| REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) |
+| HairStep | HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling | CVPR 2023 | -> | [project](https://paulyzheng.github.io/research/hairstep/) |
 | - | - | - | - | - |
 | - | - | - | - | - |
 
