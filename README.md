@@ -4,7 +4,7 @@
 
 All the listed GenAI-Fashion papers have been published from 2022 onwards (including 2022).
 
-For resources before 2022, please refer to [Other Useful Resources](#link-to-other-useful-resources).
+For resources before 2022, please refer to [Other Useful Resources](#other-useful-resources).
 
 Feel free to send a PR or open an issue.
 
