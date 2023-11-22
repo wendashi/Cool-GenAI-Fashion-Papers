@@ -21,7 +21,6 @@ __TOC__
       * [Trend Analysis](#trend-analysis)
       * [Retrieval](#retrieval)
       * [Fashion Compatibility](#fashion-compatibility)
-   * [Safety](#safety)
     
 * [Related Events](#related-events)
 * [Companies](#companies)
@@ -118,10 +117,6 @@ __TOC__
 | Aesthetic 100 (Evaluation Protocol) | How Good Is Aesthetic Ability of a Fashion Model? | CVPR2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf) | [dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data) |
 | - | - | - | - | project |
 
-### Safety
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
-| - | Infrared Invisible Clothing: Hiding from Infrared Detectors at Multiple Angles in Real World | CVPR2022 | [2205.05909](https://arxiv.org/abs/2205.05909) | project |
 
 ## Related Events
 1. Workshop on Computer Vision for Fashion, Art, and Design [CVFAD 2023](https://sites.google.com/view/cvfad2023/home) [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
@@ -175,12 +170,13 @@ __TOC__
 
 ## Other Useful Resources
 1. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech#table-of-content)
-2. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap)
-3. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
-4. [Fashion Datasets](https://github.com/AemikaChow/DATASOURCE)
-5. [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
-6. [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
-7. [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
-8. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on)
-9. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
-10. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
+2. [GAN-Inversion Survey](https://github.com/weihaox/GAN-Inversion#gan-inversion-a-survey)
+3. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap)
+4. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
+5. [Fashion Datasets](https://github.com/AemikaChow/DATASOURCE)
+6. [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
+7. [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
+8. [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
+9. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on)
+10. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
+11. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
