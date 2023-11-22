@@ -3,7 +3,7 @@
 
 All the listed papers have been published from 2022 onwards (including 2022).
 
-Before 2022, refer to [Other Useful Resources](https://github.com/wendashi/Cool-GenAI-Fashion-Papers/blob/main/README.md#other-useful-resources).
+Before 2022, refer to [Other Useful Resources](#other-useful-resources).
 
 Feel free to send a PR or issue.
 
@@ -11,8 +11,8 @@ __TOC__
 * [Papers](#papers)
     * [Synthesis](#synthesis)
 * [Related Events](#related-events)
-* [Datasets](#datasets)
 * [Companies](#companies)
+* [Researchers](#researchers)
 * [Other Useful Resources](#other-useful-resources)
 
 
@@ -38,6 +38,19 @@ __TOC__
 | [知衣 zhiyi](https://www.zhiyitech.cn/)                      | 2018  | Fashion Design Collaboration, AIGC collaborate with [西湖辰心Scietrain](https://xinchenai.com/)          | [2023.08 Fashion Diffusion](https://mp.weixin.qq.com/s/TnYEc0bl0IasEdHsYmACOA) |
 | [AIMDE-Symmpix](https://aimde.design/en) | 2023 | Fashion Pattern, 3D | [2023.11 new feature](https://mp.weixin.qq.com/s/priz3aVNByLW40hk2AdxSA) |
 
+
+## Researchers
+
+| Group/Lab/Univ                                              |Researchers |
+| ------------------------------------------------------------| -----------|
+| [GAP Lab-CUHKSZ](https://gaplab.cuhk.edu.cn/pages/publications) | [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en)|
+| [HCP-I2 Lab-SYSU](https://www.sysu-hcp.net/publications/index.html) | [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl=en),[Zhenyu Xie](https://xiezhy6.github.io/)|
+| UIUC | [Ranjitha Kumar](http://ranjithakumar.net/)|
+| [AImageLab](https://aimagelab.ing.unimore.it/imagelab/)| [Rita Cucchiara](https://scholar.google.com/citations?user=OM3sZEoAAAAJ&hl=en)|
+| The University of Utah|[Ziad Al-Halah](https://users.cs.utah.edu/~ziad/)|
+| Georgia Tech|[Devi Parikh](https://faculty.cc.gatech.edu/~parikh/)|
+| UT Austin|[Kristen Grauman](https://www.cs.utexas.edu/users/grauman/)|
+| Cornell|[Kavita Bala](https://www.cs.cornell.edu/~kb/)|
 
 
 ## Other Useful Resources
