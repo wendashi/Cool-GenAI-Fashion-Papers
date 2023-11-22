@@ -13,6 +13,7 @@ __TOC__
 * [Related Events](#related-events)
 * [Companies](#companies)
 * [Researchers](#researchers)
+* [Industy reports](#industy-reports)
 * [Other Useful Resources](#other-useful-resources)
 
 
@@ -20,12 +21,12 @@ __TOC__
 ### Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
-| Pose with style | Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN | SIGGRAPH ASIA 2021 | [[2109.06166]](https://arxiv.org/abs/2109.06166) | [[project]](https://pose-with-style.github.io/) |
-| CIT | CIT: Cloth Interactive Transformer for Virtual Try-On | arXiv | [[2104.05519]](https://arxiv.org/abs/2104.05519) | [[Amazingren / CIT]](https://github.com/Amazingren/CIT) |
+| FashionTex | FashionTex: Controllable Virtual Try-on with Text and Texture. | SIGGRAPH 2023 | [2305.04451](https://arxiv.org/abs/2305.04451) | [code](https://github.com/picksh/FashionTex)|
+| FashionMatrix | - | arXiv | [[2104.05519]](https://arxiv.org/abs/2104.05519) | -|
 
 
 ## Related Events
-1. Workshop on Computer Vision for Fashion, Art and Design [CVFAD 2023](https://sites.google.com/view/cvfad2023/home) [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
+1. Workshop on Computer Vision for Fashion, Art, and Design [CVFAD 2023](https://sites.google.com/view/cvfad2023/home) [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
 2. Workshop on Multimedia Computing towards Fashion Recommendation [MCFR 22](https://dl.acm.org/doi/abs/10.1145/3503161.3554765)
 
 
@@ -33,14 +34,14 @@ __TOC__
 
 | Name                                                         | Found | Info                                        | News                                                         |
 | ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
+| [CALA](https://ca.la/) | 2016 | fashion supply chain interface that unifies design, development, production, and logistics | [2022.11](https://mp.weixin.qq.com/s/INLwwAqkHzQ2iLq-Oj7ZjA) |
 | [Zalando Research](https://research.zalando.com/)            | 2016  | Research                                    | [2023.04 fashion assistant powered by ChatGPT](https://corporate.zalando.com/en/technology/zalando-launch-fashion-assistant-powered-chatgpt) |
-| [极睿 infimind](http://infimind.com/)                        | 2017  | Fashion Product Content, AI model           | [2023.11 interview in mandarin](https://www.bilibili.com/video/BV1iu4y1879i/?spm_id_from=333.337.search-card.all.click&vd_source=32f6f61e74ca115cbaca6bd6bb144662)  |
+| [极睿 infimind](http://infimind.com/)                        | 2017  | Fashion Product Content           | [2023.11 interview in mandarin](https://www.bilibili.com/video/BV1iu4y1879i/?spm_id_from=333.337.search-card.all.click&vd_source=32f6f61e74ca115cbaca6bd6bb144662)  |
 | [知衣 zhiyi](https://www.zhiyitech.cn/)                      | 2018  | Fashion Design Collaboration, AIGC collaborate with [西湖辰心Scietrain](https://xinchenai.com/)          | [2023.08 Fashion Diffusion](https://mp.weixin.qq.com/s/TnYEc0bl0IasEdHsYmACOA) |
+| [LALALAND](https://lalaland.ai/) | 2019 | AI model | [2023.08 collaborate with Browzwear-VStitcher](https://mp.weixin.qq.com/s/ZPGR9UhlcaGIeRFUhiG4fA) |
 | [PatternedAi](https://www.patterned.ai/) | - | Pattern Design | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
+| [Dsign.Ai](https://app.dsign.ai/) | - | Create Prints and Patterns with AI | - |
+| Vue.ai | - | - | - |
 | - | - | - | - |
 | - | - | - | - |
 | - | - | - | - |
@@ -48,6 +49,12 @@ __TOC__
 | - | - | - | - |
 | [AIMDE-Symmpix](https://aimde.design/en) | 2023 | Fashion Pattern, 3D | [2023.11 new feature](https://mp.weixin.qq.com/s/priz3aVNByLW40hk2AdxSA) |
 
+5 key elements of the fashion business value chain: 
+1. Fashion design & product development
+2. Fashion marketing
+3. E-commerce product content
+4. Supply chain and logistics
+5. 
 
 ## Researchers
 
@@ -65,6 +72,12 @@ __TOC__
 | UT Austin|[Kristen Grauman](https://www.cs.utexas.edu/users/grauman/)|
 | Cornell|[Kavita Bala](https://www.cs.cornell.edu/~kb/)|
 
+## Industry Reports
+| Reports                                              |Consulting Organization | Time |
+| ------------------------------------------------------------| -----------| -----------|
+| [Outlook for the Global and Chinese Fashion Industry in 2035](https://www.rolandberger.com/zh/Insights/Publications/2035%E5%85%A8%E7%90%83%E5%8F%8A%E4%B8%AD%E5%9B%BD%E6%97%B6%E5%B0%9A%E4%BA%A7%E4%B8%9A%E5%B1%95%E6%9C%9B.html)|Roland Berger|2023.08|
+| [The Complete Playbook for Generative AI in Fashion](https://www.businessoffashion.com/case-studies/technology/generative-ai-playbook-machine-learning-emerging-technology/)|Bof|2023.06|
+| [Generative AI: Unlocking the future of fashion](https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion) |McKinsey|2023.03|
 
 ## Other Useful Resources
 1. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech#table-of-content)
