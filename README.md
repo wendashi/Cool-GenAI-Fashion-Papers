@@ -12,10 +12,10 @@ __TOC__
    * [Synthesis](#synthesis)
       * [2D Synthesis](#2D-synthesis)
       * [3D Synthesis](#3D-synthesis)
-   * [Assistant_Agent](#assistant-agent)
+   * [Agent](#agent)
 
 * [Related Events](#related-events)
-* [Companies&Product](#companies&product)
+* [Companies](#companies)
 * [Researchers](#researchers)
 * [Industry reports](#industry-reports)
 * [Other Useful Resources](#other-useful-resources)
@@ -40,7 +40,7 @@ __TOC__
 | - | - | - | - | - |
 | - | - | - | - | - |
 
-### Assistant/Agent
+### Agent
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arXiv | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
@@ -54,7 +54,7 @@ __TOC__
 2. Workshop on Multimedia Computing towards Fashion Recommendation [MCFR 22](https://dl.acm.org/doi/abs/10.1145/3503161.3554765)
 
 
-## Companies&Product
+## Companies
 
 | Name                                                         | Found | Info                                        | News                                                         |
 | ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
