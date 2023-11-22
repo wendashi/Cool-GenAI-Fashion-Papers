@@ -10,8 +10,8 @@ Feel free to send a PR or issue.
 __TOC__
 * [Papers](#papers)
     * [Synthesis](#synthesis)
-       * [2D Synthesis](#2Dsynthesis)
-       * [3D Synthesis](#3Dsynthesis)   
+       * [2D Synthesis](#2D-synthesis)
+       * [3D Synthesis](#3D-synthesis)   
 * [Related Events](#related-events)
 * [Companies/Product](#companies/product)
 * [Researchers](#researchers)
