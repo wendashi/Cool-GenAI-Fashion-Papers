@@ -12,7 +12,7 @@ __TOC__
    * [Synthesis](#synthesis)
       * [2D Synthesis](#2D-synthesis)
       * [3D Synthesis](#3D-synthesis)
-   * [Assistant(Agent)](#Assistant(Agent))
+   * [Assistant/Agent](#assistant/agent)
 
 * [Related Events](#related-events)
 * [Companies/Product](#companies/product)
@@ -40,7 +40,7 @@ __TOC__
 | - | - | - | - | - |
 | - | - | - | - | - |
 
-### Assistant(Agent)
+### Assistant/Agent
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arXiv | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
