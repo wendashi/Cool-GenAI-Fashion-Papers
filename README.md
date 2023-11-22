@@ -41,7 +41,7 @@ __TOC__
 
 
 ## Other Useful Resources
-1. [Fashion+AI Datasets]([https://github.com/AemikaChow/AiDLab-fAshIon-Data](https://github.com/AemikaChow/DATASOURCE))
+1. [Fashion+AI Datasets](https://github.com/AemikaChow/DATASOURCE)
 2. [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers)
 3. [ayushidalmia/awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
 4. [lzhbrian/image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
