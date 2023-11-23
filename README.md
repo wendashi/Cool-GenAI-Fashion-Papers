@@ -11,26 +11,26 @@ Feel free to send a PR or open an issue.
 <details>
   <summary><h2>Table Of Content</h2></summary>  
   
-  * [Papers](#papers)
-     * [Synthesis](#synthesis)
-        * [2D Synthesis](#2D-synthesis)
-          * [Try-On](#try-on)
-        * [UV Synthesis](#UV-synthesis)
-        * [3D Synthesis](#3D-synthesis)
-     * [Agent, Assistant](#agent-assistant)
-     * [Understanding](#understanding)
-        * [Vision Language](#vision-language)
-        * [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking)
-        * [Trend Analysis](#trend-analysis)
-        * [Retrieval](#retrieval)
-        * [Fashion Compatibility](#fashion-compatibility)
-      
-  * [Related Events](#related-events)
-  * [Companies](#companies)
-  * [Researchers](#researchers)
-  * [Industry Reports](#industry-reports)
-  * [Other FashionAI Resources](#other-fashionai-resources)
-  * [Other GenAI Resources](#other-genai-resources)
+* [Papers](#papers)
+   * [Synthesis](#synthesis)
+      * [2D Synthesis](#2D-synthesis)
+        * [Try-On](#try-on)
+      * [UV Synthesis](#UV-synthesis)
+      * [3D Synthesis](#3D-synthesis)
+   * [Agent, Assistant](#agent-assistant)
+   * [Understanding](#understanding)
+      * [Vision Language](#vision-language)
+      * [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking)
+      * [Trend Analysis](#trend-analysis)
+      * [Retrieval](#retrieval)
+      * [Fashion Compatibility](#fashion-compatibility)
+    
+* [Related Events](#related-events)
+* [Companies](#companies)
+* [Researchers](#researchers)
+* [Industry Reports](#industry-reports)
+* [Other FashionAI Resources](#other-fashionai-resources)
+* [Other GenAI Resources](#other-genai-resources)
   
 </details>
 
