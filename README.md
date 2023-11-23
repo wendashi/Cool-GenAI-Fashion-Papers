@@ -16,7 +16,7 @@ Feel free to send a PR or open an issue.
           * [Try-On](#try-on)
         * [UV Synthesis](#UV-synthesis)
         * [3D Synthesis](#3D-synthesis)
-     * [Agent](#agent)
+     * [Agent, Assistant](#agent-assistant)
      * [Understanding](#understanding)
         * [Vision Language](#vision-language)
         * [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking)
@@ -40,23 +40,23 @@ Feel free to send a PR or open an issue.
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | ARMANI | ARMANI: Part-level Garment-Text Alignment for Unified Cross-Modal Fashion Design | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548230) | - |
-| SketchEdit | SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches | CVPR2022 | -> | [project](https://zengxianyu.github.io/sketchedit/) |
-| VolumeGAN | 3D-aware Image Synthesis via Learning Structural and Textural Representations | CVPR2022 | -> | [project](https://genforce.github.io/volumegan/) |
+| AI Carpet | AI Carpet: Automatic Generation of Aesthetic Carpet Pattern | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547734) | - |
+| SketchEdit | SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches | CVPR 2022 | -> | [project](https://zengxianyu.github.io/sketchedit/) |
+| VolumeGAN | 3D-aware Image Synthesis via Learning Structural and Textural Representations | CVPR 2022 | -> | [project](https://genforce.github.io/volumegan/) |
 | FashionTex | FashionTex: Controllable Virtual Try-on with Text and Texture. | SIGGRAPH 2023 | [2305.04451](https://arxiv.org/abs/2305.04451) | [code](https://github.com/picksh/FashionTex)|
 | Patternshop | Patternshop: Editing Point Patterns by Image Manipulation | SIGGRAPH 2023 | -> | [project](https://xchhuang.github.io/patternshop/index.html) |
-| MGD | Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing | ICCV2023 | [2304.02051](https://arxiv.org/abs/2304.02051) | [code](https://github.com/aimagelab/multimodal-garment-designer) |
-| FreeDoM | FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | ICCV2023 | [2303.09833](https://arxiv.org/abs/2303.09833) | [code](https://github.com/vvictoryuki/FreeDoM) |
-| BoxDiff | BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | ICCV2023 | [2307.10816](https://arxiv.org/abs/2307.10816) | [code](https://github.com/showlab/BoxDiff) |
+| MGD | Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing | ICCV 2023 | [2304.02051](https://arxiv.org/abs/2304.02051) | [code](https://github.com/aimagelab/multimodal-garment-designer) |
+| FreeDoM | FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | ICCV 2023 | [2303.09833](https://arxiv.org/abs/2303.09833) | [code](https://github.com/vvictoryuki/FreeDoM) |
+| BoxDiff | BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | ICCV 2023 | [2307.10816](https://arxiv.org/abs/2307.10816) | [code](https://github.com/showlab/BoxDiff) |
 | ControlNet | Adding Conditional Control to Text-to-Image Diffusion Models | ICCV2023 | [2302.05543](https://arxiv.org/abs/2302.05543) | [code](https://github.com/lllyasviel/ControlNet) |
-| PromptStyler | PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization | ICCV2023 | -> | [project](https://promptstyler.github.io/) |
-| VectorFusion | VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models | CVPR2023 | -> | [project](https://ajayj.com/vectorfusion),[unofficial code](https://github.com/ximinng/VectorFusion-pytorch) |
+| PromptStyler | PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization | ICCV 2023 | -> | [project](https://promptstyler.github.io/) |
+| VectorFusion | VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models | CVPR 2023 | -> | [project](https://ajayj.com/vectorfusion),[unofficial code](https://github.com/ximinng/VectorFusion-pytorch) |
 | DiffSketcher | DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models | NIPS 2023 | -> | [project](https://ximinng.github.io/DiffSketcher-project/) |
 | SGDiff | SGDiff: A Style Guided Diffusion Model for Fashion Synthesis | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3613806) | - |
 | FashionDiff | FashionDiff: A Controllable Diffusion Model Using Pairwise Fashion Elements for Intelligent Design | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612127) | - |
 | InspirNET | InspirNET: An Unsupervised Generative Adversarial Network with Controllable Fine-grained Texture Disentanglement for Fashion Generation | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612130) | - |
 | - | Toward Intelligent Interactive Design: A Generation Framework Based on Cross-domain Fashion Elements | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612376) | - |
-| - | - | - | - | project |
-
+| EditAnything | EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation | MM 2023 | -> | [project](https://github.com/sail-sg/EditAnything) |
 
 ##### Try-On
 | Model | Title | Publication | Paper | Link |
@@ -73,27 +73,22 @@ Feel free to send a PR or open an issue.
 | GP-VTON | GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning | CVPR 2023 | -> | [project](https://github.com/xiezhy6/GP-VTON) |
 | LaDI-VTON | LaDI-VTON:Latent Diffusion Textual-Inversion Enhanced Virtual Try-On | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612137) | [code](https://github.com/miccunifi/ladi-vton) |
 | DCI-VTON | Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612255) | [code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) |
-| - | - | - | - | project |
-| - | - | - | - | project |
-
 
 #### UV Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | TemporalUV | TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates | CVPR 2022 | [2204.03671](https://arxiv.org/abs/2204.03671) | - |
 | - | Normal-guided Garment UV Prediction for Human Re-texturing | CVPR 2023 | [2303.06504](https://arxiv.org/abs/2303.06504) | - |
-| - | - | - | - | project |
-| - | - | - | - | project |
 
 #### 3D Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | CrossHuman | CrossHuman: Learning Cross-guidance from Multi-frame Images for Human Reconstruction | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548351) | - |
-| ReFU | A Repulsive Force Unit for Garment Collision Handling in Neural Networks | ECCV2022 | -> | [project](https://gamma.umd.edu/researchdirections/mlphysics/refu/) |
+| ReFU | A Repulsive Force Unit for Garment Collision Handling in Neural Networks | ECCV 2022 | -> | [project](https://gamma.umd.edu/researchdirections/mlphysics/refu/) |
 | ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images | CVPR 2022 | -> | [project](https://kv2000.github.io/2022/03/28/reef/) |
-| SNUG | SNUG: Self-Supervised Neural Dynamic Garments | CVPR2022 | -> | [project](https://mslab.es/projects/SNUG/) |
+| SNUG | SNUG: Self-Supervised Neural Dynamic Garments | CVPR 2022 | -> | [project](https://mslab.es/projects/SNUG/) |
 | ICON | ICON: Implicit Clothed humans Obtained from Normals | CVPR 2022 | -> | [project](https://github.com/YuliangXiu/ICON) |
-| PHORHUM | Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing | CVPR2022 | -> | [project](https://phorhum.github.io/) |
+| PHORHUM | Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing | CVPR 2022 | -> | [project](https://phorhum.github.io/) |
 | True Seams | True Seams:Modeling Seams in Digital Garments | SIGGRAPH 2022 | -> | [project](https://gabrielcirio.gitlab.io/projects/trueseams/trueseams.html) |
 | NeuralTailor | NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments | SIGGRAPH 2022 | [2201.13063](https://arxiv.org/abs/2201.13063) | - |
 | VirtualBones | Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks | SIGGRAPH 2022 | -> | [project](http://www.cad.zju.edu.cn/home/jin/SigCloth2022/SigCloth2022.htm) |
@@ -111,15 +106,14 @@ Feel free to send a PR or open an issue.
 | SeSDF | SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_SeSDF_Self-Evolved_Signed_Distance_Field_for_Implicit_3D_Clothed_Human_CVPR_2023_paper.pdf) | - |
 | HOOD | HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics | CVPR 2023 | -> | [project](https://dolorousrtur.github.io/hood/) |
 | xCloth | xCloth: Extracting Template-free Textured 3D Clothes from a Monocular Image | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548419) | - |
-| - | - | - | -> | project |
-| - | - | - | -> | project |
-| - | - | - | -> | project |
+| AvatarFusion | AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612022) | [project](https://hansenhuang0823.github.io/AvatarFusion/) |
+| Control3D | Control3D: Towards Controllable Text-to-3D Generation | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612489) | - |
 
-### Agent
+### Agent, Assistant
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| - | A Conversational Shopping Assistant for Online Virtual Stores | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547738) | - |
 | FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arXiv | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
-| - | - | - | - | project |
 
 ### Understanding
 #### Vision Language
@@ -128,8 +122,6 @@ Feel free to send a PR or open an issue.
 | FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV 2022 | -> | [project](https://github.com/BrandonHanx/mmf) |
 | FAME-ViL | FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks | CVPR 2023 | -> | [project](https://github.com/BrandonHanx/FAME-ViL) |
 | FashionSAP | FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training | CVPR 2023 | -> | [project](https://github.com/hssip/FashionSAP) |
-| - | - | - | - | project |
-| - | - | - | - | project |
 
 
 #### Segmentation, Recognition, Tracking
@@ -142,7 +134,6 @@ Feel free to send a PR or open an issue.
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | POP | POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion | ECCV 2022 | -> | [project](https://github.com/HumaticsLAB/POP-Mining-POtential-Performance) |
-| - | - | - | - | project |
 
 #### Retrieval
 | Model | Title | Publication | Paper | Link |
@@ -153,9 +144,6 @@ Feel free to send a PR or open an issue.
 | M3-Net | Learning Attribute and Class-Specific Representation Duet for Fine-grained Fashion Analysis | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf) | - |
 | Fashion-GPT | Fashion-GPT: Integrating LLMs with Fashion Retrieval System | LGM3A '23 (MM 2023 workshop) | - | project |
 | - | Dynamic Network for Language-based Fashion Retrieval | MMIR ’23 (MM 2023 workshop)  | [paper](https://dl.acm.org/doi/10.1145/3606040.3617438) | - |
-| - | - | - | - | project |
-| - | - | - | - | project |
-
 
 
 #### Fashion Compatibility
@@ -165,8 +153,6 @@ Feel free to send a PR or open an issue.
 | BiHGH | Bi-directional Heterogeneous Graph Hashing towards Efficient Outfit Recommendation | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548020) | - |
 | CP-TransMatch | Modeling Multi-Relational Connectivity for Personalized Fashion Matching | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612583) | - |
 | FCBoost-Net | FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612036) | - |
-| - | - | - | - | project |
-| - | - | - | - | project |
 
 
 ## Related Events
@@ -194,11 +180,6 @@ Feel free to send a PR or open an issue.
 | [Unbound](https://www.unboundml.com/) | - | personal AI business assistant | - |
 | [Zeg AI](https://www.zeg.ai/)| 2018 | AI Product Content, Videos, 3D Render | - |
 | - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
-
 
 ## Researchers
 
