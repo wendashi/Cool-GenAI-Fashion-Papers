@@ -8,10 +8,8 @@ For resources before 2022, please refer to [Other FashionAI Resources](#other-fa
 
 Feel free to send a PR or open an issue.
 
-# Your Extra Title
 <details>
-  <summary>Table Of Content</summary>
-  
+  <summary><h2>Table Of Content</h2></summary>  
   * [Papers](#papers)
      * [Synthesis](#synthesis)
         * [2D Synthesis](#2D-synthesis)
