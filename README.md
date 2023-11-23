@@ -62,6 +62,8 @@ Feel free to send a PR or open an issue.
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | - | A High-resolution Image-based Virtual Try-on System in Taobao E-commerce Scenario | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547740) | - |
+| GT-MUST | GT-MUST: Gated Try-on by Learning the Mannequin-Specific Transformation | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547775) | - |
+| PL-VTON | Progressive Limb-Aware Virtual Try-On | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547999) | - |
 | wFlow | Dressing in the Wild by Watching Dance Videos | CVPR 2022 | -> | [project](https://awesome-wflow.github.io/) |
 | ClothFormer | ClothFormer: Taming Video Virtual Try-on in All Module | CVPR 2022 | -> | [project](https://cloth-former.github.io/) |
 | Flow-Style-VTON | Style-Based Global Appearance Flow for Virtual Try-On | CVPR 2022 | -> | [project](https://github.com/SenHe/Flow-Style-VTON/) |
@@ -69,7 +71,8 @@ Feel free to send a PR or open an issue.
 | DGP | Weakly Supervised High-Fidelity Clothing Model Generation | CVPR 2022 | [2112.07200](https://arxiv.org/abs/2112.07200) | - |
 |  SAL-VTON | Linking Garment with Person via Semantically Associated Landmarks for Virtual Try-On | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.pdf) | [project](https://modelscope.cn/datasets/damo/SAL-HG/summary) |
 | GP-VTON | GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning | CVPR 2023 | -> | [project](https://github.com/xiezhy6/GP-VTON) |
-| - | - | - | - | project |
+| LaDI-VTON | LaDI-VTON:Latent Diffusion Textual-Inversion Enhanced Virtual Try-On | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612137) | [code](https://github.com/miccunifi/ladi-vton) |
+| DCI-VTON | Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612255) | [code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) |
 | - | - | - | - | project |
 | - | - | - | - | project |
 
@@ -85,6 +88,7 @@ Feel free to send a PR or open an issue.
 #### 3D Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
+| CrossHuman | CrossHuman: Learning Cross-guidance from Multi-frame Images for Human Reconstruction | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548351) | - |
 | ReFU | A Repulsive Force Unit for Garment Collision Handling in Neural Networks | ECCV2022 | -> | [project](https://gamma.umd.edu/researchdirections/mlphysics/refu/) |
 | ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images | CVPR 2022 | -> | [project](https://kv2000.github.io/2022/03/28/reef/) |
 | SNUG | SNUG: Self-Supervised Neural Dynamic Garments | CVPR2022 | -> | [project](https://mslab.es/projects/SNUG/) |
@@ -106,8 +110,10 @@ Feel free to send a PR or open an issue.
 | DIFu | DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction | CVPR 2023 | -> | [project](https://eadcat.github.io/DIFu/) |
 | SeSDF | SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_SeSDF_Self-Evolved_Signed_Distance_Field_for_Implicit_3D_Clothed_Human_CVPR_2023_paper.pdf) | - |
 | HOOD | HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics | CVPR 2023 | -> | [project](https://dolorousrtur.github.io/hood/) |
-| - | - | CVPR 2023 | -> | project |
-| - | - | CVPR 2023 | -> | project |
+| xCloth | xCloth: Extracting Template-free Textured 3D Clothes from a Monocular Image | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548419) | - |
+| - | - | - | -> | project |
+| - | - | - | -> | project |
+| - | - | - | -> | project |
 
 ### Agent
 | Model | Title | Publication | Paper | Link |
@@ -122,7 +128,6 @@ Feel free to send a PR or open an issue.
 | FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV 2022 | -> | [project](https://github.com/BrandonHanx/mmf) |
 | FAME-ViL | FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks | CVPR 2023 | -> | [project](https://github.com/BrandonHanx/FAME-ViL) |
 | FashionSAP | FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training | CVPR 2023 | -> | [project](https://github.com/hssip/FashionSAP) |
-| - | Fine-tuning with Multi-modal Entity Prompts for News Image Captioning | - | - | project |
 | - | - | - | - | project |
 | - | - | - | - | project |
 
@@ -181,8 +186,8 @@ Feel free to send a PR or open an issue.
 | [PatternedAi](https://www.patterned.ai/) | 2021 | Pattern Design | - |
 | [Dsign.Ai](https://app.dsign.ai/) | - | Prints and Patterns Design | - |
 | [AIMDE-Symmpix](https://aimde.design/en) | 2023 | Fashion Pattern, 3D | [2023.11 new feature](https://mp.weixin.qq.com/s/priz3aVNByLW40hk2AdxSA) |
-| [Weshop](https://www.weshop.com/) | 2023 | AI model & Fashion Product Content | a subsidiary of [MOGU](https://www.mogu.com/)  |
-| [Wondershare VirtuLook](https://virtulook.wondershare.com/) | 2023 | AI model & Fashion Product Content | a subsidiary of [wondershare](https://www.wondershare.com/)|
+| [Weshop](https://www.weshop.com/) | 2023 | AI avatar & Fashion Product Content | a subsidiary of [MOGU](https://www.mogu.com/)  |
+| [Wondershare VirtuLook](https://virtulook.wondershare.com/) | 2023 | AI avatar & Fashion Product Content | a subsidiary of [wondershare](https://www.wondershare.com/)|
 | [Pixelcut](https://www.pixelcut.ai/) | 2022 | AI-powered editing tools(Product Content) | - |
 | [CreatorKit](https://creatorkit.com/) | 2020 | AI Product Content, Videos | - |
 | [DeepImage](https://deep-image.ai/) | 2022 | AI Product Content | - |
