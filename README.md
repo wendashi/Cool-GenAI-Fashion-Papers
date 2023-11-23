@@ -7,8 +7,10 @@ All the listed GenAI-Fashion papers have been published from 2022 onwards (inclu
 For resources before 2022, please refer to [Other FashionAI Resources](#other-fashionai-resources).
 
 Feel free to send a PR or open an issue.
+
+# Your Extra Title
 <details>
-  <summary>## Table Of Content</summary>
+  <summary>Table Of Content</summary>
   
   * [Papers](#papers)
      * [Synthesis](#synthesis)
