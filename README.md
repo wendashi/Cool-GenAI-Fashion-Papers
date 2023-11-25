@@ -220,7 +220,7 @@ Feel free to send a PR or open an issue.
 7. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
 
 ## Other GenAI Resources
-1. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech#table-of-content)
+1. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech)
 2. [GAN-Inversion Survey](https://github.com/weihaox/GAN-Inversion#gan-inversion-a-survey)
 3. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap)
 4. [Multimodal Image Synthesis and Editing: The Generative AI Era](https://github.com/fnzhan/Generative-AI)
