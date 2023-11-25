@@ -47,6 +47,7 @@ Feel free to send a PR or open an issue.
 | FashionTex | FashionTex: Controllable Virtual Try-on with Text and Texture. | SIGGRAPH 2023 | [2305.04451](https://arxiv.org/abs/2305.04451) | [code](https://github.com/picksh/FashionTex)|
 | Patternshop | Patternshop: Editing Point Patterns by Image Manipulation | SIGGRAPH 2023 | -> | [project](https://xchhuang.github.io/patternshop/index.html) |
 | MGD | Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing | ICCV 2023 | [2304.02051](https://arxiv.org/abs/2304.02051) | [code](https://github.com/aimagelab/multimodal-garment-designer) |
+| UnitedHuman | UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation | ICCV 2023 | -> | [project](https://unitedhuman.github.io/) |
 | FreeDoM | FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | ICCV 2023 | [2303.09833](https://arxiv.org/abs/2303.09833) | [code](https://github.com/vvictoryuki/FreeDoM) |
 | BoxDiff | BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | ICCV 2023 | [2307.10816](https://arxiv.org/abs/2307.10816) | [code](https://github.com/showlab/BoxDiff) |
 | ControlNet | Adding Conditional Control to Text-to-Image Diffusion Models | ICCV2023 | [2302.05543](https://arxiv.org/abs/2302.05543) | [code](https://github.com/lllyasviel/ControlNet) |
@@ -111,7 +112,7 @@ Feel free to send a PR or open an issue.
 | Control3D | Control3D: Towards Controllable Text-to-3D Generation | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612489) | - |
 | GTA | Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction | NIPS 2023 | -> | [project](https://river-zhang.github.io/GTA-projectpage/) |
 | SynBody | SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling | ICCV 2023 | -> | [project](https://synbody.github.io/) |
-
+| EVA3D | EVA3D: Compositional 3D Human Generation from 2D Image Collections | ICLR 2023 | -> | [project](https://hongfz16.github.io/projects/EVA3D.html) |
 
 ### Agent, Assistant
 | Model | Title | Publication | Paper | Link |
