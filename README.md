@@ -2,8 +2,7 @@
 
 🕶️ Cool resources about GenAI-Fashion! (papers, workshops, companies, ...) (constantly updating)
 
-> Generative AI (GenAI) allows users to input a variety of prompts to generate a variety of novel content, such as text, images, videos, music, speech, code, 3D designs, and other media. It learns from existing artifacts to generate new, realistic artifacts (at scale) that reflect the characteristics of the training data but don’t repeat it.
-> <div style="text-align: right;">— Written by Coursera • Updated on Nov 2, 2023 </div>
+> Generative AI (GenAI) allows users to input a variety of prompts to generate a variety of novel content, such as text, images, videos, music, speech, code, 3D designs, and other media. It learns from existing artifacts to generate new, realistic artifacts (at scale) that reflect the characteristics of the training data but don’t repeat it. <div style="text-align: right;">— Coursera Nov 2, 2023 </div>
 
 
 All the listed GenAI-Fashion papers have been published from 2022 onwards (including 2022).
