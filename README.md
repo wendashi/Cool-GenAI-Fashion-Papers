@@ -230,4 +230,4 @@ Feel free to send a PR or open an issue.
 3. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap)
 4. [Multimodal Image Synthesis and Editing: The Generative AI Era](https://github.com/fnzhan/Generative-AI)
 5. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
-6. [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)https://github.com/WooooDyy/LLM-Agent-Paper-List
+6. [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
