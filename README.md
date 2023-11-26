@@ -225,9 +225,13 @@ Feel free to send a PR or open an issue.
 8. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
 
 ## Other GenAI Resources
-1. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech)
-2. [GAN-Inversion Survey](https://github.com/weihaox/GAN-Inversion#gan-inversion-a-survey)
-3. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap)
-4. [Multimodal Image Synthesis and Editing: The Generative AI Era](https://github.com/fnzhan/Generative-AI)
-5. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
+1. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap)
+2. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
+3. [Multimodal Image Synthesis and Editing: The Generative AI Era](https://github.com/fnzhan/Generative-AI)
+4. [GAN-Inversion Survey](https://github.com/weihaox/GAN-Inversion#gan-inversion-a-survey)
+5. [LLM Survey](https://github.com/RUCAIBox/LLMSurvey)
 6. [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+7. [A Survey on Deep Generative 3D-aware Image Synthesis](https://weihaox.github.io/3D-aware-Gen/)
+8. [Awesome 3D Generation](https://github.com/justimyhxu/awesome-3D-generation)
+9. [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arxiv.org/abs/2305.06131)
+10. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech)
