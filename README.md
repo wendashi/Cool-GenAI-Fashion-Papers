@@ -39,7 +39,7 @@ Feel free to send a PR or open an issue.
 ### Synthesis
 #### 2D Synthesis
 
-| Model | Title | Publication | Paper | Link | Nationality |
+| Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | ARMANI | ARMANI: Part-level Garment-Text Alignment for Unified Cross-Modal Fashion Design | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548230) | - | China |
 | AI Carpet | AI Carpet: Automatic Generation of Aesthetic Carpet Pattern | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547734) | - | China |
