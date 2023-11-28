@@ -208,7 +208,7 @@ Feel free to send a PR or open an issue.
 | Cornell|[Kavita Bala](https://www.cs.cornell.edu/~kb/)|
 
 ## Industry Reports
-| Reports                                              |Consulting Organization | Time |
+| Reports                                              |Organization | Time |
 | ------------------------------------------------------------| -----------| -----------|
 | [Generative AI’s Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/) | SEQUOIA | 2023.09 |
 | [How Are Consumers Using Generative AI?](https://a16z.com/how-are-consumers-using-generative-ai/)| A16Z | 2023.09 |
