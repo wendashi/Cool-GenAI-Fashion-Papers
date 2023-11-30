@@ -1,6 +1,6 @@
 # 🕶️ Cool-GenAI-Fashion-Papers
 
-🧢🕶️🥼👖👟🧳 Cool resources about GenAI-Fashion! (papers, workshops, companies, ...) (constantly updating)
+🧢🕶️🥼👖👟🧳 Cool resources about GenAI-Fashion! (📝papers, 🛠️workshops, 🚀companies & products, ...) (constantly updating)
 
 All the listed GenAI-Fashion papers have been published from 2022 onwards (including 2022).
 
@@ -11,7 +11,7 @@ Feel free to send a PR or open an issue.
 <details>
   <summary><h2>Table Of Content</h2></summary>  
   
-* [Papers](#papers)
+* [📝Papers](#papers)
    * [Synthesis](#synthesis)
       * [2D Synthesis](#2D-synthesis)
         * [Try-On](#try-on)
@@ -25,8 +25,8 @@ Feel free to send a PR or open an issue.
       * [Retrieval](#retrieval)
       * [Fashion Compatibility](#fashion-compatibility)
     
-* [Related Events](#related-events)
-* [Companies](#companies)
+* [🛠️Workshops](#workshops)
+* [🚀Companies,Products](#companies-products)
 * [Researchers](#researchers)
 * [Industry Reports](#industry-reports)
 * [Other FashionAI Resources](#other-fashionai-resources)
@@ -35,7 +35,7 @@ Feel free to send a PR or open an issue.
 </details>
 
 
-## Papers
+## 📝Papers
 ### Synthesis
 #### 2D Synthesis
 
@@ -167,13 +167,13 @@ Feel free to send a PR or open an issue.
 | FCBoost-Net | FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612036) | - |
 
 
-## Related Events
+## 🛠️Workshops
 1. Workshop on Computer Vision for Fashion, Art, and Design (CVPR Workshop): [CVFAD 2023](https://sites.google.com/view/cvfad2023/home), [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
 2. Workshop on Multimedia Computing towards Fashion Recommendation (ACM MM Workshop): [MCFR 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3554765)
 3. Machine Learning for Creativity and Design (NeurIPS Workshop): [ML4CD 2023](https://neuripscreativityworkshop.github.io/2023/), [ML4CD 2022](https://neuripscreativityworkshop.github.io/2022/)
 
 
-## Companies
+## 🚀Companies,Products
 | Name                                                         | Found | Info                                        | News                                                         |
 | ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
 | [CALA](https://ca.la/) | 2016 | fashion supply chain interface that unifies design, development, production, and logistics | [2022.11](https://mp.weixin.qq.com/s/INLwwAqkHzQ2iLq-Oj7ZjA) |
