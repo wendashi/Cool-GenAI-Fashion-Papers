@@ -25,8 +25,8 @@ Feel free to send a PR or open an issue.
       * [Retrieval](#retrieval)
       * [Fashion Compatibility](#fashion-compatibility)
     
-* [🛠️Workshops](#workshops)
-* [🚀Companies,Products](#companies-products)
+* [🛠Workshops](#workshops)
+* [🚀Companies&Products](#companies-products)
 * [Researchers](#researchers)
 * [Industry Reports](#industry-reports)
 * [Other FashionAI Resources](#other-fashionai-resources)
@@ -173,7 +173,7 @@ Feel free to send a PR or open an issue.
 3. Machine Learning for Creativity and Design (NeurIPS Workshop): [ML4CD 2023](https://neuripscreativityworkshop.github.io/2023/), [ML4CD 2022](https://neuripscreativityworkshop.github.io/2022/)
 
 
-## 🚀Companies,Products
+## 🚀Companies, Products
 | Name                                                         | Found | Info                                        | News                                                         |
 | ------------------------------------------------------------ | ----- | ------------------------------------------- | ------------------------------------------------------------ |
 | [CALA](https://ca.la/) | 2016 | fashion supply chain interface that unifies design, development, production, and logistics | [2022.11](https://mp.weixin.qq.com/s/INLwwAqkHzQ2iLq-Oj7ZjA) |
