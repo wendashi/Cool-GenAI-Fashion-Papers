@@ -26,7 +26,7 @@ Feel free to send a PR or open an issue.
       * [Fashion Compatibility](#fashion-compatibility)
     
 * [🛠️Workshops](#workshops)
-* [🚀Companies&Products](#companies-products)
+* [🚀Companies, Products](#companies-products)
 * [Researchers](#researchers)
 * [Industry Reports](#industry-reports)
 * [Other FashionAI Resources](#other-fashionai-resources)
