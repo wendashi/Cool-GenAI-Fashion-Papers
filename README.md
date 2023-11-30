@@ -25,7 +25,7 @@ Feel free to send a PR or open an issue.
       * [Retrieval](#retrieval)
       * [Fashion Compatibility](#fashion-compatibility)
     
-* [🛠️Workshops](#workshops)
+* [🛠️Workshops](#🛠️workshops)
 * [🚀Companies, Products](#companies-products)
 * [Researchers](#researchers)
 * [Industry Reports](#industry-reports)
