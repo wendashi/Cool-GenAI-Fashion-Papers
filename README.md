@@ -2,7 +2,7 @@
 
 🧢🕶️🥼👖👟🧳 Cool resources about GenAI-Fashion! (📝papers, 👀workshops, 🚀companies & products, ...) (constantly updating)
 
-All the listed GenAI-Fashion papers have been published from 2022 onwards (including 2022).
+All the GenAI-Fashion papers listed have been published starting from 2022 (including 2022).
 
 For resources before 2022, please refer to [Other FashionAI Resources](#other-fashionai-resources).
 
@@ -61,6 +61,7 @@ Feel free to send a PR or open an issue.
 | - | Toward Intelligent Interactive Design: A Generation Framework Based on Cross-domain Fashion Elements | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612376) | - | China |
 | EditAnything | EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612680) | [project](https://github.com/sail-sg/EditAnything) | China |
 | GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | arXiv | -> | [project](https://gpt4motion.github.io/) | China |
+| Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | arXiv | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
 
 
 ##### Try-On
