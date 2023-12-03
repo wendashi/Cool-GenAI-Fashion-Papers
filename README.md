@@ -8,21 +8,22 @@ For resources before 2022, please refer to [Other FashionAI Resources](#other-fa
 
 Feel free to send a PR or open an issue.
 
+  
 <details>
   <summary><h2>Table Of Content</h2></summary>  
-  
-| Category | Subcategory | Subcategory | Subcategory |
-|----------|-------------|-------------|-------------|
+
+| Category | Subcategory | Sub-subcategory | Sub-sub-subcategory |
+|----------|-------------|-----------------|---------------------|
 | [📝Papers](#papers) | [Generation](#generation)  | [2D](#2D)          | [Try-On](#try-on)      |
-|          |              | [Video](#video)       |             |
-|          |              | [UV](#uv)          |             |
-|          |              | [3D](#3d)          | [Reconstruction](#reconstruction) |
-|          | [Agent, Assistant](#agent-assistant) |             |             |
-|          | [Understanding](#understanding)    | [Vision Language](#vision-language) |           |
-|          |                  | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | |
-|          |                  | [Trend Analysis](#trend-analysis) |               |
-|          |                  | [Retrieval](#retrieval)      |               |
-|          |                  | [Fashion Compatibility](#fashion-compatibility) |        |
+| | | | [Video](#video)       |
+| | | | [UV](#uv)          |
+| | | [3D](#3d)          | [Reconstruction](#reconstruction) |
+| | [Agent, Assistant](#agent-assistant) |             |             |
+| | [Understanding](#understanding)    | [Vision Language](#vision-language) |           |
+| | | | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) |
+| | | | [Trend Analysis](#trend-analysis) |
+| | | | [Retrieval](#retrieval)      |
+| | | | [Fashion Compatibility](#fashion-compatibility) |
 | [👀Workshops](#workshops) |              |             |             |
 | [🚀Companies, Products](#companies-products) |     |             |             |
 | [Researchers](#researchers) |             |             |             |
@@ -31,7 +32,6 @@ Feel free to send a PR or open an issue.
 | [Other GenAI Resources](#other-genai-resources) |     |             |             |
   
 </details>
-
 
 
 ## 📝Papers
