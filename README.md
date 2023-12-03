@@ -10,7 +10,7 @@ Feel free to send a PR or open an issue.
 
   
 <details>
-  <summary>Table Of Content</summary>
+  <summary>*Table Of Content</summary>
   <ul>
     <li><a href="#papers">📝Papers</a></li>
   </ul>
