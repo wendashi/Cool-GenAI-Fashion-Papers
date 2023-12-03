@@ -12,7 +12,7 @@ Feel free to send a PR or open an issue.
   <summary><h2>Table Of Content</h2></summary>  
   
 * [📝Papers](#papers)
-   * [Synthesis](#synthesis)
+   * [Generation](#generation)
       * [2D](#2D)
         * [Try-On](#try-on)
       * [Video](#Video)
@@ -38,7 +38,7 @@ Feel free to send a PR or open an issue.
 
 
 ## 📝Papers
-### Synthesis
+### Generation
 #### 2D
 
 | Model | Title | Publication | Paper | Link | Region |
