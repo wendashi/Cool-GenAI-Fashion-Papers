@@ -14,9 +14,9 @@ Feel free to send a PR or open an issue.
 * [📝Papers](#papers)
    * [Synthesis](#synthesis)
       * [2D](#2D)
-        * [Try-On](#try-on)
+        * [Try-On(2D)](#try-on(2d))
       * [Video](#Video)
-        * [Try-On](#try-on)
+        * [Try-On(video)](#try-on(video))
       * [UV](#UV)
       * [3D](#3D)
         * [Reconstruction](#reconstruction)
@@ -66,7 +66,7 @@ Feel free to send a PR or open an issue.
 | - | Toward Intelligent Interactive Design: A Generation Framework Based on Cross-domain Fashion Elements | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612376) | - | China |
 | EditAnything | EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612680) | [project](https://github.com/sail-sg/EditAnything) | China |
 
-##### Try-On
+##### Try-On(2D)
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | - | A High-resolution Image-based Virtual Try-on System in Taobao E-commerce Scenario | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547740) | - |
@@ -86,7 +86,7 @@ Feel free to send a PR or open an issue.
 | GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | arXiv | -> | [project](https://gpt4motion.github.io/) | China |
 | Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | arXiv | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
 
-##### Try-On
+##### Try-On(Video)
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | wFlow | Dressing in the Wild by Watching Dance Videos | CVPR 2022 | -> | [project](https://awesome-wflow.github.io/) |
