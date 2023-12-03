@@ -10,7 +10,7 @@ Feel free to send a PR or open an issue.
 
   
 <details>
-  <summary>*Table Of Content</summary>
+  <summary>Table Of Content</summary>
   <ul>
     <li><a href="#papers">📝Papers</a></li>
   </ul>
@@ -29,10 +29,53 @@ Feel free to send a PR or open an issue.
         <td><a href="#try-on">Try-On</a></td>
       </tr>
       <tr>
-        <!-- Continue adding rows for other items -->
+        <td></td> <!-- Empty cell for Category -->
+        <td><a href="#Video">Video</a></td>
+        <td></td> <!-- Empty cell for Sub-subcategory -->
+      </tr>
+      <tr>
+        <td></td> <!-- Empty cell for Category -->
+        <td><a href="#UV">UV</a></td>
+        <td></td> <!-- Empty cell for Sub-subcategory -->
+      </tr>
+      <tr>
+        <td></td> <!-- Empty cell for Category -->
+        <td><a href="#3D">3D</a></td>
+        <td><a href="#reconstruction">Reconstruction</a></td>
+      </tr>
+      <tr>
+        <td><a href="#agent-assistant">Agent, Assistant</a></td>
+        <td></td> <!-- Empty cell for Subcategory -->
+        <td></td> <!-- Empty cell for Sub-subcategory -->
+      </tr>
+      <tr>
+        <td><a href="#understanding">Understanding</a></td>
+        <td><a href="#vision-language">Vision Language</a></td>
+        <td></td> <!-- Empty cell for Sub-subcategory -->
+      </tr>
+      <tr>
+        <td></td> <!-- Empty cell for Category -->
+        <td><a href="#segmentation-recognition-tracking">Segmentation, Recognition, Tracking</a></td>
+        <td></td> <!-- Empty cell for Sub-sub-subcategory -->
+      </tr>
+      <tr>
+        <td></td> <!-- Empty cell for Category -->
+        <td><a href="#trend-analysis">Trend Analysis</a></td>
+        <td></td> <!-- Empty cell for Sub-sub-subcategory -->
+      </tr>
+      <tr>
+        <td></td> <!-- Empty cell for Category -->
+        <td><a href="#retrieval">Retrieval</a></td>
+        <td></td> <!-- Empty cell for Sub-sub-subcategory -->
+      </tr>
+      <tr>
+        <td></td> <!-- Empty cell for Category -->
+        <td><a href="#fashion-compatibility">Fashion Compatibility</a></td>
+        <td></td> <!-- Empty cell for Sub-sub-subcategory -->
       </tr>
     </tbody>
   </table>
+
   
   <ul>
     <li><a href="#workshops">👀Workshops</a></li>
