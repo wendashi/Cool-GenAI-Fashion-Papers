@@ -11,30 +11,27 @@ Feel free to send a PR or open an issue.
 <details>
   <summary><h2>Table Of Content</h2></summary>  
   
-* [📝Papers](#papers)
-   * [Generation](#generation)
-      * [2D](#2D)
-        * [Try-On](#try-on)
-      * [Video](#Video)
-      * [UV](#UV)
-      * [3D](#3D)
-        * [Reconstruction](#reconstruction)
-   * [Agent, Assistant](#agent-assistant)
-   * [Understanding](#understanding)
-      * [Vision Language](#vision-language)
-      * [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking)
-      * [Trend Analysis](#trend-analysis)
-      * [Retrieval](#retrieval)
-      * [Fashion Compatibility](#fashion-compatibility)
-    
-* [👀Workshops](#workshops)
-* [🚀Companies, Products](#companies-products)
-* [Researchers](#researchers)
-* [Industry Reports](#industry-reports)
-* [Other FashionAI Resources](#other-fashionai-resources)
-* [Other GenAI Resources](#other-genai-resources)
+| Category | Subcategory | Subcategory | Subcategory |
+|----------|-------------|-------------|-------------|
+| [📝Papers](#papers) | [Generation](#generation)  | [2D](#2D)          | [Try-On](#try-on)      |
+|          |              | [Video](#video)       |             |
+|          |              | [UV](#uv)          |             |
+|          |              | [3D](#3d)          | [Reconstruction](#reconstruction) |
+|          | [Agent, Assistant](#agent-assistant) |             |             |
+|          | [Understanding](#understanding)    | [Vision Language](#vision-language) |           |
+|          |                  | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | |
+|          |                  | [Trend Analysis](#trend-analysis) |               |
+|          |                  | [Retrieval](#retrieval)      |               |
+|          |                  | [Fashion Compatibility](#fashion-compatibility) |        |
+| [👀Workshops](#workshops) |              |             |             |
+| [🚀Companies, Products](#companies-products) |     |             |             |
+| [Researchers](#researchers) |             |             |             |
+| [Industry Reports](#industry-reports) |        |             |             |
+| [Other FashionAI Resources](#other-fashionai-resources) | |             |             |
+| [Other GenAI Resources](#other-genai-resources) |     |             |             |
   
 </details>
+
 
 
 ## 📝Papers
