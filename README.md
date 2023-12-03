@@ -8,83 +8,30 @@ For resources before 2022, please refer to [Other FashionAI Resources](#other-fa
 
 Feel free to send a PR or open an issue.
 
-  
 <details>
   <summary>Table Of Content</summary>
-  <ul>
-    <li><a href="#papers">📝Papers</a></li>
-  </ul>
-  <table>
-    <thead>
-      <tr>
-        <th>Category</th>
-        <th>Subcategory</th>
-        <th>Sub-subcategory</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="#generation">Generation</a></td>
-        <td><a href="#2D">2D</a></td>
-        <td><a href="#try-on">Try-On</a></td>
-      </tr>
-      <tr>
-        <td></td> <!-- Empty cell for Category -->
-        <td><a href="#Video">Video</a></td>
-        <td></td> <!-- Empty cell for Sub-subcategory -->
-      </tr>
-      <tr>
-        <td></td> <!-- Empty cell for Category -->
-        <td><a href="#UV">UV</a></td>
-        <td></td> <!-- Empty cell for Sub-subcategory -->
-      </tr>
-      <tr>
-        <td></td> <!-- Empty cell for Category -->
-        <td><a href="#3D">3D</a></td>
-        <td><a href="#reconstruction">Reconstruction</a></td>
-      </tr>
-      <tr>
-        <td><a href="#agent-assistant">Agent, Assistant</a></td>
-        <td></td> <!-- Empty cell for Subcategory -->
-        <td></td> <!-- Empty cell for Sub-subcategory -->
-      </tr>
-      <tr>
-        <td><a href="#understanding">Understanding</a></td>
-        <td><a href="#vision-language">Vision Language</a></td>
-        <td></td> <!-- Empty cell for Sub-subcategory -->
-      </tr>
-      <tr>
-        <td></td> <!-- Empty cell for Category -->
-        <td><a href="#segmentation-recognition-tracking">Segmentation, Recognition, Tracking</a></td>
-        <td></td> <!-- Empty cell for Sub-sub-subcategory -->
-      </tr>
-      <tr>
-        <td></td> <!-- Empty cell for Category -->
-        <td><a href="#trend-analysis">Trend Analysis</a></td>
-        <td></td> <!-- Empty cell for Sub-sub-subcategory -->
-      </tr>
-      <tr>
-        <td></td> <!-- Empty cell for Category -->
-        <td><a href="#retrieval">Retrieval</a></td>
-        <td></td> <!-- Empty cell for Sub-sub-subcategory -->
-      </tr>
-      <tr>
-        <td></td> <!-- Empty cell for Category -->
-        <td><a href="#fashion-compatibility">Fashion Compatibility</a></td>
-        <td></td> <!-- Empty cell for Sub-sub-subcategory -->
-      </tr>
-    </tbody>
-  </table>
-
   
-  <ul>
-    <li><a href="#workshops">👀Workshops</a></li>
-    <li><a href="#companies-products">🚀Companies, Products</a></li>
-    <li><a href="#researchers">Researchers</a></li>
-    <li><a href="#industry-reports">Industry Reports</a></li>
-    <li><a href="#other-fashionai-resources">Other FashionAI Resources</a></li>
-    <li><a href="#other-genai-resources">Other GenAI Resources</a></li>
-  </ul>
+  - [📝Papers](#papers)
+  
+  | Category | Subcategory | Sub-subcategory |
+  |----------|-------------|-----------------|
+  | [Generation](#generation)  | [2D](#2D)          | [Try-On](#try-on)      |
+  | | [Video](#Video)  | |
+  | | [UV](#UV)  | |
+  | | [3D](#3D) | [Reconstruction](#reconstruction) |
+  | [Agent, Assistant](#agent-assistant) | | |
+  | [Understanding](#understanding) | [Vision Language](#vision-language) | |
+  | | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | |
+  | | [Trend Analysis](#trend-analysis) | |
+  | | [Retrieval](#retrieval) | |
+  | | [Fashion Compatibility](#fashion-compatibility) | |
+
+  - [👀Workshops](#workshops)
+  - [🚀Companies, Products](#companies-products)
+  - [Researchers](#researchers)
+  - [Industry Reports](#industry-reports)
+  - [Other FashionAI Resources](#other-fashionai-resources)
+  - [Other GenAI Resources](#other-genai-resources)
 </details>
 
 
