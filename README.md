@@ -1,8 +1,8 @@
 # 🕶️ Cool-GenAI-Fashion-Papers
 
-🧢🕶️🥼👖👟🧳 Cool resources about GenAI-Fashion! (📝papers, 👀workshops, 🚀companies & products, ...) (constantly updating)
+🧢🕶️🥼👖👟🧳 A curated list of cool resources about GenAI-Fashion! (📝papers, 👀workshops, 🚀companies & products, ...) (constantly updating)
 
-All the GenAI-Fashion papers listed have been published starting from 2022 (including 2022).
+All the GenAI-Fashion papers listed have been published since 2022.
 
 For resources before 2022, please refer to [Other FashionAI Resources](#other-fashionai-resources).
 
