@@ -11,19 +11,19 @@ Feel free to send a PR or open an issue.
   
 <details>
   <summary>Table Of Content</summary>
-  
+  <ul>
+    <li><a href="#papers">📝Papers</a></li>
+  </ul>
   <table>
     <thead>
       <tr>
         <th>Category</th>
         <th>Subcategory</th>
         <th>Sub-subcategory</th>
-        <th>Sub-sub-subcategory</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><a href="#papers">📝Papers</a></td>
         <td><a href="#generation">Generation</a></td>
         <td><a href="#2D">2D</a></td>
         <td><a href="#try-on">Try-On</a></td>
