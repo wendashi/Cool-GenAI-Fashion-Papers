@@ -8,31 +8,30 @@ For resources before 2022, please refer to [Other FashionAI Resources](#other-fa
 
 Feel free to send a PR or open an issue.
 
-<details>
-  Table Of Content
-  
-  - [📝Papers](#papers)
-  
-  | Type | Category | Subcategory |
-  |----------|-------------|-----------------|
-  | [Generation](#generation)  | [2D](#2D)      | [Try-On](#try-on)      |
-  | [Generation](#generation) | [Video](#Video)  | - |
-  | [Generation](#generation) | [UV](#UV)  | - |
-  | [Generation](#generation) | [3D](#3D) | [Reconstruction](#reconstruction) |
-  | [Agent, Assistant](#agent-assistant) | - | - |
-  | [Understanding](#understanding) | [Vision Language](#vision-language) | - |
-  | [Understanding](#understanding) | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | - |
-  | [Understanding](#understanding) | [Trend Analysis](#trend-analysis) | - |
-  | [Understanding](#understanding) | [Retrieval](#retrieval) | - |
-  | [Understanding](#understanding) | [Fashion Compatibility](#fashion-compatibility) | - |
 
-  - [👀Workshops](#workshops)
-  - [🚀Companies, Products](#companies-products)
-  - [Researchers](#researchers)
-  - [Industry Reports](#industry-reports)
-  - [Other FashionAI Resources](#other-fashionai-resources)
-  - [Other GenAI Resources](#other-genai-resources)
-</details>
+## Table Of Content
+
+- [📝Papers](#papers)
+
+| Type | Category | Subcategory |
+|----------|-------------|-----------------|
+| [Generation](#generation)  | [2D](#2D)      | [Try-On](#try-on)      |
+| [Generation](#generation) | [Video](#Video)  | - |
+| [Generation](#generation) | [UV](#UV)  | - |
+| [Generation](#generation) | [3D](#3D) | [Reconstruction](#reconstruction) |
+| [Agent, Assistant](#agent-assistant) | - | - |
+| [Understanding](#understanding) | [Vision Language](#vision-language) | - |
+| [Understanding](#understanding) | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | - |
+| [Understanding](#understanding) | [Trend Analysis](#trend-analysis) | - |
+| [Understanding](#understanding) | [Retrieval](#retrieval) | - |
+| [Understanding](#understanding) | [Fashion Compatibility](#fashion-compatibility) | - |
+
+- [👀Workshops](#workshops)
+- [🚀Companies, Products](#companies-products)
+- [Researchers](#researchers)
+- [Industry Reports](#industry-reports)
+- [Other FashionAI Resources](#other-fashionai-resources)
+- [Other GenAI Resources](#other-genai-resources)
 
 
 
