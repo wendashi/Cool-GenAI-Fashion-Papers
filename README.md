@@ -9,7 +9,7 @@ For resources before 2022, please refer to [Other FashionAI Resources](#other-fa
 Feel free to send a PR or open an issue.
 
 <details>
-  <summary>Table Of Content</summary>
+  Table Of Content
   
   - [📝Papers](#papers)
   
