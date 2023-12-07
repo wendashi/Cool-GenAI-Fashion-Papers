@@ -80,6 +80,8 @@ Feel free to send a PR or open an issue.
 | DCI-VTON | Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612255) | [code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) |
 | PG-VTON | PG-VTON: A Novel Image-Based Virtual Try-On Method via Progressive Inference Paradigm | TMM 2023 | [paper](https://arxiv.org/abs/2304.08956) | [code](https://github.com/NerdFNY/PGVTON) |
 | DOC-VTON | OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup | TMM 2023 | [paper](https://arxiv.org/abs/2301.00965) | [code](https://github.com/JyChen9811/DOC-VTON) |
+| StableVITON | StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On | arXiv | -> | [project](https://rlawjdghek.github.io/StableVITON/) |
+
 
 #### Video
 | Model | Title | Publication | Paper | Link |
