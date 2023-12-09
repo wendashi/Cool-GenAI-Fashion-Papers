@@ -54,6 +54,8 @@ subgraph Understanding
   u1 --> u6[Fashion Compatibility]
 end
 
+graph TB;
+
 gf1 --> gen1
 gf1 --> aa1
 gf1 -.-> u1
