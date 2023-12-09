@@ -30,6 +30,10 @@ Feel free to send a PR or open an issue.
 ```mermaid
 graph TB;
 
+subgraph GenAI-Fashion
+  gf1[GenAI-Fashion]
+end
+
 subgraph Generation
   gen1[Generation] --> gen2[2D] --> gen3[Try-On]
   gen2 --> gen4[Editing]
@@ -49,6 +53,10 @@ subgraph Understanding
   u1 --> u5[Retrieval]
   u1 --> u6[Fashion Compatibility]
 end
+
+gf1 --> gen1
+gf1 --> aa1
+gf1 -.-> u1
 
 ```
 
