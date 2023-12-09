@@ -32,7 +32,7 @@ graph TB;
 
 subgraph Generation
   gen1[Generation] --> gen2[2D] --> gen3[Try-On]
-  gen1 --> gen4[Editing]
+  gen1 --> gen2[2D] --> gen4[Editing]
   gen1 --> gen5[Video]
   gen1 --> gen6[UV]
   gen1 --> gen7[3D] --> gen8[Reconstruction]
@@ -50,8 +50,6 @@ subgraph Understanding
   u1 --> u6[Fashion Compatibility]
 end
 
-gen1 --> aa1
-gen1 --> u1
 ```
 
 - [👀Workshops](#workshops)
