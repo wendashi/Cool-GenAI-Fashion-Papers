@@ -27,6 +27,33 @@ Feel free to send a PR or open an issue.
 | [Understanding](#understanding) | [Retrieval](#retrieval) | - |
 | [Understanding](#understanding) | [Fashion Compatibility](#fashion-compatibility) | - |
 
+```mermaid
+graph TB;
+
+subgraph Generation
+  gen1[Generation] --> gen2[2D] --> gen3[Try-On]
+  gen1 --> gen4[Editing]
+  gen1 --> gen5[Video]
+  gen1 --> gen6[UV]
+  gen1 --> gen7[3D] --> gen8[Reconstruction]
+end
+
+subgraph AgentAssistant
+  aa1[Agent, Assistant]
+end
+
+subgraph Understanding
+  u1[Understanding] --> u2[Vision Language]
+  u1 --> u3[Segmentation, Recognition, Tracking]
+  u1 --> u4[Trend Analysis]
+  u1 --> u5[Retrieval]
+  u1 --> u6[Fashion Compatibility]
+end
+
+gen1 --> aa1
+gen1 --> u1
+```
+
 - [👀Workshops](#workshops)
 - [🚀Companies, Products](#companies-products)
 - [Researchers](#researchers)
