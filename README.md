@@ -28,7 +28,7 @@ Feel free to send a PR or open an issue.
 | [Understanding](#understanding) | [Fashion Compatibility](#fashion-compatibility) | - |
 
 ```mermaid
-graph TB;
+graph LR;
 
 subgraph GenAI-Fashion
   gf1[GenAI-Fashion]
