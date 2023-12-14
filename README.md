@@ -15,17 +15,17 @@ Feel free to send a PR or open an issue.
 
 | Type | Category | Subcategory |
 |----------|-------------|-----------------|
-| [Understanding](#understanding) | [Vision Language](#vision-language) | - |
-| [Understanding](#understanding) | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | - |
-| [Understanding](#understanding) | [Trend Analysis](#trend-analysis) | - |
-| [Understanding](#understanding) | [Retrieval](#retrieval) | - |
-| [Understanding](#understanding) | [Fashion Compatibility](#fashion-compatibility) | - |
 | [Generation](#generation)  | [2D](#2D)      | [Try-On](#try-on)      |
 | [Generation](#generation)  | [2D](#2D)      | [Editing](#editing)      |
 | [Generation](#generation) | [Video](#Video)  | - |
 | [Generation](#generation) | [UV](#UV)  | - |
 | [Generation](#generation) | [3D](#3D) | [Reconstruction](#reconstruction) |
 | [Agent, Assistant](#agent-assistant) | - | - |
+| [Understanding](#understanding) | [Vision Language](#vision-language) | - |
+| [Understanding](#understanding) | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | - |
+| [Understanding](#understanding) | [Trend Analysis](#trend-analysis) | - |
+| [Understanding](#understanding) | [Retrieval](#retrieval) | - |
+| [Understanding](#understanding) | [Fashion Compatibility](#fashion-compatibility) | - |
 
 
 ```mermaid
