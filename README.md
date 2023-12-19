@@ -79,8 +79,8 @@ gf1 -.-> u1
 | A Survey of Artificial Intelligence in Fashion | IEEE Signal Process. Mag. 2023 | [paper](https://ieeexplore.ieee.org/document/10113373) | - | Taiwan (China) |
 | AI Assisted Fashion Design: A Review | IEEE Access 2023 | [paper](https://ieeexplore.ieee.org/document/10223039) | - | China |
 | Computational Technologies for Fashion Recommendation: A Survey | ACM Computing Surveys 2023 | [paper](https://dl.acm.org/doi/10.1145/3627100) | - | Hong Kong (China)  |
-| Methods and advancement of content-based fashion image retrieval: A Review | - | [paper](https://arxiv.org/abs/2303.17371) | - | China |
-| Product Review Image Ranking for Fashion E-commerce | - | [paper](https://arxiv.org/abs/2308.05390) | - | India |
+| Methods and advancement of content-based fashion image retrieval: A Review | CoRR 2023 | [paper](https://arxiv.org/abs/2303.17371) | - | China |
+| Product Review Image Ranking for Fashion E-commerce | - | [paper](https://arxiv.org/abs/2308.05390) | CoRR 2023 | India |
 | Analytics Applications in Fashion Supply Chain Management—A Review of Literature and Practice | IEEE Trans Eng Manag 2023 | [paper](https://ieeexplore.ieee.org/document/9461179/authors) | - | Germany |
 
 
