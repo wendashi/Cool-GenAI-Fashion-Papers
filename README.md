@@ -44,40 +44,23 @@ graph TD
   GenAIFashion --> Design[Design]
   GenAIFashion --> Buying[Buying]
 
-  subgraph Overview[Overview]
-    Overview --> Overview
-  end
+  BasicTech --> VisionLanguage[Vision Language]
 
-  subgraph Evaluation[Evaluation]
-    Evaluation --> Evaluation
-  end
+  Selling --> Retrieval[Retrieval]
+  Selling --> Segmentation[Segmentation, Recognition, Tracking]
+  Selling --> SellingAgent[Selling Agent]
 
-  subgraph BasicTech[Basic Tech]
-    BasicTech --> VisionLanguage[Vision Language]
-  end
+  Styling --> CompatibilityLearning[Compatibility Learning]
+  Styling --> OutfitRecommendation[Outfit Recommendation]
 
-  subgraph Selling[Selling]
-    Selling --> Retrieval[Retrieval]
-    Selling --> Segmentation[Segmentation, Recognition, Tracking]
-    Selling --> SellingAgent[Selling Agent]
-  end
-
-  subgraph Styling[Styling]
-    Styling --> CompatibilityLearning[Compatibility Learning]
-    Styling --> OutfitRecommendation[Outfit Recommendation]
-  end
-
-  subgraph Design[Design]
-    Design --> Synthesis[Synthesis]
-    Design --> TryOn[Try-On]
-    Design --> Editing[Editing]
-    Design --> DesignAgent[Design Agent]
-    Design --> VideoGeneration[Video Generation]
-    Design --> UVGeneration[UV Generation]
-    Design --> 3DSynthesis[3D Synthesis]
-    Design --> Reconstruction[Reconstruction]
-  end
-
+  Design --> Synthesis[Synthesis]
+  Design --> TryOn[Try-On]
+  Design --> Editing[Editing]
+  Design --> DesignAgent[Design Agent]
+  Design --> VideoGeneration[Video Generation]
+  Design --> UVGeneration[UV Generation]
+  Design --> 3DSynthesis[3D Synthesis]
+  Design --> Reconstruction[Reconstruction]
   
   Buying --> TrendAnalysis[Trend Analysis]
   
