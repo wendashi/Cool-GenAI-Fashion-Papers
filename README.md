@@ -23,49 +23,66 @@ Feel free to send a PR or open an issue.
 | [Selling](#selling)  | [Selling Agent](#selling-agent) | - |
 | [Styling](#styling)  | [Compatibility Learning](#compatibility-learning) | - |
 | [Styling](#styling) | [Outfit Recommendation](#outfit-recommendation) | - |
-| [Design](#generation) | [2D](#2d)| - |
-| [Design](#generation) | [Try-On](#try-on)| - |
-| [Design](#generation)  | [Editing](#editing)| - |
-| [Design](#generation)  | [Design Agent](#design-agent) | - |
-| [Generation](#generation) | [Video](#Video)  | - |
-| [Generation](#generation) | [UV](#UV)  | - |
-| [Generation](#generation) | [3D](#3D) | [Reconstruction](#reconstruction) |
-| [Agent, Assistant](#agent-assistant) | - | - |
-| [Understanding](#understanding) | [Trend Analysis](#trend-analysis) | - |
-| [Understanding](#understanding) | [Retrieval](#retrieval) | - |
-| [Understanding](#understanding) | [Fashion Compatibility](#fashion-compatibility) | - |
-
+| [Design](#design) | [Synthesis](#synthesis)| - |
+| [Design](#design) | [Try-On](#try-on)| - |
+| [Design](#design) | [Editing](#editing)| - |
+| [Design](#design) | [Design Agent](#design-agent) | - |
+| [Design](#design) | [Video Generation](#video-generation)  | - |
+| [Design](#design) | [UV Generation](#uv-generation)  | - |
+| [Design](#design) | [3D Synthesis](#3d-synthesis) | - |
+| [Design](#design) | [Reconstruction](#reconstruction) | - |
+| [Buying](#buying) | [Trend Analysis](#trend-analysis) | - |
 
 ```mermaid
-graph LR;
 
-subgraph GenAI-Fashion
-  gf1[GenAI-Fashion]
-end
+graph TD
+  GenAIFashion[GenAI-Fashion]
+  GenAIFashion --> Overview[Overview]
+  GenAIFashion --> Evaluation[Evaluation]
+  GenAIFashion --> BasicTech[Basic Tech]
+  GenAIFashion --> Selling[Selling]
+  GenAIFashion --> Styling[Styling]
+  GenAIFashion --> Design[Design]
+  GenAIFashion --> Buying[Buying]
 
-subgraph AgentAssistant
-  aa1[Agent, Assistant]
-end
+  subgraph Overview[Overview]
+    Overview --> Overview
+  end
 
-subgraph Generation
-  gen1[Generation] --> gen2[2D] --> gen3[Try-On]
-  gen2 --> gen4[Editing]
-  gen1 --> gen5[Video]
-  gen1 --> gen6[UV]
-  gen1 --> gen7[3D] --> gen8[Reconstruction]
-end
+  subgraph Evaluation[Evaluation]
+    Evaluation --> Evaluation
+  end
 
-subgraph Understanding
-  u1[Understanding] --> u2[Vision Language]
-  u1 --> u3[Segmentation, Recognition, Tracking]
-  u1 --> u4[Trend Analysis]
-  u1 --> u5[Retrieval]
-  u1 --> u6[Fashion Compatibility]
-end
+  subgraph BasicTech[Basic Tech]
+    BasicTech --> VisionLanguage[Vision Language]
+  end
 
-gf1 --> gen1
-gf1 --> aa1
-gf1 -.-> u1
+  subgraph Selling[Selling]
+    Selling --> Retrieval[Retrieval]
+    Selling --> Segmentation[Segmentation, Recognition, Tracking]
+    Selling --> SellingAgent[Selling Agent]
+  end
+
+  subgraph Styling[Styling]
+    Styling --> CompatibilityLearning[Compatibility Learning]
+    Styling --> OutfitRecommendation[Outfit Recommendation]
+  end
+
+  subgraph Design[Design]
+    Design --> Synthesis[Synthesis]
+    Design --> TryOn[Try-On]
+    Design --> Editing[Editing]
+    Design --> DesignAgent[Design Agent]
+    Design --> VideoGeneration[Video Generation]
+    Design --> UVGeneration[UV Generation]
+    Design --> 3DSynthesis[3D Synthesis]
+    Design --> Reconstruction[Reconstruction]
+  end
+
+  subgraph Buying[Buying]
+    Buying --> TrendAnalysis[Trend Analysis]
+  end
+
 
 ```
 
@@ -162,7 +179,7 @@ Personal Styling
 
 
 ### Design
-#### 2D
+#### Synthesis
 
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
@@ -217,8 +234,7 @@ Personal Styling
 | ----- | ----- | ----------- | ----- | ---- |
 | FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arXiv | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
 
-
-#### Video
+#### Video Generation
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | wFlow | Dressing in the Wild by Watching Dance Videos | CVPR 2022 | -> | [project](https://awesome-wflow.github.io/) |
@@ -226,13 +242,13 @@ Personal Styling
 | GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | arXiv | -> | [project](https://gpt4motion.github.io/) | China |
 | Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | arXiv | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
 
-#### UV
+#### UV Generation
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | TemporalUV | TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates | CVPR 2022 | [paper](https://arxiv.org/abs/2204.03671) | - |
 | - | Normal-guided Garment UV Prediction for Human Re-texturing | CVPR 2023 | [paper](https://arxiv.org/abs/2303.06504) | - |
 
-#### 3D
+#### 3D Synthesis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | ReFU | A Repulsive Force Unit for Garment Collision Handling in Neural Networks | ECCV 2022 | -> | [project](https://gamma.umd.edu/researchdirections/mlphysics/refu/) |
@@ -253,7 +269,7 @@ Personal Styling
 | SynBody | SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling | ICCV 2023 | -> | [project](https://synbody.github.io/) |
 | EVA3D | EVA3D: Compositional 3D Human Generation from 2D Image Collections | ICLR 2023 | -> | [project](https://hongfz16.github.io/projects/EVA3D.html) |
 
-##### Reconstruction
+#### 3D Reconstruction
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | CrossHuman | CrossHuman: Learning Cross-guidance from Multi-frame Images for Human Reconstruction | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548351) | - |
@@ -270,7 +286,7 @@ Personal Styling
 | REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) |
 | Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors |ICCV2023| -> |[project](https://x-zhangyang.github.io/2023_Get3DHuman/) |
 
-### Understanding
+### Buying
 
 #### Trend Analysis
 | Model | Title | Publication | Paper | Link |
@@ -306,6 +322,7 @@ Personal Styling
 | [Unbound](https://www.unboundml.com/) | - | personal AI business assistant | - |
 | [Zeg AI](https://www.zeg.ai/)| 2018 | AI Product Content, Videos, 3D Render | - |
 | - | - | - | - |
+
 
 ## Researchers
 
