@@ -17,14 +17,20 @@ Feel free to send a PR or open an issue.
 |----------|-------------|-----------------|
 | [Overview](#overview)  | - | - |
 | [Evaluation](#evaluation)  | - | - |
-| [Generation](#generation)  | [2D](#2D)      | [Try-On](#try-on)      |
-| [Generation](#generation)  | [2D](#2D)      | [Editing](#editing)      |
+| [Basic Tech](#basic-tech)  | [Vision Language](#vision-language) | - |
+| [Selling](#selling)  | [Retrieval](#retrieval) | - |
+| [Selling](#selling)  | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | - |
+| [Selling](#selling)  | [Selling Agent](#selling-agent) | - |
+| [Styling](#styling)  | [Compatibility Learning](#compatibility-learning) | - |
+| [Styling](#styling) | [Outfit Recommendation](#outfit-recommendation) | - |
+| [Design](#generation) | [2D](#2d)| - |
+| [Design](#generation) | [Try-On](#try-on)| - |
+| [Design](#generation)  | [Editing](#editing)| - |
+| [Design](#generation)  | [Design Agent](#design-agent) | - |
 | [Generation](#generation) | [Video](#Video)  | - |
 | [Generation](#generation) | [UV](#UV)  | - |
 | [Generation](#generation) | [3D](#3D) | [Reconstruction](#reconstruction) |
 | [Agent, Assistant](#agent-assistant) | - | - |
-| [Understanding](#understanding) | [Vision Language](#vision-language) | - |
-| [Understanding](#understanding) | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | - |
 | [Understanding](#understanding) | [Trend Analysis](#trend-analysis) | - |
 | [Understanding](#understanding) | [Retrieval](#retrieval) | - |
 | [Understanding](#understanding) | [Fashion Compatibility](#fashion-compatibility) | - |
@@ -75,6 +81,8 @@ gf1 -.-> u1
 ## 📝Papers
 ### Overview
 
+Summary developments of technology
+
 | Title | Publication | Paper | Link | Region | 
 | ----- | ----------- | ----- | ---- | ------------ |
 | A Survey of Artificial Intelligence in Fashion | IEEE Signal Process. Mag. 2023 | [paper](https://ieeexplore.ieee.org/document/10113373) | - | Taiwan (China) |
@@ -89,12 +97,71 @@ gf1 -.-> u1
 
 ### Evaluation
 
+Evaluation protocols for specific tasks
+
 | Title | Publication | Paper | Link | Region |
 | ----- | ----------- | ----- | ---- | ------------ |
 | How Good Is Aesthetic Ability of a Fashion Model? | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.html) | [code](https://github.com/AemikaChow/AiDLab-fAshIon-Data) | Hong Kong (China) |
 | An Evaluation of Artificial Intelligence Components in E-Commerce Fashion Platforms | WorldCIST 2022 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-04826-5_27) | - | Portugal |
 
-### Generation
+
+### Basic Tech
+
+Understanding of fashion images
+
+#### Vision Language
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| FashionCLIP | Contrastive language and vision learning of general fashion concepts | Scientific Reports (2022) | [paper](https://www.nature.com/articles/s41598-022-23052-9) | [code](https://github.com/patrickjohncyh/fashion-clip) |
+| GradREC | “Does it come in black?” CLIP-like models are zero-shot recommenders | ECNLP 5(ACL 2022 workshop) | [paper](https://aclanthology.org/2022.ecnlp-1.22/) | [code](https://github.com/patrickjohncyh/gradient-recs) |
+| FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV 2022 | -> | [project](https://github.com/BrandonHanx/mmf) |
+| FAME-ViL | FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks | CVPR 2023 | -> | [project](https://github.com/BrandonHanx/FAME-ViL) |
+| FashionSAP | FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training | CVPR 2023 | -> | [project](https://github.com/hssip/FashionSAP) |
+
+
+### Selling
+
+Online selling
+
+#### Retrieval
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| MODC | Fine-grained Fashion Representation Learning by Online Deep Clustering| ECCV 2022 | [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf) | - |
+| FashionVLP | FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.pdf) | - |
+| EI-CLIP | EI-CLIP: Entity-aware Interventional Contrastive Learning for E-commerce Cross-modal Retrieval | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf) | - |
+| M3-Net | Learning Attribute and Class-Specific Representation Duet for Fine-grained Fashion Analysis | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf) | - |
+| - | Dynamic Network for Language-based Fashion Retrieval | MMIR ’23 (MM 2023 workshop)  | [paper](https://dl.acm.org/doi/10.1145/3606040.3617438) | - |
+
+#### Segmentation, Recognition, Tracking
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV 2022 | -> | [project](https://github.com/xushilin1/FashionFormer) |
+| GarmentTracking | GarmentTracking: Category-Level Garment Pose Tracking  | CVPR 2023 | -> | [project](https://garment-tracking.robotflow.ai/) |
+
+#### Selling Agent
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| - | A Conversational Shopping Assistant for Online Virtual Stores | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547738) | - |
+| Fashion-GPT | Fashion-GPT: Integrating LLMs with Fashion Retrieval System | LGM3A '23 (MM 2023 workshop) | [paper](https://dl.acm.org/doi/10.1145/3607827.3616844) | - |
+
+### Styling
+
+Personal Styling
+
+#### Compatibility Learning
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| Aesthetic 100 (Evaluation Protocol) | How Good Is Aesthetic Ability of a Fashion Model? | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf) | [dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data) |
+| FCBoost-Net | FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612036) | - |
+
+#### Outfit Recommendation
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| BiHGH | Bi-directional Heterogeneous Graph Hashing towards Efficient Outfit Recommendation | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548020) | - |
+| CP-TransMatch | Modeling Multi-Relational Connectivity for Personalized Fashion Matching | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612583) | - |
+
+
+### Design
 #### 2D
 
 | Model | Title | Publication | Paper | Link | Region |
@@ -117,7 +184,8 @@ gf1 -.-> u1
 | InspirNET | InspirNET: An Unsupervised Generative Adversarial Network with Controllable Fine-grained Texture Disentanglement for Fashion Generation | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612130) | - | China |
 | - | Toward Intelligent Interactive Design: A Generation Framework Based on Cross-domain Fashion Elements | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612376) | - | China |
 
-##### Try-On
+
+#### Try-On
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | - | A High-resolution Image-based Virtual Try-on System in Taobao E-commerce Scenario | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547740) | - |
@@ -136,13 +204,18 @@ gf1 -.-> u1
 | DOC-VTON | OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup | TMM 2023 | [paper](https://arxiv.org/abs/2301.00965) | [code](https://github.com/JyChen9811/DOC-VTON) |
 | StableVITON | StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On | arXiv | -> | [project](https://rlawjdghek.github.io/StableVITON/) |
 
-##### Editing
+#### Editing
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | SketchEdit | SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches | CVPR 2022 | -> | [project](https://zengxianyu.github.io/sketchedit/) | China |
 | Patternshop | Patternshop: Editing Point Patterns by Image Manipulation | SIGGRAPH 2023 | -> | [project](https://xchhuang.github.io/patternshop/index.html) | Germany |
 | MGD | Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing | ICCV 2023 | [paper](https://arxiv.org/abs/2304.02051) | [code](https://github.com/aimagelab/multimodal-garment-designer) | Italy |
 | EditAnything | EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612680) | [project](https://github.com/sail-sg/EditAnything) | China |
+
+#### Design Agent
+| Model | Title | Publication | Paper | Link |
+| ----- | ----- | ----------- | ----- | ---- |
+| FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arXiv | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
 
 
 #### Video
@@ -152,7 +225,6 @@ gf1 -.-> u1
 | ClothFormer | ClothFormer: Taming Video Virtual Try-on in All Module | CVPR 2022 | -> | [project](https://cloth-former.github.io/) |
 | GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | arXiv | -> | [project](https://gpt4motion.github.io/) | China |
 | Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | arXiv | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
-
 
 #### UV
 | Model | Title | Publication | Paper | Link |
@@ -198,54 +270,13 @@ gf1 -.-> u1
 | REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) |
 | Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors |ICCV2023| -> |[project](https://x-zhangyang.github.io/2023_Get3DHuman/) |
 
-
-### Agent, Assistant
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
-| - | A Conversational Shopping Assistant for Online Virtual Stores | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547738) | - |
-| Fashion-GPT | Fashion-GPT: Integrating LLMs with Fashion Retrieval System | LGM3A '23 (MM 2023 workshop) | [paper](https://dl.acm.org/doi/10.1145/3607827.3616844) | - |
-| FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arXiv | -> | [project](https://zheng-chong.github.io/FashionMatrix/) |
-
-
 ### Understanding
-#### Vision Language
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
-| FashionCLIP | Contrastive language and vision learning of general fashion concepts | Scientific Reports (2022) | [paper](https://www.nature.com/articles/s41598-022-23052-9) | [code](https://github.com/patrickjohncyh/fashion-clip) |
-| GradREC | “Does it come in black?” CLIP-like models are zero-shot recommenders | ECNLP 5(ACL 2022 workshop) | [paper](https://aclanthology.org/2022.ecnlp-1.22/) | [code](https://github.com/patrickjohncyh/gradient-recs) |
-| FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV 2022 | -> | [project](https://github.com/BrandonHanx/mmf) |
-| FAME-ViL | FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks | CVPR 2023 | -> | [project](https://github.com/BrandonHanx/FAME-ViL) |
-| FashionSAP | FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training | CVPR 2023 | -> | [project](https://github.com/hssip/FashionSAP) |
-
-
-#### Segmentation, Recognition, Tracking
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
-| Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV 2022 | -> | [project](https://github.com/xushilin1/FashionFormer) |
-| GarmentTracking | GarmentTracking: Category-Level Garment Pose Tracking  | CVPR 2023 | -> | [project](https://garment-tracking.robotflow.ai/) |
 
 #### Trend Analysis
 | Model | Title | Publication | Paper | Link |
 | ----- | ----- | ----------- | ----- | ---- |
 | POP | POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion | ECCV 2022 | -> | [project](https://github.com/HumaticsLAB/POP-Mining-POtential-Performance) |
 
-#### Retrieval
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
-| MODC | Fine-grained Fashion Representation Learning by Online Deep Clustering| ECCV 2022 | [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf) | - |
-| FashionVLP | FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.pdf) | - |
-| EI-CLIP | EI-CLIP: Entity-aware Interventional Contrastive Learning for E-commerce Cross-modal Retrieval | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf) | - |
-| M3-Net | Learning Attribute and Class-Specific Representation Duet for Fine-grained Fashion Analysis | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf) | - |
-| - | Dynamic Network for Language-based Fashion Retrieval | MMIR ’23 (MM 2023 workshop)  | [paper](https://dl.acm.org/doi/10.1145/3606040.3617438) | - |
-
-
-#### Fashion Compatibility
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
-| Aesthetic 100 (Evaluation Protocol) | How Good Is Aesthetic Ability of a Fashion Model? | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf) | [dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data) |
-| BiHGH | Bi-directional Heterogeneous Graph Hashing towards Efficient Outfit Recommendation | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548020) | - |
-| CP-TransMatch | Modeling Multi-Relational Connectivity for Personalized Fashion Matching | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612583) | - |
-| FCBoost-Net | FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612036) | - |
 
 
 ## 👀Workshops
