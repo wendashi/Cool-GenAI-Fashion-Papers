@@ -34,7 +34,7 @@ Feel free to send a PR or open an issue.
 | [Buying](#buying) | [Trend Analysis](#trend-analysis) | - |
 
 ```mermaid
-graph TD
+graph LR
   GenAIFashion[GenAI-Fashion]
   GenAIFashion --> Overview[Overview]
   GenAIFashion --> Evaluation[Evaluation]
