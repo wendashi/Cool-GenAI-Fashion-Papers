@@ -130,14 +130,14 @@ Online selling
 | - | Dynamic Network for Language-based Fashion Retrieval | MMIR ’23 (MM 2023 workshop)  | [paper](https://dl.acm.org/doi/10.1145/3606040.3617438) | - | China |
 
 #### Segmentation, Recognition, Tracking
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ---- |
 | Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV 2022 | -> | [project](https://github.com/xushilin1/FashionFormer) | China |
 | GarmentTracking | GarmentTracking: Category-Level Garment Pose Tracking  | CVPR 2023 | -> | [project](https://garment-tracking.robotflow.ai/) | China |
 
 #### Selling Agent
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- |  ---- |
 | - | A Conversational Shopping Assistant for Online Virtual Stores | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547738) | - | Portugal |
 | Fashion-GPT | Fashion-GPT: Integrating LLMs with Fashion Retrieval System | LGM3A '23 (MM 2023 workshop) | [paper](https://dl.acm.org/doi/10.1145/3607827.3616844) | - | Singapore |
 
@@ -146,15 +146,15 @@ Online selling
 Personal Styling
 
 #### Compatibility Learning
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
-| FCBoost-Net | FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612036) | - |
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ---- |
+| FCBoost-Net | FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612036) | - | China |
 
 #### Outfit Recommendation
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
-| BiHGH | Bi-directional Heterogeneous Graph Hashing towards Efficient Outfit Recommendation | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548020) | - |
-| CP-TransMatch | Modeling Multi-Relational Connectivity for Personalized Fashion Matching | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612583) | - |
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ---- |
+| BiHGH | Bi-directional Heterogeneous Graph Hashing towards Efficient Outfit Recommendation | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548020) | - | Australia |
+| CP-TransMatch | Modeling Multi-Relational Connectivity for Personalized Fashion Matching | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612583) | - | Hong Kong (China) |
 
 
 ### Design
