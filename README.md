@@ -34,7 +34,6 @@ Feel free to send a PR or open an issue.
 | [Buying](#buying) | [Trend Analysis](#trend-analysis) | - |
 
 ```mermaid
-
 graph TD
   GenAIFashion[GenAI-Fashion]
   GenAIFashion --> Overview[Overview]
@@ -82,8 +81,6 @@ graph TD
   subgraph Buying[Buying]
     Buying --> TrendAnalysis[Trend Analysis]
   end
-
-
 ```
 
 - [👀Workshops](#workshops)
