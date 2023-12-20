@@ -314,10 +314,11 @@ Personal Styling
 | [MMLab-NTU](https://www.mmlab-ntu.com/index.html)|[Ziwei Liu](https://liuziwei7.github.io/index.html)|
 | UIUC | [Ranjitha Kumar](http://ranjithakumar.net/)|
 | [AImageLab](https://aimagelab.ing.unimore.it/imagelab/)|[Rita Cucchiara](https://scholar.google.com/citations?user=OM3sZEoAAAAJ&hl=en)|
-| The University of Utah|[Ziad Al-Halah](https://users.cs.utah.edu/~ziad/)|
-| Georgia Tech|[Devi Parikh](https://faculty.cc.gatech.edu/~parikh/)|
-| UT Austin|[Kristen Grauman](https://www.cs.utexas.edu/users/grauman/)|
-| Cornell|[Kavita Bala](https://www.cs.cornell.edu/~kb/)|
+| The University of Utah |[Ziad Al-Halah](https://users.cs.utah.edu/~ziad/)|
+| Georgia Tech | [Devi Parikh](https://faculty.cc.gatech.edu/~parikh/)|
+| UT Austin | [Kristen Grauman](https://www.cs.utexas.edu/users/grauman/)|
+| Cornell | [Kavita Bala](https://www.cs.cornell.edu/~kb/)|
+| [MPI-IS](https://ps.is.mpg.de/) | [Michael Black](https://ps.is.mpg.de/person/black)|
 
 ## Industry Reports
 | Reports                                              |Organization | Time |
