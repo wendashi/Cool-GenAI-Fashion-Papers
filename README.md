@@ -78,9 +78,9 @@ graph TD
     Design --> Reconstruction[Reconstruction]
   end
 
-  subgraph Buying[Buying]
-    Buying --> TrendAnalysis[Trend Analysis]
-  end
+  
+  Buying --> TrendAnalysis[Trend Analysis]
+  
 ```
 
 - [👀Workshops](#workshops)
