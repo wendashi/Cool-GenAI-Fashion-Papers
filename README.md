@@ -11,6 +11,8 @@ Feel free to send a PR or open an issue.
 
 ## Table Of Content
 
+This toc follows [fAshIon after fashion: A Report of AI in Fashion](https://arxiv.org/abs/2105.03050)
+
 - [📝Papers](#papers)
 
 | Type | Category | Subcategory |
