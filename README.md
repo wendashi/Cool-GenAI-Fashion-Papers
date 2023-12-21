@@ -18,6 +18,7 @@ Feel free to send a PR or open an issue.
 | [Overview](#overview)  | - | - |
 | [Evaluation](#evaluation)  | - | - |
 | [Basic Tech](#basic-tech)  | [Vision Language](#vision-language) | - |
+| [Basic Tech](#basic-tech)  | [Detection](#detection) | - |
 | [Selling](#selling)  | [Retrieval](#retrieval) | - |
 | [Selling](#selling)  | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | - |
 | [Selling](#selling)  | [Selling Agent](#selling-agent) | - |
@@ -115,6 +116,11 @@ Understanding of fashion images
 | FAME-ViL | FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks | CVPR 2023 | -> | [project](https://github.com/BrandonHanx/FAME-ViL) | London |
 | FashionSAP | FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training | CVPR 2023 | -> | [project](https://github.com/hssip/FashionSAP) | China |
 
+#### Detection
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ------------ |
+| CoRe | CoRe: Color Regression for Multicolor Fashion Garments | 5th CVFAD (CVPR 2022 workshop)  | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Rame_CoRe_Color_Regression_for_Multicolor_Fashion_Garments_CVPRW_2022_paper.pdf) | - | Paris |
+
 
 ### Selling
 
@@ -126,8 +132,11 @@ Online selling
 | MODC | Fine-grained Fashion Representation Learning by Online Deep Clustering| ECCV 2022 | [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf) | - | America |
 | FashionVLP | FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.pdf) | - | America |
 | EI-CLIP | EI-CLIP: Entity-aware Interventional Contrastive Learning for E-commerce Cross-modal Retrieval | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf) | - | America |
+| DAtRNet | DAtRNet: Disentangling Fashion Attribute Embedding for Substitute Item Retrieval | 5th CVFAD (CVPR 2022 workshop)  | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Bhattacharya_DAtRNet_Disentangling_Fashion_Attribute_Embedding_for_Substitute_Item_Retrieval_CVPRW_2022_paper.pdf) | - | India |
+| UIGR | UIGR: Unified Interactive Garment Retrieval | 5th CVFAD (CVPR 2022 workshop)  | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Han_UIGR_Unified_Interactive_Garment_Retrieval_CVPRW_2022_paper.pdf) | [code](https://github.com/brandonhanx/compfashion) | London |
 | M3-Net | Learning Attribute and Class-Specific Representation Duet for Fine-grained Fashion Analysis | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf) | - | America |
 | - | Dynamic Network for Language-based Fashion Retrieval | MMIR ’23 (MM 2023 workshop)  | [paper](https://dl.acm.org/doi/10.1145/3606040.3617438) | - | China |
+
 
 #### Segmentation, Recognition, Tracking
 | Model | Title | Publication | Paper | Link | Region |
@@ -154,8 +163,9 @@ Personal Styling
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ---- |
 | BiHGH | Bi-directional Heterogeneous Graph Hashing towards Efficient Outfit Recommendation | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548020) | - | Australia |
+| OutfitTransformer | OutfitTransformer: Outfit Representations for Fashion Recommendation | 5th CVFAD (CVPR 2022 workshop) | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Sarkar_OutfitTransformer_Outfit_Representations_for_Fashion_Recommendation_CVPRW_2022_paper.pdf) | - | America |
+| OutfitGAN | OutfitGAN: Learning Compatible Items for Generative Fashion Outfits | 5th CVFAD (CVPR 2022 workshop) | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Moosaei_OutfitGAN_Learning_Compatible_Items_for_Generative_Fashion_Outfits_CVPRW_2022_paper.pdf) | - | America |
 | CP-TransMatch | Modeling Multi-Relational Connectivity for Personalized Fashion Matching | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612583) | - | Hong Kong (China) |
-
 
 ### Design
 #### Synthesis
@@ -165,6 +175,8 @@ Personal Styling
 | ARMANI | ARMANI: Part-level Garment-Text Alignment for Unified Cross-Modal Fashion Design | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548230) | - | China |
 | AI Carpet | AI Carpet: Automatic Generation of Aesthetic Carpet Pattern | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547734) | - | China |
 | VolumeGAN | 3D-aware Image Synthesis via Learning Structural and Textural Representations | CVPR 2022 | -> | [project](https://genforce.github.io/volumegan/) | China |
+| Wearable ImageNet | Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation | 5th CVFAD (CVPR 2022 workshop | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.pdf) | [project](https://georgecazenavette.github.io/mtt-distillation/) | America |
+| Rank in Style | Rank in Style: A Ranking-based Approach to Find Interpretable Directions | 5th CVFAD (CVPR 2022 workshop | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Kocasari_Rank_in_Style_A_Ranking-Based_Approach_To_Find_Interpretable_Directions_CVPRW_2022_paper.pdf) | - | Turkey |
 | StyleMe | StyleMe: Towards Intelligent Fashion Generation with Designer Style | CHI 2023 | [paper](https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581377) | [code](https://github.com/ExponentiAI/StyleMe) | China |
 | generative.fashion | Fashioning the Future: Unlocking the Creative Potential of Deep Generative Models for Design Space Exploration | CHI EA 2023 | [paper](https://dl.acm.org/doi/abs/10.1145/3544549.3585644) | [project](https://generative.fashion/) | Switzerland |
 | AI Archive | Generative AI for Concept Creation in Footwear Design | INVITED-TALK (SIGGRAPH 2023) | [paper](https://dl.acm.org/doi/10.1145/3587421.3595416) | - | Germany |
@@ -187,6 +199,9 @@ Personal Styling
 | - | A High-resolution Image-based Virtual Try-on System in Taobao E-commerce Scenario | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547740) | - |
 | GT-MUST | GT-MUST: Gated Try-on by Learning the Mannequin-Specific Transformation | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547775) | - |
 | PL-VTON | Progressive Limb-Aware Virtual Try-On | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547999) | - |
+| Dress Code | Dress Code: High-Resolution Multi-Category Virtual Try-On| 5th CVFAD (CVPR 2022 workshop) | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Morelli_Dress_Code_High-Resolution_Multi-Category_Virtual_Try-On_CVPRW_2022_paper.pdf) | [project](https://github.com/aimagelab/dress-code) | Italy |
+| DBCT | Dual-Branch Collaborative Transformer for Virtual Try-On | 5th CVFAD (CVPR 2022 workshop) | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Fenocchi_Dual-Branch_Collaborative_Transformer_for_Virtual_Try-On_CVPRW_2022_paper.pdf) | - | Italy |
+| DP-VTON | Towards Detailed Characteristic-Preserving Virtual Try-On | 5th CVFAD (CVPR 2022 workshop) | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Lee_Towards_Detailed_Characteristic-Preserving_Virtual_Try-On_CVPRW_2022_paper.pdf) | - | South Korea |
 | Flow-Style-VTON | Style-Based Global Appearance Flow for Virtual Try-On | CVPR 2022 | -> | [project](https://github.com/SenHe/Flow-Style-VTON/) |
 | RT-VTON | Full-Range Virtual Try-On with Recurrent Tri-Level Transform | CVPR 2022 | -> | [project](https://lzqhardworker.github.io/RT-VTON/) |
 | DGP | Weakly Supervised High-Fidelity Clothing Model Generation | CVPR 2022 | [paper](https://arxiv.org/abs/2112.07200) | - |
@@ -268,14 +283,15 @@ Personal Styling
 ### Buying
 
 #### Trend Analysis
-| Model | Title | Publication | Paper | Link |
-| ----- | ----- | ----------- | ----- | ---- |
-| POP | POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion | ECCV 2022 | -> | [project](https://github.com/HumaticsLAB/POP-Mining-POtential-Performance) |
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ---- |
+| POP | POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion | ECCV 2022 | -> | [project](https://github.com/HumaticsLAB/POP-Mining-POtential-Performance) | Italy |
+| Visuelle 2.0 | The multi-modal universe of fast-fashion: the Visuelle 2.0 benchmark | 5th CVFAD (CVPR 2022 workshop) | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Skenderi_The_Multi-Modal_Universe_of_Fast-Fashion_The_Visuelle_2.0_Benchmark_CVPRW_2022_paper.pdf) | [project](https://humaticslab.github.io/forecasting/visuelle) | Italy |
 
 
 ## 👀Workshops
-1. Workshop on Computer Vision for Fashion, Art, and Design (CVPR Workshop): [CVFAD 2023](https://sites.google.com/view/cvfad2023/home), [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
-2. Workshop on Multimedia Computing towards Fashion Recommendation (ACM MM Workshop): [MCFR 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3554765)
+1. Computer Vision for Fashion, Art, and Design (CVPR Workshop): [CVFAD 2023](https://sites.google.com/view/cvfad2023/home), [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
+2. Multimedia Computing towards Fashion Recommendation (ACM MM Workshop): [MCFR 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3554765)
 3. Machine Learning for Creativity and Design (NeurIPS Workshop): [ML4CD 2023](https://neuripscreativityworkshop.github.io/2023/), [ML4CD 2022](https://neuripscreativityworkshop.github.io/2022/)
 4. Creative AI Across Modalities (AAAI Workshop): [creativeAI 2023](https://creativeai-ws.github.io/#cfp)
 
