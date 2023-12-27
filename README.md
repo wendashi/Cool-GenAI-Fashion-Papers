@@ -88,7 +88,6 @@ Summary developments of technology
 | A Survey of Artificial Intelligence in Fashion | IEEE Signal Process. Mag. 2023 | [paper](https://ieeexplore.ieee.org/document/10113373) | Overview | Taiwan (China) |
 | AI Assisted Fashion Design: A Review | IEEE Access 2023 | [paper](https://ieeexplore.ieee.org/document/10223039) | Fashion Design | China |
 | Computational Technologies for Fashion Recommendation: A Survey | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3627100) | Fashion Recommendation | Hong Kong (China) |
-| Methods and advancement of content-based fashion image retrieval: A Review | CoRR 2023 | [paper](https://arxiv.org/abs/2303.17371) | Fashion Retrieval | China |
 | A Review of Modern Fashion Recommender Systems | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3624733) | Fashion Recommendation | Italy |
 | A survey on Fashion Image Retrieval | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3636552) | Fashion Retrieval | India |
 | Appearance and Pose-Guided Human Generation: A Survey | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3637060) | Fashion Generation | Hong Kong (China) |
