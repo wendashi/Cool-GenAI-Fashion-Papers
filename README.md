@@ -26,7 +26,7 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Selling](#selling)  | [Selling Agent](#selling-agent) | - |
 | [Styling](#styling)  | [Compatibility Learning](#compatibility-learning) | - |
 | [Styling](#styling) | [Outfit Recommendation](#outfit-recommendation) | - |
-| [Design](#design) | [Synthesis](#synthesis)| - |
+| [Design](#design) | [2D Synthesis](#2d-synthesis)| - |
 | [Design](#design) | [Try-On](#try-on)| - |
 | [Design](#design) | [Editing](#editing)| - |
 | [Design](#design) | [Design Agent](#design-agent) | - |
@@ -56,7 +56,7 @@ graph LR
   Styling --> CompatibilityLearning[Compatibility Learning]
   Styling --> OutfitRecommendation[Outfit Recommendation]
 
-  Design --> Synthesis[Synthesis]
+  Design --> 2DSynthesis[2D Synthesis]
   Design --> TryOn[Try-On]
   Design --> Editing[Editing]
   Design --> DesignAgent[Design Agent]
@@ -181,7 +181,7 @@ Personal Styling
 | SHIFT15M | SHIFT15M: Fashion-specific dataset for set-to-set matching with several distribution shifts | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/11SUgNGdCjx7Z0rMX2VdFp-vQJuJPR5bD/view) | [code](https://github.com/st-tech/zozo-shift15m) | Japan |
 
 ### Design
-#### Synthesis
+#### 2D Synthesis
 
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
