@@ -83,20 +83,20 @@ graph LR
 
 Summary developments of technology
 
-| Title | Publication | Paper | Link | Region | 
+| Title | Publication | Paper | Type | Region | 
 | ----- | ----------- | ----- | ---- | ------------ |
-| A Survey of Artificial Intelligence in Fashion | IEEE Signal Process. Mag. 2023 | [paper](https://ieeexplore.ieee.org/document/10113373) | - | Taiwan (China) |
-| AI Assisted Fashion Design: A Review | IEEE Access 2023 | [paper](https://ieeexplore.ieee.org/document/10223039) | - | China |
-| Computational Technologies for Fashion Recommendation: A Survey | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3627100) | - | Hong Kong (China) |
-| Methods and advancement of content-based fashion image retrieval: A Review | CoRR 2023 | [paper](https://arxiv.org/abs/2303.17371) | - | China |
-| A Review of Modern Fashion Recommender Systems | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3624733) | - | America |
-| A survey on Fashion Image Retrieval | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3636552) | - | India |
-| Appearance and Pose-Guided Human Generation: A Survey | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3637060) | - | Hong Kong (China) |
-| Analytics Applications in Fashion Supply Chain Management—A Review of Literature and Practice | IEEE Trans Eng Manag 2023 | [paper](https://ieeexplore.ieee.org/document/9461179/authors) | - | Germany |
-| Deep Learning Approaches for Fashion Knowledge Extraction From Social Media: A Review. | IEEE Access 2022 | [paper](https://ieeexplore.ieee.org/document/9661397) | - | Italy |
-| Defining digital fashion: Reshaping the field via a systematic review | Comput. Hum. Behav. 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S0747563222002291?via=ihub) | - | South Korea |
-| A Review of AI (Artificial Intelligence) Tools and Customer Experience in Online Fashion Retail | Int. J. E Bus. Res. 2022 | [paper](https://www.igi-global.com/gateway/article/294111) | - | India |
-| Fashion Meets Computer Vision: A Survey. | ACM Comput. Surv. 2022 | [paper](https://dl.acm.org/doi/10.1145/3627100) | - | Taiwan (China)  |
+| A Survey of Artificial Intelligence in Fashion | IEEE Signal Process. Mag. 2023 | [paper](https://ieeexplore.ieee.org/document/10113373) | Overview | Taiwan (China) |
+| AI Assisted Fashion Design: A Review | IEEE Access 2023 | [paper](https://ieeexplore.ieee.org/document/10223039) | Fashion Design | China |
+| Computational Technologies for Fashion Recommendation: A Survey | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3627100) | Fashion Recommendation | Hong Kong (China) |
+| Methods and advancement of content-based fashion image retrieval: A Review | CoRR 2023 | [paper](https://arxiv.org/abs/2303.17371) | Fashion Retrieval | China |
+| A Review of Modern Fashion Recommender Systems | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3624733) | Fashion Recommendation | Italy |
+| A survey on Fashion Image Retrieval | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3636552) | Fashion Retrieval | India |
+| Appearance and Pose-Guided Human Generation: A Survey | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3637060) | Fashion Generation | Hong Kong (China) |
+| Analytics Applications in Fashion Supply Chain Management—A Review of Literature and Practice | IEEE Trans Eng Manag 2023 | [paper](https://ieeexplore.ieee.org/document/9461179/authors) | Fashion Supply Chain | Germany |
+| Deep Learning Approaches for Fashion Knowledge Extraction From Social Media: A Review. | IEEE Access 2022 | [paper](https://ieeexplore.ieee.org/document/9661397) | Fashion Knowledge Extraction | Italy |
+| Defining digital fashion: Reshaping the field via a systematic review | Comput. Hum. Behav. 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S0747563222002291?via=ihub) | Digital Fashion | South Korea |
+| A Review of AI (Artificial Intelligence) Tools and Customer Experience in Online Fashion Retail | Int. J. E Bus. Res. 2022 | [paper](https://www.igi-global.com/gateway/article/294111) | Fashion Retail | India |
+| Fashion Meets Computer Vision: A Survey. | ACM Comput. Surv. 2022 | [paper](https://dl.acm.org/doi/10.1145/3627100) | Overview | Taiwan (China)  |
 
 ### Evaluation
 
