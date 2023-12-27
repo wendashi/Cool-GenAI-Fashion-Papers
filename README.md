@@ -91,11 +91,14 @@ Summary developments of technology
 | Deep Learning Approaches for Fashion Knowledge Extraction From Social Media: A Review. | IEEE Access 2022 | [paper](https://ieeexplore.ieee.org/document/9661397) | Fashion Knowledge Extraction | Italy |
 | Defining digital fashion: Reshaping the field via a systematic review | Comput. Hum. Behav. 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S0747563222002291?via=ihub) | Digital Fashion | South Korea |
 | A Review of AI (Artificial Intelligence) Tools and Customer Experience in Online Fashion Retail | Int. J. E Bus. Res. 2022 | [paper](https://www.igi-global.com/gateway/article/294111) | Fashion Retail | India |
-| Fashion Meets Computer Vision: A Survey. | ACM Comput. Surv. 2022 | [paper](https://dl.acm.org/doi/10.1145/3447239) | Overview | Taiwan (China)  |
+| Fashion Meets Computer Vision: A Survey. | ACM Comput. Surv. 2021 | [paper](https://dl.acm.org/doi/10.1145/3447239) | Overview | Taiwan (China)  |
 | Smart Fashion: A Review of AI Applications in the Fashion & Apparel Industry | arxiv 2021 | [paper](https://arxiv.org/pdf/2111.00905) | Overview | Iran |
 | Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion | arxiv 2021 | [paper](https://arxiv.org/abs/2101.08301) | Overview | China |
-| fAshIon after fashion: A Report of AI in Fashion | arxiv 2021 | [paper](https://arxiv.org/abs/2105.03050) | Overview | Hong Kong (China)  |
-
+| Fashion Recommendation Systems, Models and Methods: A Review | Informatics 2021 | [paper](https://www.mdpi.com/2227-9709/8/3/49#:~:text=Fashion%20Recommendation%20Systems%2C%20Models%20and%20Methods%3A%20A%20Review,Metrics%20Used%20in%20Fashion%20Recommendation%20System%20Evaluation%20) | Fashion Recommendation | USA  |
+| A Detailed Review of Artificial Intelligence Applied in the Fashion and Apparel Industry | IEEE Access 2019 | [paper](https://ieeexplore.ieee.org/document/8763948) | Overview | France  |
+| An Overview of Image Recognition and Retrieval of Clothing items | RICE 2018 | [paper](https://ieeexplore.ieee.org/document/8763948) | Fashion Retrieval | India |
+| When Multimedia Meets Fashion | IEEE MultiMedia 2018 | [paper](https://ieeexplore.ieee.org/document/8589035) | Overview | China |
+| Fashion Analysis: Current Techniques and Future Directions | IEEE MultiMedia 2014 | [paper](https://ieeexplore.ieee.org/abstract/document/6818912) | Overview | Singapore  |
 
 ### Evaluation
 
