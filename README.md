@@ -2,10 +2,6 @@
 
 🧢🕶️🥼👖👟🧳 A curated list of cool resources about GenAI-Fashion, including 📝papers, 👀workshops, 🚀companies & products, ...
 
-All the GenAI-Fashion papers listed have been published since 2022.
-
-For resources before 2022, please refer to [Other FashionAI Resources](#other-fashionai-resources).
-
 Feel free to send a PR or open an issue.
 
 
@@ -95,7 +91,11 @@ Summary developments of technology
 | Deep Learning Approaches for Fashion Knowledge Extraction From Social Media: A Review. | IEEE Access 2022 | [paper](https://ieeexplore.ieee.org/document/9661397) | Fashion Knowledge Extraction | Italy |
 | Defining digital fashion: Reshaping the field via a systematic review | Comput. Hum. Behav. 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S0747563222002291?via=ihub) | Digital Fashion | South Korea |
 | A Review of AI (Artificial Intelligence) Tools and Customer Experience in Online Fashion Retail | Int. J. E Bus. Res. 2022 | [paper](https://www.igi-global.com/gateway/article/294111) | Fashion Retail | India |
-| Fashion Meets Computer Vision: A Survey. | ACM Comput. Surv. 2022 | [paper](https://dl.acm.org/doi/10.1145/3627100) | Overview | Taiwan (China)  |
+| Fashion Meets Computer Vision: A Survey. | ACM Comput. Surv. 2022 | [paper](https://dl.acm.org/doi/10.1145/3447239) | Overview | Taiwan (China)  |
+| Smart Fashion: A Review of AI Applications in the Fashion & Apparel Industry | arxiv 2021 | [paper](https://arxiv.org/pdf/2111.00905) | Overview | Iran |
+| Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion | arxiv 2021 | [paper](https://arxiv.org/abs/2101.08301) | Overview | China |
+| fAshIon after fashion: A Report of AI in Fashion | arxiv 2021 | [paper](https://arxiv.org/abs/2105.03050) | Overview | Hong Kong (China)  |
+
 
 ### Evaluation
 
