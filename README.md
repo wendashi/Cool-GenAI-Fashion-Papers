@@ -29,7 +29,7 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Design](#design) | [Video Generation](#video-generation)  | - |
 | [Design](#design) | [UV Generation](#uv-generation)  | - |
 | [Design](#design) | [3D Synthesis](#3d-synthesis) | - |
-| [Design](#design) | [Reconstruction](#reconstruction) | - |
+| [Design](#design) | [3D Reconstruction](#3d-reconstruction) | - |
 | [Buying](#buying) | [Trend Analysis](#trend-analysis) | - |
 
 ```mermaid
@@ -59,7 +59,7 @@ graph LR
   Design --> VideoGeneration[Video Generation]
   Design --> UVGeneration[UV Generation]
   Design --> 3DSynthesis[3D Synthesis]
-  Design --> Reconstruction[Reconstruction]
+  Design --> 3DReconstruction[3D Reconstruction]
   
   Buying --> TrendAnalysis[Trend Analysis]
   
