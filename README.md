@@ -1,6 +1,8 @@
 # 🕶️ Cool-GenAI-Fashion-Papers
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/Cool-GenAI-Fashion-Papers)
+[![Cool](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/user/repo.svg?style=social&label=Stars)](https://github.com/wendashi/Cool-GenAI-Fashion-Papers)
+ [![Cool](https://img.shields.io/badge/Cool-%F0%9F%86%92-blue)](https://awesome.re)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/Cool-GenAI-Fashion-Papers)
 
 🧢🕶️🥼👖👟🧳 A curated list of cool resources about GenAI-Fashion, including 📝papers, 👀workshops, 🚀companies & products, ...
 
