@@ -1,5 +1,7 @@
 # 🕶️ Cool-GenAI-Fashion-Papers
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/Cool-GenAI-Fashion-Papers)
+
 🧢🕶️🥼👖👟🧳 A curated list of cool resources about GenAI-Fashion, including 📝papers, 👀workshops, 🚀companies & products, ...
 
 Feel free to send a PR or open an issue.
