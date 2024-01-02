@@ -94,9 +94,9 @@ Summary developments of technology
 | Defining digital fashion: Reshaping the field via a systematic review | Comput. Hum. Behav. 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S0747563222002291?via=ihub) | Digital Fashion | South Korea |
 | A Review of AI (Artificial Intelligence) Tools and Customer Experience in Online Fashion Retail | Int. J. E Bus. Res. 2022 | [paper](https://www.igi-global.com/gateway/article/294111) | Fashion Retail | India |
 | Fashion Meets Computer Vision: A Survey. | ACM Comput. Surv. 2021 | [paper](https://dl.acm.org/doi/10.1145/3447239) | Overview | Taiwan (China)  |
-| Smart Fashion: A Review of AI Applications in the Fashion & Apparel Industry | arXiv 2021 | [paper](https://arXiv.org/pdf/2111.00905) | Overview | Iran |
-| fAshIon after fashion: A Report of AI in Fashion | arXiv 2021 | [paper](https://arXiv.org/abs/2105.03050) | Overview | Hong Kong(China) |
-| Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion | arXiv 2021 | [paper](https://arXiv.org/abs/2101.08301) | Overview | China |
+| Smart Fashion: A Review of AI Applications in the Fashion & Apparel Industry | Preprint 2021 | [paper](https://arXiv.org/pdf/2111.00905) | Overview | Iran |
+| fAshIon after fashion: A Report of AI in Fashion | Preprint 2021 | [paper](https://arXiv.org/abs/2105.03050) | Overview | Hong Kong(China) |
+| Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion | Preprint 2021 | [paper](https://arXiv.org/abs/2101.08301) | Overview | China |
 | Fashion Recommendation Systems, Models and Methods: A Review | Informatics 2021 | [paper](https://www.mdpi.com/2227-9709/8/3/49#:~:text=Fashion%20Recommendation%20Systems%2C%20Models%20and%20Methods%3A%20A%20Review,Metrics%20Used%20in%20Fashion%20Recommendation%20System%20Evaluation%20) | Fashion Recommendation | USA  |
 | A Detailed Review of Artificial Intelligence Applied in the Fashion and Apparel Industry | IEEE Access 2019 | [paper](https://ieeexplore.ieee.org/document/8763948) | Overview | France  |
 | An Overview of Image Recognition and Retrieval of Clothing items | RICE 2018 | [paper](https://ieeexplore.ieee.org/document/8763948) | Fashion Retrieval | India |
@@ -235,7 +235,7 @@ Personal Styling
 | DCI-VTON | Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612255) | [code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) | China |
 | PG-VTON | PG-VTON: A Novel Image-Based Virtual Try-On Method via Progressive Inference Paradigm | TMM 2023 | [paper](https://arXiv.org/abs/2304.08956) | [code](https://github.com/NerdFNY/PGVTON) | China |
 | DOC-VTON | OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup | TMM 2023 | [paper](https://arXiv.org/abs/2301.00965) | [code](https://github.com/JyChen9811/DOC-VTON) | China |
-| StableVITON | StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On | arXiv | -> | [project](https://rlawjdghek.github.io/StableVITON/) | South Korea |
+| StableVITON | StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On | Preprint 2023 | -> | [project](https://rlawjdghek.github.io/StableVITON/) | South Korea |
 
 #### Editing
 | Model | Title | Publication | Paper | Link | Region |
@@ -248,15 +248,15 @@ Personal Styling
 #### Design Agent
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
-| FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arXiv | -> | [project](https://zheng-chong.github.io/FashionMatrix/) | China |
+| FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | Preprint 2023 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) | China |
 
 #### Video Generation
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | wFlow | Dressing in the Wild by Watching Dance Videos | CVPR 2022 | -> | [project](https://awesome-wflow.github.io/) | China |
 | ClothFormer | ClothFormer: Taming Video Virtual Try-on in All Module | CVPR 2022 | -> | [project](https://cloth-former.github.io/) | China |
-| GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | arXiv | -> | [project](https://gpt4motion.github.io/) | China |
-| Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | arXiv | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
+| GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | Preprint 2023 | -> | [project](https://gpt4motion.github.io/) | China |
+| Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | Preprint 2023 | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
 
 #### UV Generation
 | Model | Title | Publication | Paper | Link | Region |
