@@ -9,7 +9,7 @@ Feel free to send a PR or open an issue.
 
 ## Table Of Content
 
-The structure of the category follows [fAshIon after fashion: A Report of AI in Fashion](https://Preprint 2023.org/abs/2105.03050)
+The structure of the category follows [fAshIon after fashion: A Report of AI in Fashion](https://arVix.org/abs/2105.03050)
 
 - [📝Papers](#papers)
 
@@ -94,9 +94,9 @@ Summary developments of technology
 | Defining digital fashion: Reshaping the field via a systematic review | Comput. Hum. Behav. 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S0747563222002291?via=ihub) | Digital Fashion | South Korea |
 | A Review of AI (Artificial Intelligence) Tools and Customer Experience in Online Fashion Retail | Int. J. E Bus. Res. 2022 | [paper](https://www.igi-global.com/gateway/article/294111) | Fashion Retail | India |
 | Fashion Meets Computer Vision: A Survey. | ACM Comput. Surv. 2021 | [paper](https://dl.acm.org/doi/10.1145/3447239) | Overview | Taiwan (China)  |
-| Smart Fashion: A Review of AI Applications in the Fashion & Apparel Industry | Preprint 2023 2021 | [paper](https://Preprint 2023.org/pdf/2111.00905) | Overview | Iran |
-| fAshIon after fashion: A Report of AI in Fashion | Preprint 2023 2021 | [paper](https://Preprint 2023.org/abs/2105.03050) | Overview | Hong Kong(China) |
-| Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion | Preprint 2023 2021 | [paper](https://Preprint 2023.org/abs/2101.08301) | Overview | China |
+| Smart Fashion: A Review of AI Applications in the Fashion & Apparel Industry | arVix 2021 | [paper](https://arVix.org/pdf/2111.00905) | Overview | Iran |
+| fAshIon after fashion: A Report of AI in Fashion | arVix 2021 | [paper](https://arVix.org/abs/2105.03050) | Overview | Hong Kong(China) |
+| Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion | arVix 2021 | [paper](https://arVix.org/abs/2101.08301) | Overview | China |
 | Fashion Recommendation Systems, Models and Methods: A Review | Informatics 2021 | [paper](https://www.mdpi.com/2227-9709/8/3/49#:~:text=Fashion%20Recommendation%20Systems%2C%20Models%20and%20Methods%3A%20A%20Review,Metrics%20Used%20in%20Fashion%20Recommendation%20System%20Evaluation%20) | Fashion Recommendation | USA  |
 | A Detailed Review of Artificial Intelligence Applied in the Fashion and Apparel Industry | IEEE Access 2019 | [paper](https://ieeexplore.ieee.org/document/8763948) | Overview | France  |
 | An Overview of Image Recognition and Retrieval of Clothing items | RICE 2018 | [paper](https://ieeexplore.ieee.org/document/8763948) | Fashion Retrieval | India |
@@ -199,9 +199,9 @@ Personal Styling
 | generative.fashion | Fashioning the Future: Unlocking the Creative Potential of Deep Generative Models for Design Space Exploration | CHI EA 2023 | [paper](https://dl.acm.org/doi/abs/10.1145/3544549.3585644) | [project](https://generative.fashion/) | Switzerland |
 | AI Archive | Generative AI for Concept Creation in Footwear Design | INVITED-TALK (SIGGRAPH 2023) | [paper](https://dl.acm.org/doi/10.1145/3587421.3595416) | - | Germany |
 | UnitedHuman | UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation | ICCV 2023 | -> | [project](https://unitedhuman.github.io/) | China |
-| FreeDoM | FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | ICCV 2023 | [paper](https://Preprint 2023.org/abs/2303.09833) | [code](https://github.com/vvictoryuki/FreeDoM) | China |
-| BoxDiff | BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | ICCV 2023 | [paper](https://Preprint 2023.org/abs/2307.10816) | [code](https://github.com/showlab/BoxDiff) | Singapore |
-| ControlNet | Adding Conditional Control to Text-to-Image Diffusion Models | ICCV2023 | [paper](https://Preprint 2023.org/abs/2302.05543) | [code](https://github.com/lllyasviel/ControlNet) | USA |
+| FreeDoM | FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | ICCV 2023 | [paper](https://arVix.org/abs/2303.09833) | [code](https://github.com/vvictoryuki/FreeDoM) | China |
+| BoxDiff | BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion | ICCV 2023 | [paper](https://arVix.org/abs/2307.10816) | [code](https://github.com/showlab/BoxDiff) | Singapore |
+| ControlNet | Adding Conditional Control to Text-to-Image Diffusion Models | ICCV2023 | [paper](https://arVix.org/abs/2302.05543) | [code](https://github.com/lllyasviel/ControlNet) | USA |
 | PromptStyler | PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization | ICCV 2023 | -> | [project](https://promptstyler.github.io/) | South Korea |
 | Diffusart | Diffusart: Enhancing Line Art Colorization with Conditional Diffusion Models | 6th CVFAD (CVPR 2023 workshop | [paper](https://drive.google.com/file/d/1yShjhoGVYavSab5iRwvUD9hpVGGk8wfE/view) | - | France |
 | Gatha | Gatha: Relational Loss for enhancing text-based style transfer | 6th CVFAD (CVPR 2023 workshop | [paper](https://drive.google.com/file/d/13yCg7QDeMM7lKyl4ApMSpMYFr6WDkSe3/view) | - | USA |
@@ -225,44 +225,44 @@ Personal Styling
 | DP-VTON | Towards Detailed Characteristic-Preserving Virtual Try-On | 5th CVFAD (CVPR 2022 workshop) | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Lee_Towards_Detailed_Characteristic-Preserving_Virtual_Try-On_CVPRW_2022_paper.pdf) | - | South Korea |
 | Flow-Style-VTON | Style-Based Global Appearance Flow for Virtual Try-On | CVPR 2022 | -> | [project](https://github.com/SenHe/Flow-Style-VTON/) | UK |
 | RT-VTON | Full-Range Virtual Try-On with Recurrent Tri-Level Transform | CVPR 2022 | -> | [project](https://lzqhardworker.github.io/RT-VTON/) | China, Singapore |
-| DGP | Weakly Supervised High-Fidelity Clothing Model Generation | CVPR 2022 | [paper](https://Preprint 2023.org/abs/2112.07200) | - | China |
-| FashionTex | FashionTex: Controllable Virtual Try-on with Text and Texture. | SIGGRAPH 2023 | [paper](https://Preprint 2023.org/abs/2305.04451) | [code](https://github.com/picksh/FashionTex) | China |
+| DGP | Weakly Supervised High-Fidelity Clothing Model Generation | CVPR 2022 | [paper](https://arVix.org/abs/2112.07200) | - | China |
+| FashionTex | FashionTex: Controllable Virtual Try-on with Text and Texture. | SIGGRAPH 2023 | [paper](https://arVix.org/abs/2305.04451) | [code](https://github.com/picksh/FashionTex) | China |
 | FreqHPT | FreqHPT: Frequency-aware attention and flow fusion for Human Pose Transfer | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1N-GINjfBo9YoNmuE0CKjGyrbE1uHWx-i/view) | - | China |
 |  SAL-VTON | Linking Garment with Person via Semantically Associated Landmarks for Virtual Try-On | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.pdf) | [project](https://modelscope.cn/datasets/damo/SAL-HG/summary) | China |
 | TryOnDiffusion | TryOnDiffusion: A Tale of Two UNets | CVPR 2023 | -> | [project](https://tryondiffusion.github.io/) | USA |
 | GP-VTON | GP-VTON: Towards General Purpose Virtual Try-on via Collaborative Local-Flow Global-Parsing Learning | CVPR 2023 | -> | [project](https://github.com/xiezhy6/GP-VTON) | China |
 | LaDI-VTON | LaDI-VTON:Latent Diffusion Textual-Inversion Enhanced Virtual Try-On | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612137) | [code](https://github.com/miccunifi/ladi-vton) | Italy |
 | DCI-VTON | Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612255) | [code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) | China |
-| PG-VTON | PG-VTON: A Novel Image-Based Virtual Try-On Method via Progressive Inference Paradigm | TMM 2023 | [paper](https://Preprint 2023.org/abs/2304.08956) | [code](https://github.com/NerdFNY/PGVTON) | China |
-| DOC-VTON | OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup | TMM 2023 | [paper](https://Preprint 2023.org/abs/2301.00965) | [code](https://github.com/JyChen9811/DOC-VTON) | China |
-| StableVITON | StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On | Preprint 2023 | -> | [project](https://rlawjdghek.github.io/StableVITON/) | South Korea |
+| PG-VTON | PG-VTON: A Novel Image-Based Virtual Try-On Method via Progressive Inference Paradigm | TMM 2023 | [paper](https://arVix.org/abs/2304.08956) | [code](https://github.com/NerdFNY/PGVTON) | China |
+| DOC-VTON | OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup | TMM 2023 | [paper](https://arVix.org/abs/2301.00965) | [code](https://github.com/JyChen9811/DOC-VTON) | China |
+| StableVITON | StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On | arVix | -> | [project](https://rlawjdghek.github.io/StableVITON/) | South Korea |
 
 #### Editing
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | SketchEdit | SketchEdit: Mask-Free Local Image Manipulation with Partial Sketches | CVPR 2022 | -> | [project](https://zengxianyu.github.io/sketchedit/) | USA |
 | Patternshop | Patternshop: Editing Point Patterns by Image Manipulation | SIGGRAPH 2023 | -> | [project](https://xchhuang.github.io/patternshop/index.html) | Germany |
-| MGD | Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing | ICCV 2023 | [paper](https://Preprint 2023.org/abs/2304.02051) | [code](https://github.com/aimagelab/multimodal-garment-designer) | Italy |
+| MGD | Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing | ICCV 2023 | [paper](https://arVix.org/abs/2304.02051) | [code](https://github.com/aimagelab/multimodal-garment-designer) | Italy |
 | EditAnything | EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612680) | [project](https://github.com/sail-sg/EditAnything) | China |
 
 #### Design Agent
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
-| FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | Preprint 2023 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) | China |
+| FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | arVix | -> | [project](https://zheng-chong.github.io/FashionMatrix/) | China |
 
 #### Video Generation
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | wFlow | Dressing in the Wild by Watching Dance Videos | CVPR 2022 | -> | [project](https://awesome-wflow.github.io/) | China |
 | ClothFormer | ClothFormer: Taming Video Virtual Try-on in All Module | CVPR 2022 | -> | [project](https://cloth-former.github.io/) | China |
-| GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | Preprint 2023 | -> | [project](https://gpt4motion.github.io/) | China |
-| Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | Preprint 2023 | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
+| GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | arVix | -> | [project](https://gpt4motion.github.io/) | China |
+| Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | arVix | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
 
 #### UV Generation
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
-| TemporalUV | TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates | CVPR 2022 | [paper](https://Preprint 2023.org/abs/2204.03671) | - | Germany |
-| - | Normal-guided Garment UV Prediction for Human Re-texturing | CVPR 2023 | [paper](https://Preprint 2023.org/abs/2303.06504) | - | USA |
+| TemporalUV | TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates | CVPR 2022 | [paper](https://arVix.org/abs/2204.03671) | - | Germany |
+| - | Normal-guided Garment UV Prediction for Human Re-texturing | CVPR 2023 | [paper](https://arVix.org/abs/2303.06504) | - | USA |
 
 #### 3D Synthesis
 | Model | Title | Publication | Paper | Link | Region |
@@ -291,7 +291,7 @@ Personal Styling
 | CrossHuman | CrossHuman: Learning Cross-guidance from Multi-frame Images for Human Reconstruction | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548351) | - | China |
 | ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images | CVPR 2022 | -> | [project](https://kv2000.github.io/2022/03/28/reef/) | China |
 | PHORHUM | Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing | CVPR 2022 | -> | [project](https://phorhum.github.io/) | USA |
-| NeuralTailor | NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments | SIGGRAPH 2022 | [paper](https://Preprint 2023.org/abs/2201.13063) | - | South Korea |
+| NeuralTailor | NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments | SIGGRAPH 2022 | [paper](https://arVix.org/abs/2201.13063) | - | South Korea |
 | SewFormer | Towards Garment Sewing Pattern Reconstruction from a Single Image | TOG (SIGGRAPH Asia 2023) | -> | [project](https://sewformer.github.io/) | Singapore |
 | GTA | Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction | NIPS 2023 | -> | [project](https://river-zhang.github.io/GTA-projectpage/) | China |
 | SeSDF | SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_SeSDF_Self-Evolved_Signed_Distance_Field_for_Implicit_3D_Clothed_Human_CVPR_2023_paper.pdf) | - | Hong Kong (China) |
@@ -388,5 +388,5 @@ Personal Styling
 7. [GAN-Inversion Survey](https://github.com/weihaox/GAN-Inversion#gan-inversion-a-survey)
 8. [A Survey on Deep Generative 3D-aware Image Synthesis](https://weihaox.github.io/3D-aware-Gen/)
 9. [Awesome 3D Generation](https://github.com/justimyhxu/awesome-3D-generation)
-10. [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://Preprint 2023.org/abs/2305.06131)
+10. [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arVix.org/abs/2305.06131)
 11. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech)
