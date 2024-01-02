@@ -9,7 +9,7 @@ Feel free to send a PR or open an issue.
 
 ## Table Of Content
 
-The structure of the category follows [fAshIon after fashion: A Report of AI in Fashion](https://arVix.org/abs/2105.03050)
+The structure of the category follows [fAshIon after fashion: A Report of AI in Fashion](https://arXiv.org/abs/2105.03050)
 
 - [📝Papers](#papers)
 
