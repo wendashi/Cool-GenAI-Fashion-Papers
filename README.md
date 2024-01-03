@@ -112,6 +112,7 @@ Evaluation protocols for specific tasks
 | ----- | ----------- | ----- | ---- | ------------ |
 | How Good Is Aesthetic Ability of a Fashion Model? | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.html) | [dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data) | Hong Kong (China) |
 | An Evaluation of Artificial Intelligence Components in E-Commerce Fashion Platforms | WorldCIST 2022 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-04826-5_27) | - | Portugal |
+| Where are my clothes? A multi-level approach for evaluating deep instance segmentation architectures on fashion images | 4th CVFAD (CVPR 2021 workshop)  | [paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Jouanneau_Where_Are_My_Clothes_A_Multi-Level_Approach_for_Evaluating_Deep_CVPRW_2021_paper.pdf) | - | France |
 | Assessing Fashion Recommendations: A Multifaceted Offline Evaluation Approach | recsysXfashion 2019 (RecSys 2019 workshop) | [paper](https://arxiv.org/abs/1909.04496) | - | USA |
 
 
