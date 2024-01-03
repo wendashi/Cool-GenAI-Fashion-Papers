@@ -112,6 +112,7 @@ Evaluation protocols for specific tasks
 | ----- | ----------- | ----- | ---- | ------------ |
 | How Good Is Aesthetic Ability of a Fashion Model? | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.html) | [dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data) | Hong Kong (China) |
 | An Evaluation of Artificial Intelligence Components in E-Commerce Fashion Platforms | WorldCIST 2022 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-04826-5_27) | - | Portugal |
+| Assessing Fashion Recommendations: A Multifaceted Offline Evaluation Approach | recsysXfashion 2019 (RecSys 2019 workshop) | [paper](https://arxiv.org/abs/1909.04496) | - | USA |
 
 
 ### Basic Tech
@@ -126,9 +127,9 @@ Understanding of fashion images
 | FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV 2022 | -> | [project](https://github.com/BrandonHanx/mmf) | UK |
 | FAME-ViL | FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks | CVPR 2023 | -> | [project](https://github.com/BrandonHanx/FAME-ViL) | UK |
 | FashionSAP | FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training | CVPR 2023 | -> | [project](https://github.com/hssip/FashionSAP) | China |
-| FashionVQA | FashionVQA: A Domain-Specific Visual Question Answering System | 6th CVFAD (CVPR 2023) | [paper](https://drive.google.com/file/d/1o110CVrktV3lYDH-VG7-gnI9jlrjpun_/view) | - | USA |
-| VSE | Fashion-Specific Ambiguous Expression Interpretation with Partial Visual-Semantic Embedding | 6th CVFAD (CVPR 2023) | [paper](https://drive.google.com/file/d/1mTI2QvV42Cb4X2jd76y2CVerF6zCLAJ_/view) | - | Japan |
-| SkiLL | SkiLL: Skipping Color and Label Landscape: Self Supervised Design Representations for Products in E-commerce | 6th CVFAD (CVPR 2023) | [paper](https://drive.google.com/file/d/13qSrQjvfrZmcMFjwtfb_3luQUdxJctaz/view) | - | USA |
+| FashionVQA | FashionVQA: A Domain-Specific Visual Question Answering System | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1o110CVrktV3lYDH-VG7-gnI9jlrjpun_/view) | - | USA |
+| VSE | Fashion-Specific Ambiguous Expression Interpretation with Partial Visual-Semantic Embedding | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1mTI2QvV42Cb4X2jd76y2CVerF6zCLAJ_/view) | - | Japan |
+| SkiLL | SkiLL: Skipping Color and Label Landscape: Self Supervised Design Representations for Products in E-commerce | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/13qSrQjvfrZmcMFjwtfb_3luQUdxJctaz/view) | - | USA |
 
 
 
