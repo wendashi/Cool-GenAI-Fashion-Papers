@@ -50,7 +50,7 @@ graph LR
 
   BasicTech --> VisionLanguage[Vision Language]
   BasicTech --> Parsing[Parsing]
-  BasicTech --> SegmentationRecognitionTracking[Segmentation, Recognition, Tracking]
+  BasicTech --> SegmentationRecognition[Segmentation, Recognition]
   BasicTech --> Detection[Detection]
   BasicTech --> PoseEstimationTracking[Pose Estimation, Tracking] 
 
