@@ -36,6 +36,8 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Design](#design) | [3D Synthesis](#3d-synthesis) | - |
 | [Design](#design) | [3D Reconstruction](#3d-reconstruction) | - |
 | [Buying](#buying) | [Trend Analysis](#trend-analysis) | - |
+| [Buying](#buying) | [Knowledge Extraction](#knowledge-extraction) | - |
+
 
 ```mermaid
 graph LR
@@ -70,6 +72,7 @@ graph LR
   Design --> 3DReconstruction[3D Reconstruction]
   
   Buying --> TrendAnalysis[Trend Analysis]
+  Buying --> KnowledgeExtraction[Knowledge Extraction]
   
 ```
 
@@ -157,6 +160,7 @@ Understanding of fashion images
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ---- |
 | - | Who Blocks Who: Simultaneous clothing segmentation for grouping images | ICCV 2011 | [paper](https://ieeexplore.ieee.org/abstract/document/6126412) | - | China |
+| DeepFashion | DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations | CVPR 2016 | [paper](https://ieeexplore.ieee.org/document/7780493) | - | Hong Kong(China) |
 | - | Joint Multi-Person Pose Estimation and Semantic Part Segmentation | CVPR 2017 | [paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Xia_Joint_Multi-Person_Pose_CVPR_2017_paper.html)| - | USA |
 | Fashionpedia | Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset | ECCV 2020 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_19) | - | USA |
 | - | Segmentation task for fashion and apparel | Preprint 2020  | [paper](https://arxiv.org/abs/2006.11375) | - | USA |
@@ -193,6 +197,8 @@ Online selling
 #### Retrieval
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
+| DARN | Cross-Domain Image Retrieval with a Dual Attribute-Aware Ranking Network | ICCV 2015 | [paper](https://ieeexplore.ieee.org/document/7410484) | - | Singapore |
+| - | Interpretable Multimodal Retrieval for Fashion Products | MM 2018 | [paper](https://dl.acm.org/doi/abs/10.1145/3240508.3240646) | - | Singapore |
 | CIRPLANT | Image Retrieval on Real-Life Images With Pre-Trained Vision-and-Language Models | ICCV 2021 | [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Image_Retrieval_on_Real-Life_Images_With_Pre-Trained_Vision-and-Language_Models_ICCV_2021_paper.html) | - | Australia |
 | Fashion IQ | Fashion IQ: A New Dataset Towards Retrieving Images by Natural Language Feedback | CVPR 2021 | [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Fashion_IQ_A_New_Dataset_Towards_Retrieving_Images_by_Natural_CVPR_2021_paper.html) | - | USA |
 | MODC | Fine-grained Fashion Representation Learning by Online Deep Clustering| ECCV 2022 | [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf) | - | USA |
@@ -359,6 +365,14 @@ Personal Styling
 | ----- | ----- | ----------- | ----- | ---- | ---- |
 | POP | POP: Mining POtential Performance of new fashion products via webly cross-modal query expansion | ECCV 2022 | -> | [project](https://github.com/HumaticsLAB/POP-Mining-POtential-Performance) | Italy |
 | Visuelle 2.0 | The multi-modal universe of fast-fashion: the Visuelle 2.0 benchmark | 5th CVFAD (CVPR 2022 workshop) | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Skenderi_The_Multi-Modal_Universe_of_Fast-Fashion_The_Visuelle_2.0_Benchmark_CVPRW_2022_paper.pdf) | [project](https://humaticslab.github.io/forecasting/visuelle) | Italy |
+
+
+#### Knowledge Extraction
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ---- |
+| - | Describing Clothing by Semantic Attributes | ECCV 2012 | [paper](https://link.springer.com/chapter/10.1007/978-3-642-33712-3_44) | - | USA |
+| - | Who, Where, and What to Wear?: Extracting Fashion Knowledge from Social Media | MM 2019 | [paper](https://dl.acm.org/doi/abs/10.1145/3343031.3350889) | - | Singapore |
+| - | Multimodal Fashion Knowledge Extraction as Captioning | SIGIR-AP 2023 | [paper](https://dl.acm.org/doi/abs/10.1145/3624918.3625315) | - | Hong Kong(China) |
 
 
 ## 👀Workshops
