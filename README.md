@@ -20,8 +20,9 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Evaluation](#evaluation)  | - | - |
 | [Basic Tech](#basic-tech)  | [Vision Language](#vision-language) | - |
 | [Basic Tech](#basic-tech)  | [Parsing](#parsing) | - |
-| [Basic Tech](#basic-tech)   | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | - |
+| [Basic Tech](#basic-tech)   | [Segmentation, Recognition](#segmentation-recognition) | - |
 | [Basic Tech](#basic-tech)  | [Detection](#detection) | - |
+| [Basic Tech](#basic-tech)  | [Pose Estimation, Tracking](#pose-estimation-tracking) | - |
 | [Selling](#selling)  | [Retrieval](#retrieval) | - |
 | [Selling](#selling)  | [Selling Agent](#selling-agent) | - |
 | [Styling](#styling)  | [Compatibility Learning](#compatibility-learning) | - |
@@ -51,6 +52,7 @@ graph LR
   BasicTech --> Parsing[Parsing]
   BasicTech --> SegmentationRecognitionTracking[Segmentation, Recognition, Tracking]
   BasicTech --> Detection[Detection]
+  BasicTech --> PoseEstimationTracking[Pose Estimation, Tracking] 
 
   Selling --> Retrieval[Retrieval]
   Selling --> SellingAgent[Selling Agent]
@@ -126,14 +128,13 @@ Understanding of fashion images
 #### Vision Language
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
+| Kaleido-BERT | Kaleido-BERT: Vision-Language Pre-Training on Fashion Domain | CVPR 2021 | [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhuge_Kaleido-BERT_Vision-Language_Pre-Training_on_Fashion_Domain_CVPR_2021_paper.html) | - | China |
+| FashionVLP | FashionVLP: Vision Language Transformer for Fashion Retrieval With Feedback | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.html) | - | USA |
 | FashionCLIP | Contrastive language and vision learning of general fashion concepts | Scientific Reports (2022) | [paper](https://www.nature.com/articles/s41598-022-23052-9) | [code](https://github.com/patrickjohncyh/fashion-clip) | Canada |
 | GradREC | “Does it come in black?” CLIP-like models are zero-shot recommenders | ECNLP 5(ACL 2022 workshop) | [paper](https://aclanthology.org/2022.ecnlp-1.22/) | [code](https://github.com/patrickjohncyh/gradient-recs) | Milan |
 | FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV 2022 | -> | [project](https://github.com/BrandonHanx/mmf) | UK |
 | FAME-ViL | FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks | CVPR 2023 | -> | [project](https://github.com/BrandonHanx/FAME-ViL) | UK |
 | FashionSAP | FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training | CVPR 2023 | -> | [project](https://github.com/hssip/FashionSAP) | China |
-| FashionVQA | FashionVQA: A Domain-Specific Visual Question Answering System | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1o110CVrktV3lYDH-VG7-gnI9jlrjpun_/view) | - | USA |
-| VSE | Fashion-Specific Ambiguous Expression Interpretation with Partial Visual-Semantic Embedding | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1mTI2QvV42Cb4X2jd76y2CVerF6zCLAJ_/view) | - | Japan |
-| SkiLL | SkiLL: Skipping Color and Label Landscape: Self Supervised Design Representations for Products in E-commerce | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/13qSrQjvfrZmcMFjwtfb_3luQUdxJctaz/view) | - | USA |
 
 #### Parsing
 | Model | Title | Publication | Paper | Link | Region |
@@ -152,7 +153,7 @@ Understanding of fashion images
 | Look into Person | Look into Person: Joint Body Parsing & Pose Estimation Network and a New Benchmark | TPAMI 2019 | [paper](https://ieeexplore.ieee.org/abstract/document/8327922) | - | China |
 
 
-#### Segmentation, Recognition, Tracking
+#### Segmentation, Recognition
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ---- |
 | - | Who Blocks Who: Simultaneous clothing segmentation for grouping images | ICCV 2011 | [paper](https://ieeexplore.ieee.org/abstract/document/6126412) | - | China |
@@ -160,7 +161,6 @@ Understanding of fashion images
 | Fashionpedia | Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset | ECCV 2020 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_19) | - | USA |
 | - | Segmentation task for fashion and apparel | Preprint 2020  | [paper](https://arxiv.org/abs/2006.11375) | - | USA |
 | Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV 2022 | -> | [project](https://github.com/xushilin1/FashionFormer) | China |
-| GarmentTracking | GarmentTracking: Category-Level Garment Pose Tracking  | CVPR 2023 | -> | [project](https://garment-tracking.robotflow.ai/) | China |
 | - | DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition  | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1q89zKZ7bobBpUqkBCDypn44B1EvxnHBA/view) | - | Hong Kong (China) |
 
 
@@ -179,6 +179,13 @@ Understanding of fashion images
 | CoRe | CoRe: Color Regression for Multicolor Fashion Garments | 5th CVFAD (CVPR 2022 workshop)  | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Rame_CoRe_Color_Regression_for_Multicolor_Fashion_Garments_CVPRW_2022_paper.pdf) | - | France |
 
 
+#### Pose Estimation, Tracking
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ------------ |
+| GarmentNets | GarmentNets: Category-Level Pose Estimation for Garments via Canonical Space Shape Completion  | ICCV 2021 | -> | [project](https://garmentnets.cs.columbia.edu/) | USA |
+| GarmentTracking | GarmentTracking: Category-Level Garment Pose Tracking  | CVPR 2023 | -> | [project](https://garment-tracking.robotflow.ai/) | China |
+
+
 ### Selling
 
 Online selling
@@ -186,6 +193,8 @@ Online selling
 #### Retrieval
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
+| CIRPLANT | Image Retrieval on Real-Life Images With Pre-Trained Vision-and-Language Models | ICCV 2021 | [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Image_Retrieval_on_Real-Life_Images_With_Pre-Trained_Vision-and-Language_Models_ICCV_2021_paper.html) | - | Australia |
+| Fashion IQ | Fashion IQ: A New Dataset Towards Retrieving Images by Natural Language Feedback | CVPR 2021 | [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Fashion_IQ_A_New_Dataset_Towards_Retrieving_Images_by_Natural_CVPR_2021_paper.html) | - | USA |
 | MODC | Fine-grained Fashion Representation Learning by Online Deep Clustering| ECCV 2022 | [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf) | - | USA |
 | FashionVLP | FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.pdf) | - | USA |
 | EI-CLIP | EI-CLIP: Entity-aware Interventional Contrastive Learning for E-commerce Cross-modal Retrieval | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf) | - | USA |
@@ -200,6 +209,10 @@ Online selling
 | ----- | ----- | ----------- | ----- | ---- |  ---- |
 | - | A Conversational Shopping Assistant for Online Virtual Stores | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547738) | - | Portugal |
 | Fashion-GPT | Fashion-GPT: Integrating LLMs with Fashion Retrieval System | LGM3A '23 (MM 2023 workshop) | [paper](https://dl.acm.org/doi/10.1145/3607827.3616844) | - | Singapore |
+| FashionVQA | FashionVQA: A Domain-Specific Visual Question Answering System | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1o110CVrktV3lYDH-VG7-gnI9jlrjpun_/view) | - | USA |
+| VSE | Fashion-Specific Ambiguous Expression Interpretation with Partial Visual-Semantic Embedding | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1mTI2QvV42Cb4X2jd76y2CVerF6zCLAJ_/view) | - | Japan |
+| SkiLL | SkiLL: Skipping Color and Label Landscape: Self Supervised Design Representations for Products in E-commerce | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/13qSrQjvfrZmcMFjwtfb_3luQUdxJctaz/view) | - | USA |
+
 
 ### Styling
 
