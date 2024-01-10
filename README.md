@@ -19,9 +19,10 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Overview](#overview)  | - | - |
 | [Evaluation](#evaluation)  | - | - |
 | [Basic Tech](#basic-tech)  | [Vision Language](#vision-language) | - |
+| [Basic Tech](#basic-tech)  | [Parsing](#parsing) | - |
+| [Basic Tech](#basic-tech)   | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | - |
 | [Basic Tech](#basic-tech)  | [Detection](#detection) | - |
 | [Selling](#selling)  | [Retrieval](#retrieval) | - |
-| [Selling](#selling)  | [Segmentation, Recognition, Tracking](#segmentation-recognition-tracking) | - |
 | [Selling](#selling)  | [Selling Agent](#selling-agent) | - |
 | [Styling](#styling)  | [Compatibility Learning](#compatibility-learning) | - |
 | [Styling](#styling) | [Outfit Recommendation](#outfit-recommendation) | - |
@@ -47,9 +48,11 @@ graph LR
   GenAIFashion --> Buying[Buying]
 
   BasicTech --> VisionLanguage[Vision Language]
+  BasicTech --> Parsing[Parsing]
+  BasicTech --> SegmentationRecognitionTracking[Segmentation Recognition Tracking]
+  BasicTech --> Detection[Detection]
 
   Selling --> Retrieval[Retrieval]
-  Selling --> Segmentation[Segmentation, Recognition, Tracking]
   Selling --> SellingAgent[Selling Agent]
 
   Styling --> CompatibilityLearning[Compatibility Learning]
@@ -132,12 +135,51 @@ Understanding of fashion images
 | VSE | Fashion-Specific Ambiguous Expression Interpretation with Partial Visual-Semantic Embedding | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1mTI2QvV42Cb4X2jd76y2CVerF6zCLAJ_/view) | - | Japan |
 | SkiLL | SkiLL: Skipping Color and Label Landscape: Self Supervised Design Representations for Products in E-commerce | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/13qSrQjvfrZmcMFjwtfb_3luQUdxJctaz/view) | - | USA |
 
+#### Parsing
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ------------ |
+| - | Parsing clothing in fashion photographs  | CVPR 2012 | [paper](https://ieeexplore.ieee.org/abstract/document/6248101) | - | USA |
+| - | Paper Doll Parsing: Retrieving Similar Styles to Parse Clothing Items  | ICCV 2013 | [paper](https://www.cv-foundation.org/openaccess/content_iccv_2013/html/Yamaguchi_Paper_Doll_Parsing_2013_ICCV_paper.html) | - | USA |
+| - | Fashion Parsing With Weak Color-Category Labels  | TMM 2013 | [paper](https://ieeexplore.ieee.org/abstract/document/6630093) | - | Singapore |
+| - | Retrieving Similar Styles to Parse Clothing  | TPAMI 2014 | [paper](https://ieeexplore.ieee.org/abstract/document/6888484) | - | Japan |
+| - | Fashion Parsing with Video Context | MM 2014 | [paper](https://dl.acm.org/doi/abs/10.1145/2647868.2654932) | - | Singapore |
+| - | Parsing Based on Parselets: A Unified Deformable Mixture Model for Human Parsing | TPAMI 2015 | [paper](https://ieeexplore.ieee.org/abstract/document/7080924) | - | Singapore |
+| - | Holistic, Instance-Level Human Parsing | BMVC 2017 | [paper](https://arxiv.org/abs/1709.03612)| - | UK |
+| Look into Person | Look into Person: Joint Body Parsing & Pose Estimation Network and a New Benchmark | TPAMI 2019 | [paper](https://ieeexplore.ieee.org/abstract/document/8327922) | - | China |
+| - | Looking at Outfit to Parse Clothing | Preprint 2017 | [paper](https://arxiv.org/abs/1703.01386) | - | Japan |
+| - | Surveillance Video Parsing With Single Frame Supervision | CVPR 2017 | [paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Surveillance_Video_Parsing_CVPR_2017_paper.html) | - | China |
+| - | Clothes Co-Parsing Via Joint Image Segmentation and Labeling With Application to Clothing Retrieval | TMM 2016 | [paper](https://ieeexplore.ieee.org/abstract/document/7434660) | - | China |
+| - | Enhanced Reweighted MRFs for Efficient Fashion Image Parsing | TOMM 2016 | [paper](https://dl.acm.org/doi/abs/10.1145/2890104) | - | Canada |
+
+
+#### Segmentation, Recognition, Tracking
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ---- |
+| - | Who Blocks Who: Simultaneous clothing segmentation for grouping images | ICCV 2011 | [paper](https://ieeexplore.ieee.org/abstract/document/6126412) | - | China |
+| - | Joint Multi-Person Pose Estimation and Semantic Part Segmentation | CVPR 2017 | [paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Xia_Joint_Multi-Person_Pose_CVPR_2017_paper.html)| - | USA |
+| Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV 2022 | -> | [project](https://github.com/xushilin1/FashionFormer) | China |
+| GarmentTracking | GarmentTracking: Category-Level Garment Pose Tracking  | CVPR 2023 | -> | [project](https://garment-tracking.robotflow.ai/) | China |
+| - | DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition  | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1q89zKZ7bobBpUqkBCDypn44B1EvxnHBA/view) | - | Hong Kong (China) |
 
 
 #### Detection
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
+| - | Fashion Landmark Detection in the Wild | ECCV 2016 | [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_15) | - | Hong Kong(China) |
+| - | Unconstrained Fashion Landmark Detection via Hierarchical Recurrent Transformer Networks | MM 2017 | [paper](https://dl.acm.org/doi/abs/10.1145/3123266.3123276) | - | Hong Kong (China) |
+| - |  Spatial-aware non-local attention for fashion landmark detection | ICME 2019 | [paper](https://ieeexplore.ieee.org/abstract/document/8784817) | - | China |
+| - | Layout-Graph Reasoning for Fashion Landmark Detection | CVPR 2019 | [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Layout-Graph_Reasoning_for_Fashion_Landmark_Detection_CVPR_2019_paper.html) | - | China |
+| DeepFashion2 | DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images | CVPR 2019 | [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Ge_DeepFashion2_A_Versatile_Benchmark_for_Detection_Pose_Estimation_Segmentation_and_CVPR_2019_paper.html)| - | China |
+| - | A global-local embedding module for fashion landmark detection | 2nd CVFAD (ICCV 2019 workshop) | [paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Lee_A_Global-Local_Embedding_Module_for_Fashion_Landmark_Detection_ICCVW_2019_paper.html) | - | Korea |
+| Fashionpedia | Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset | ECCV 2020 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_19) | - | USA |
+| - |  Fashion landmark detection and category classification for robotics | ICARSC 2020  | [paper](https://ieeexplore.ieee.org/abstract/document/9096071) | - | Switzerland |
+| - | Segmentation task for fashion and apparel | Preprint 2020  | [paper](https://arxiv.org/abs/2006.11375) | - | USA |
+| - | Aggregation and Finetuning for Clothes Landmark Detection | Preprint 2020 | [paper](https://arxiv.org/abs/2005.00419) | [code](https://github.com/lzhbrian/deepfashion2-kps-agg-finetune) | China |
+| - | Improving apparel detection with category grouping and multi-grained branches | Multimedia Tools and Applications 2022  | [paper](https://link.springer.com/article/10.1007/s11042-022-13424-8) | - | USA |
 | CoRe | CoRe: Color Regression for Multicolor Fashion Garments | 5th CVFAD (CVPR 2022 workshop)  | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Rame_CoRe_Color_Regression_for_Multicolor_Fashion_Garments_CVPRW_2022_paper.pdf) | - | France |
+| - | A global-local embedding module for fashion landmark detection | 2n | paper | - | Korea |
+| - | A global-local embedding module for fashion landmark detection | 2n | paper | - | Korea |
+| - | A global-local embedding module for fashion landmark detection | 2n | paper | - | Korea |
 
 
 ### Selling
@@ -154,14 +196,6 @@ Online selling
 | UIGR | UIGR: Unified Interactive Garment Retrieval | 5th CVFAD (CVPR 2022 workshop)  | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Han_UIGR_Unified_Interactive_Garment_Retrieval_CVPRW_2022_paper.pdf) | [code](https://github.com/brandonhanx/compfashion) | UK |
 | M3-Net | Learning Attribute and Class-Specific Representation Duet for Fine-grained Fashion Analysis | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf) | - | USA |
 | - | Dynamic Network for Language-based Fashion Retrieval | MMIR ’23 (MM 2023 workshop)  | [paper](https://dl.acm.org/doi/10.1145/3606040.3617438) | - | China |
-
-
-#### Segmentation, Recognition, Tracking
-| Model | Title | Publication | Paper | Link | Region |
-| ----- | ----- | ----------- | ----- | ---- | ---- |
-| Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV 2022 | -> | [project](https://github.com/xushilin1/FashionFormer) | China |
-| GarmentTracking | GarmentTracking: Category-Level Garment Pose Tracking  | CVPR 2023 | -> | [project](https://garment-tracking.robotflow.ai/) | China |
-| - | DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition  | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1q89zKZ7bobBpUqkBCDypn44B1EvxnHBA/view) | - | Hong Kong (China) |
 
 
 #### Selling Agent
