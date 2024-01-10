@@ -49,7 +49,7 @@ graph LR
 
   BasicTech --> VisionLanguage[Vision Language]
   BasicTech --> Parsing[Parsing]
-  BasicTech --> SegmentationRecognitionTracking[Segmentation Recognition Tracking]
+  BasicTech --> SegmentationRecognitionTracking[Segmentation, Recognition, Tracking]
   BasicTech --> Detection[Detection]
 
   Selling --> Retrieval[Retrieval]
@@ -177,9 +177,6 @@ Understanding of fashion images
 | - | Aggregation and Finetuning for Clothes Landmark Detection | Preprint 2020 | [paper](https://arxiv.org/abs/2005.00419) | [code](https://github.com/lzhbrian/deepfashion2-kps-agg-finetune) | China |
 | - | Improving apparel detection with category grouping and multi-grained branches | Multimedia Tools and Applications 2022  | [paper](https://link.springer.com/article/10.1007/s11042-022-13424-8) | - | USA |
 | CoRe | CoRe: Color Regression for Multicolor Fashion Garments | 5th CVFAD (CVPR 2022 workshop)  | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Rame_CoRe_Color_Regression_for_Multicolor_Fashion_Garments_CVPRW_2022_paper.pdf) | - | France |
-| - | A global-local embedding module for fashion landmark detection | 2n | paper | - | Korea |
-| - | A global-local embedding module for fashion landmark detection | 2n | paper | - | Korea |
-| - | A global-local embedding module for fashion landmark detection | 2n | paper | - | Korea |
 
 
 ### Selling
