@@ -140,8 +140,7 @@ Understanding of fashion images
 | FashionSAP | FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training | CVPR 2023 | -> | [project](https://github.com/hssip/FashionSAP) | China |
 | MVLT | Masked Vision-language Transformer in Fashion | MIR 2023 | [paper](https://link.springer.com/article/10.1007/s11633-022-1394-4) | - | China |
 | OpenFashionCLIP | OpenFashionCLIP: Vision-and-Language Contrastive Learning with Open-Source Fashion Data | ICIAP 2023 | -> | [project](https://github.com/aimagelab/open-fashion-clip) | Italy |
-| - | A fine-grained vision and language representation framework with graph-based fashion semantic knowledge
-Author links open overlay panel | CAD/Graphics 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S009784932300153X) | - | China |
+| - | A fine-grained vision and language representation framework with graph-based fashion semantic knowledge | CAD/Graphics 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S009784932300153X) | - | China |
 
 
 
