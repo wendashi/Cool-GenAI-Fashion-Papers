@@ -159,9 +159,8 @@ Understanding of fashion images
 | - | Fine-Grained Garment Parsing: A Body Generation Approach | ICME 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9102718) | - | China |
 | SP-FEN | Superpixels Features Extractor Network (SP-FEN) for Clothing Parsing Enhancement | NPL 2020 | [paper](https://link.springer.com/article/10.1007/s11063-019-10173-y#Sec11) | - | Malaysia |
 | - | Describe Me If You Can! Characterized Instance-Level Human Parsing | ICIP 2021 | [paper](https://ieeexplore.ieee.org/abstract/document/9506509) | - | France |
-| - | Clothing Parsing using Extended U-Net | VISAPP 2021 | [paper](https://www.scitepress.org/PublishedPapers/2021/101777/101777.pdf) | - | Slovakia |
 | - | Progressive One-shot Human Parsing | AAAI 2021 | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16243) | - | Sydney |
-| UAM-Net | Unabridged adjacent modulation for clothing parsing | Pattern Recognition 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S0031320322000759) | [code](https://github.com/ctzuo/UAM-Net) | China |
+| UAM-Net | Unabridged adjacent modulation for clothing parsing | PR 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S0031320322000759) | [code](https://github.com/ctzuo/UAM-Net) | China |
 | - | Feature fusion network for clothing parsing | IJMLC 2022 | [paper](https://link.springer.com/article/10.1007/s13042-022-01519-5) | - | China |
 | CCFNet | CCFNet: Cross-Complementary fusion network for RGB-D scene parsing of clothing images | JVCI 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S1047320322002474#aep-article-footnote-id1) | - | China |
 | OMNet | OMNet: Outfit Memory Net for clothing parsing | IJCST 2023 | [paper](https://www.emerald.com/insight/content/doi/10.1108/IJCST-10-2022-0145/full/html) | - | China |
