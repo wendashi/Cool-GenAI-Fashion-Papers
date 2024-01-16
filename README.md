@@ -134,7 +134,6 @@ Understanding of fashion images
 | Kaleido-BERT | Kaleido-BERT: Vision-Language Pre-Training on Fashion Domain | CVPR 2021 | [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhuge_Kaleido-BERT_Vision-Language_Pre-Training_on_Fashion_Domain_CVPR_2021_paper.html) | - | China |
 | FashionVLP | FashionVLP: Vision Language Transformer for Fashion Retrieval With Feedback | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.html) | - | USA |
 | FashionCLIP | Contrastive language and vision learning of general fashion concepts | Scientific Reports (2022) | [paper](https://www.nature.com/articles/s41598-022-23052-9) | [code](https://github.com/patrickjohncyh/fashion-clip) | Canada |
-| GradREC | “Does it come in black?” CLIP-like models are zero-shot recommenders | ECNLP 5(ACL 2022 workshop) | [paper](https://aclanthology.org/2022.ecnlp-1.22/) | [code](https://github.com/patrickjohncyh/gradient-recs) | Milan |
 | FashionViL | Fashion-Focused Vision-and-Language Representation Learning | ECCV 2022 | -> | [project](https://github.com/BrandonHanx/mmf) | UK |
 | FAME-ViL | FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks | CVPR 2023 | -> | [project](https://github.com/BrandonHanx/FAME-ViL) | UK |
 | FashionSAP | FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training | CVPR 2023 | -> | [project](https://github.com/hssip/FashionSAP) | China |
@@ -250,6 +249,7 @@ Personal Styling
 | BiHGH | Bi-directional Heterogeneous Graph Hashing towards Efficient Outfit Recommendation | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548020) | - | Australia |
 | OutfitTransformer | OutfitTransformer: Outfit Representations for Fashion Recommendation | 5th CVFAD (CVPR 2022 workshop) | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Sarkar_OutfitTransformer_Outfit_Representations_for_Fashion_Recommendation_CVPRW_2022_paper.pdf) | - | USA |
 | OutfitGAN | OutfitGAN: Learning Compatible Items for Generative Fashion Outfits | 5th CVFAD (CVPR 2022 workshop) | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Moosaei_OutfitGAN_Learning_Compatible_Items_for_Generative_Fashion_Outfits_CVPRW_2022_paper.pdf) | - | USA |
+| GradREC | “Does it come in black?” CLIP-like models are zero-shot recommenders | ECNLP 5(ACL 2022 workshop) | [paper](https://aclanthology.org/2022.ecnlp-1.22/) | [code](https://github.com/patrickjohncyh/gradient-recs) | Milan |
 | CP-TransMatch | Modeling Multi-Relational Connectivity for Personalized Fashion Matching | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612583) | - | Hong Kong (China) |
 | SHIFT15M | SHIFT15M: Fashion-specific dataset for set-to-set matching with several distribution shifts | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/11SUgNGdCjx7Z0rMX2VdFp-vQJuJPR5bD/view) | [code](https://github.com/st-tech/zozo-shift15m) | Japan |
 
