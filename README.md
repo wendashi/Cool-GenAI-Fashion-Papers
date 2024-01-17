@@ -259,7 +259,6 @@ Personal Styling
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | ARMANI | ARMANI: Part-level Garment-Text Alignment for Unified Cross-Modal Fashion Design | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548230) | - | China |
 | AI Carpet | AI Carpet: Automatic Generation of Aesthetic Carpet Pattern | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547734) | - | China |
-| VolumeGAN | 3D-aware Image Synthesis via Learning Structural and Textural Representations | CVPR 2022 | -> | [project](https://genforce.github.io/volumegan/) | China |
 | Wearable ImageNet | Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation | 5th CVFAD (CVPR 2022 workshop | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.pdf) | [project](https://georgecazenavette.github.io/mtt-distillation/) | USA |
 | Rank in Style | Rank in Style: A Ranking-based Approach to Find Interpretable Directions | 5th CVFAD (CVPR 2022 workshop | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Kocasari_Rank_in_Style_A_Ranking-Based_Approach_To_Find_Interpretable_Directions_CVPRW_2022_paper.pdf) | - | Turkey |
 | StyleMe | StyleMe: Towards Intelligent Fashion Generation with Designer Style | CHI 2023 | [paper](https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581377) | [code](https://github.com/ExponentiAI/StyleMe) | China |
