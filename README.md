@@ -25,13 +25,13 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Basic Tech](#basic-tech)  | [Pose Estimation, Tracking](#pose-estimation-tracking) | - |
 | [Selling](#selling)  | [Retrieval](#retrieval) | - |
 | [Selling](#selling)  | [Selling Agent](#selling-agent) | - |
+| [Selling](#selling) | [Video Generation](#video-generation)  | - |
 | [Styling](#styling)  | [Compatibility Learning](#compatibility-learning) | - |
 | [Styling](#styling) | [Outfit Recommendation](#outfit-recommendation) | - |
 | [Design](#design) | [2D Synthesis](#2d-synthesis)| - |
 | [Design](#design) | [Try-On](#try-on)| - |
 | [Design](#design) | [Editing](#editing)| - |
 | [Design](#design) | [Design Agent](#design-agent) | - |
-| [Design](#design) | [Video Generation](#video-generation)  | - |
 | [Design](#design) | [UV Generation](#uv-generation)  | - |
 | [Design](#design) | [3D Synthesis](#3d-synthesis) | - |
 | [Design](#design) | [3D Reconstruction](#3d-reconstruction) | - |
@@ -58,6 +58,7 @@ graph LR
 
   Selling --> Retrieval[Retrieval]
   Selling --> SellingAgent[Selling Agent]
+  Selling --> VideoGeneration[Video Generation]
 
   Styling --> CompatibilityLearning[Compatibility Learning]
   Styling --> OutfitRecommendation[Outfit Recommendation]
@@ -66,7 +67,6 @@ graph LR
   Design --> TryOn[Try-On]
   Design --> Editing[Editing]
   Design --> DesignAgent[Design Agent]
-  Design --> VideoGeneration[Video Generation]
   Design --> UVGeneration[UV Generation]
   Design --> 3DSynthesis[3D Synthesis]
   Design --> 3DReconstruction[3D Reconstruction]
@@ -232,6 +232,14 @@ Online selling
 | VSE | Fashion-Specific Ambiguous Expression Interpretation with Partial Visual-Semantic Embedding | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/1mTI2QvV42Cb4X2jd76y2CVerF6zCLAJ_/view) | - | Japan |
 | SkiLL | SkiLL: Skipping Color and Label Landscape: Self Supervised Design Representations for Products in E-commerce | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/13qSrQjvfrZmcMFjwtfb_3luQUdxJctaz/view) | - | USA |
 
+#### Video Generation
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ------------ |
+| wFlow | Dressing in the Wild by Watching Dance Videos | CVPR 2022 | -> | [project](https://awesome-wflow.github.io/) | China |
+| ClothFormer | ClothFormer: Taming Video Virtual Try-on in All Module | CVPR 2022 | -> | [project](https://cloth-former.github.io/) | China |
+| GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | Preprint 2023 | -> | [project](https://gpt4motion.github.io/) | China |
+| Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | Preprint 2023 | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
+
 
 ### Styling
 
@@ -315,14 +323,6 @@ Personal Styling
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | Preprint 2023 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) | China |
-
-#### Video Generation
-| Model | Title | Publication | Paper | Link | Region |
-| ----- | ----- | ----------- | ----- | ---- | ------------ |
-| wFlow | Dressing in the Wild by Watching Dance Videos | CVPR 2022 | -> | [project](https://awesome-wflow.github.io/) | China |
-| ClothFormer | ClothFormer: Taming Video Virtual Try-on in All Module | CVPR 2022 | -> | [project](https://cloth-former.github.io/) | China |
-| GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | Preprint 2023 | -> | [project](https://gpt4motion.github.io/) | China |
-| Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | Preprint 2023 | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
 
 #### UV Generation
 | Model | Title | Publication | Paper | Link | Region |
