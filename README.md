@@ -32,7 +32,6 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Design](#design) | [Try-On](#try-on)| - |
 | [Design](#design) | [Editing](#editing)| - |
 | [Design](#design) | [Design Agent](#design-agent) | - |
-| [Design](#design) | [UV Generation](#uv-generation)  | - |
 | [Design](#design) | [3D Synthesis](#3d-synthesis) | - |
 | [Design](#design) | [3D Reconstruction](#3d-reconstruction) | - |
 | [Buying](#buying) | [Trend Analysis](#trend-analysis) | - |
@@ -67,7 +66,6 @@ graph LR
   Design --> TryOn[Try-On]
   Design --> Editing[Editing]
   Design --> DesignAgent[Design Agent]
-  Design --> UVGeneration[UV Generation]
   Design --> 3DSynthesis[3D Synthesis]
   Design --> 3DReconstruction[3D Reconstruction]
   
@@ -260,10 +258,11 @@ Personal Styling
 | SHIFT15M | SHIFT15M: Fashion-specific dataset for set-to-set matching with several distribution shifts | 6th CVFAD (CVPR 2023 workshop) | [paper](https://drive.google.com/file/d/11SUgNGdCjx7Z0rMX2VdFp-vQJuJPR5bD/view) | [code](https://github.com/st-tech/zozo-shift15m) | Japan |
 
 ### Design
-#### 2D Synthesis
+#### Fashion Design Synthesis
 
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
+| TemporalUV | TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates | CVPR 2022 | [paper](https://arXiv.org/abs/2204.03671) | - | Germany |
 | ARMANI | ARMANI: Part-level Garment-Text Alignment for Unified Cross-Modal Fashion Design | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548230) | - | China |
 | AI Carpet | AI Carpet: Automatic Generation of Aesthetic Carpet Pattern | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547734) | - | China |
 | Wearable ImageNet | Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation | 5th CVFAD (CVPR 2022 workshop | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.pdf) | [project](https://georgecazenavette.github.io/mtt-distillation/) | USA |
@@ -285,6 +284,7 @@ Personal Styling
 | FashionDiff | FashionDiff: A Controllable Diffusion Model Using Pairwise Fashion Elements for Intelligent Design | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612127) | - | China |
 | InspirNET | InspirNET: An Unsupervised Generative Adversarial Network with Controllable Fine-grained Texture Disentanglement for Fashion Generation | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612130) | - | China |
 | - | Toward Intelligent Interactive Design: A Generation Framework Based on Cross-domain Fashion Elements | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612376) | - | China |
+| - | Normal-guided Garment UV Prediction for Human Re-texturing | CVPR 2023 | [paper](https://arXiv.org/abs/2303.06504) | - | USA |
 
 
 #### Try-On
@@ -322,12 +322,6 @@ Personal Styling
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | FashionMatrix | Fashion Matrix: Editing Photos by Just Talking | Preprint 2023 | -> | [project](https://zheng-chong.github.io/FashionMatrix/) | China |
-
-#### UV Generation
-| Model | Title | Publication | Paper | Link | Region |
-| ----- | ----- | ----------- | ----- | ---- | ------------ |
-| TemporalUV | TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates | CVPR 2022 | [paper](https://arXiv.org/abs/2204.03671) | - | Germany |
-| - | Normal-guided Garment UV Prediction for Human Re-texturing | CVPR 2023 | [paper](https://arXiv.org/abs/2303.06504) | - | USA |
 
 #### 3D Synthesis
 | Model | Title | Publication | Paper | Link | Region |
