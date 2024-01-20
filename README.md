@@ -28,7 +28,7 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Selling](#selling) | [Video Generation](#video-generation)  | - |
 | [Styling](#styling)  | [Compatibility Learning](#compatibility-learning) | - |
 | [Styling](#styling) | [Outfit Recommendation](#outfit-recommendation) | - |
-| [Design](#design) | [2D Synthesis](#2d-synthesis)| - |
+| [Design](#design) | [Fashion Design Synthesis](#fashion-design-synthesis)| - |
 | [Design](#design) | [Try-On](#try-on)| - |
 | [Design](#design) | [Editing](#editing)| - |
 | [Design](#design) | [Design Agent](#design-agent) | - |
@@ -62,7 +62,7 @@ graph LR
   Styling --> CompatibilityLearning[Compatibility Learning]
   Styling --> OutfitRecommendation[Outfit Recommendation]
 
-  Design --> 2DSynthesis[2D Synthesis]
+  Design --> FashionDesignSynthesis[Fashion Design Synthesis]
   Design --> TryOn[Try-On]
   Design --> Editing[Editing]
   Design --> DesignAgent[Design Agent]
