@@ -363,6 +363,8 @@ Personal Styling
 | CLOTH4D | CLOTH4D: A Dataset for Clothed Human Reconstruction | CVPR 2023 | -> | [project](https://github.com/AemikaChow/CLOTH4D) | Hong Kong (China) |
 | REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) | China |
 | Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors |ICCV2023| -> |[project](https://x-zhangyang.github.io/2023_Get3DHuman/) | China |
+| Garment3DGen | Garment3DGen: 3D Garment Stylization and Texture Generation |arXiv 2024| -> |[project](https://nsarafianos.github.io/garment3dgen) | USA |
+
 
 ### Buying
 
