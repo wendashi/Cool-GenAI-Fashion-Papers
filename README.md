@@ -34,6 +34,7 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Design](#design) | [Design Agent](#design-agent) | - |
 | [Design](#design) | [3D Synthesis](#3d-synthesis) | - |
 | [Design](#design) | [3D Reconstruction](#3d-reconstruction) | - |
+| [Design](#design) | [4D Synthesis](#4d-synthesis) | - |
 | [Buying](#buying) | [Trend Analysis](#trend-analysis) | - |
 | [Buying](#buying) | [Knowledge Extraction](#knowledge-extraction) | - |
 
@@ -68,6 +69,7 @@ graph LR
   Design --> DesignAgent[Design Agent]
   Design --> 3DSynthesis[3D Synthesis]
   Design --> 3DReconstruction[3D Reconstruction]
+  Design --> 4DSynthesis[4D Synthesis]
   
   Buying --> TrendAnalysis[Trend Analysis]
   Buying --> KnowledgeExtraction[Knowledge Extraction]
@@ -360,11 +362,15 @@ Personal Styling
 | CAR | High-Fidelity Clothed Avatar Reconstruction from a Single Image | CVPR 2023 | -> | [project](https://github.com/TingtingLiao/CAR) | China |
 | DIFu | DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction | CVPR 2023 | -> | [project](https://eadcat.github.io/DIFu/) | South Korea |
 | NeuralUDF | NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies | CVPR 2023 | -> | [project](https://www.xxlong.site/NeuralUDF/) | Hong Kong (China) |
-| CLOTH4D | CLOTH4D: A Dataset for Clothed Human Reconstruction | CVPR 2023 | -> | [project](https://github.com/AemikaChow/CLOTH4D) | Hong Kong (China) |
 | REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) | China |
 | Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors |ICCV2023| -> |[project](https://x-zhangyang.github.io/2023_Get3DHuman/) | China |
-| Garment3DGen | Garment3DGen: 3D Garment Stylization and Texture Generation |arXiv 2024| -> |[project](https://nsarafianos.github.io/garment3dgen) | USA |
+| Garment3DGen | Garment3DGen: 3D Garment Stylization and Texture Generation | arXiv 2024 | -> |[project](https://nsarafianos.github.io/garment3dgen) | USA |
 
+#### 4D Synthesis
+| Model | Title | Publication | Paper | Link | Region |
+| ----- | ----- | ----------- | ----- | ---- | ------------ |
+| CLOTH4D | CLOTH4D: A Dataset for Clothed Human Reconstruction | CVPR 2023 | -> | [project](https://github.com/AemikaChow/CLOTH4D) | Hong Kong (China) |
+| WordRobe | WordRobe: Text-Guided Generation of Textured 3D Garments | arXiv 2024 | [paper](https://arxiv.org/abs/2403.17541) | [project](https://wordrobe24.github.io/WordRobe_Page/) | India |
 
 ### Buying
 
