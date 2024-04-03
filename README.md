@@ -369,6 +369,7 @@ Personal Styling
 #### 4D Synthesis
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
+| Garment4D | Garment4D: Garment Reconstruction from Point Cloud Sequences | NIPS 2021 | -> | [project](https://hongfz16.github.io/projects/Garment4D.html) | Singapore |
 | CLOTH4D | CLOTH4D: A Dataset for Clothed Human Reconstruction | CVPR 2023 | -> | [project](https://github.com/AemikaChow/CLOTH4D) | Hong Kong (China) |
 | WordRobe | WordRobe: Text-Guided Generation of Textured 3D Garments | arXiv 2024 | [paper](https://arxiv.org/abs/2403.17541) | [project](https://wordrobe24.github.io/WordRobe_Page/) | India |
 
