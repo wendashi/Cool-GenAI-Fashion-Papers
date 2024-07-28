@@ -92,6 +92,7 @@ Summary developments of technology
 
 | Title | Publication | Paper | Type | Region | 
 | ----- | ----------- | ----- | ---- | ------------ |
+| A Comparative Study of Garment Draping Techniques | Preprint 2024 | [paper](https://arxiv.org/abs/2405.11056) | Overview | India |
 | A Survey of Artificial Intelligence in Fashion | IEEE Signal Process. Mag. 2023 | [paper](https://ieeexplore.ieee.org/document/10113373) | Overview | Taiwan (China) |
 | AI Assisted Fashion Design: A Review | IEEE Access 2023 | [paper](https://ieeexplore.ieee.org/document/10223039) | Fashion Design | China |
 | Computational Technologies for Fashion Recommendation: A Survey | ACM Comput. Surv. 2023 | [paper](https://dl.acm.org/doi/10.1145/3627100) | Fashion Recommendation | Hong Kong (China) |
