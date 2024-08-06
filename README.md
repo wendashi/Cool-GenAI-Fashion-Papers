@@ -132,6 +132,7 @@ Understanding of fashion images
 #### Vision Language
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------ |
+| SyncMask | SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Song_SyncMask_Synchronized_Attentional_Masking_for_Fashion-centric_Vision-Language_Pretraining_CVPR_2024_paper.html) | - | South Korea |
 | FAME-ViL | FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks | CVPR 2023 | -> | [project](https://github.com/BrandonHanx/FAME-ViL) | UK |
 | FashionSAP | FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training | CVPR 2023 | -> | [project](https://github.com/hssip/FashionSAP) | China |
 | MVLT | Masked Vision-language Transformer in Fashion | MIR 2023 | [paper](https://link.springer.com/article/10.1007/s11633-022-1394-4) | - | China |
