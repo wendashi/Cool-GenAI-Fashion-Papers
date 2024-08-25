@@ -33,7 +33,6 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Design](#design) | [Editing](#editing)| 
 | [Design](#design) | [Design Agent](#design-agent) | 
 | [Design](#design) | [3D Synthesis](#3d-synthesis) | 
-| [Design](#design) | [3D Reconstruction](#3d-reconstruction) | 
 | [Design](#design) | [4D Synthesis](#4d-synthesis) | 
 | [Buying](#buying) | [Trend Analysis](#trend-analysis) | 
 | [Buying](#buying) | [Knowledge Extraction](#knowledge-extraction) | 
@@ -68,7 +67,6 @@ graph LR
   Design --> Editing[Editing]
   Design --> DesignAgent[Design Agent]
   Design --> 3DSynthesis[3D Synthesis]
-  Design --> 3DReconstruction[3D Reconstruction]
   Design --> 4DSynthesis[4D Synthesis]
   
   Buying --> TrendAnalysis[Trend Analysis]
@@ -330,7 +328,18 @@ Personal Styling
 #### 3D Synthesis
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
+| Garment3DGen | Garment3DGen: 3D Garment Stylization and Texture Generation | arXiv 2024 | -> |[project](https://nsarafianos.github.io/garment3dgen) | USA |
 | En3D | En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data | Preprint 2024 | -> | [project](https://menyifang.github.io/projects/En3D/index.html) | China |
+| SewFormer | Towards Garment Sewing Pattern Reconstruction from a Single Image | TOG (SIGGRAPH Asia 2023) | -> | [project](https://sewformer.github.io/) | Singapore |
+| GTA | Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction | NIPS 2023 | -> | [project](https://river-zhang.github.io/GTA-projectpage/) | China |
+| SeSDF | SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_SeSDF_Self-Evolved_Signed_Distance_Field_for_Implicit_3D_Clothed_Human_CVPR_2023_paper.pdf) | - | Hong Kong (China) |
+| SoY | Shape of You: Precise 3D shape estimations for diverse body types | CVPRW 2023) | [paper](https://drive.google.com/file/d/1JqymSHzRtx0aaZquzQxkvJVdvsPsQn1G/view) | - | USA |
+| KBody | KBody: Balanced monocular whole-body estimation | CVPRW 2023) | [paper](https://drive.google.com/file/d/1q-KuXsB1r6iFoKcPRsh5AdWjo1IE2Ezs/view) | [project](https://klothed.github.io/KBody/) | USA |
+| CAR | High-Fidelity Clothed Avatar Reconstruction from a Single Image | CVPR 2023 | -> | [project](https://github.com/TingtingLiao/CAR) | China |
+| DIFu | DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction | CVPR 2023 | -> | [project](https://eadcat.github.io/DIFu/) | South Korea |
+| NeuralUDF | NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies | CVPR 2023 | -> | [project](https://www.xxlong.site/NeuralUDF/) | Hong Kong (China) |
+| REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) | China |
+| Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors |ICCV2023| -> |[project](https://x-zhangyang.github.io/2023_Get3DHuman/) | China |
 | HairStep | HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling | CVPR 2023 | -> | [project](https://paulyzheng.github.io/research/hairstep/) | China |
 | ECON | ECON: Explicit Clothed humans Optimized via Normal integration | CVPR 2023 | -> | [project](https://github.com/YuliangXiu/ECON) | Germany |
 | DrapeNet | DrapeNet: Garment Generation and Self-Supervised Draping | CVPR 2023 | -> | [project](https://github.com/liren2515/DrapeNet) | Switzerland |
@@ -348,21 +357,6 @@ Personal Styling
 | ICON | ICON: Implicit Clothed humans Obtained from Normals | CVPR 2022 | -> | [project](https://github.com/YuliangXiu/ICON) | Germany |
 | True Seams | True Seams:Modeling Seams in Digital Garments | SIGGRAPH 2022 | -> | [project](https://gabrielcirio.gitlab.io/projects/trueseams/trueseams.html) | USA |
 | VirtualBones | Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks | SIGGRAPH 2022 | -> | [project](http://www.cad.zju.edu.cn/home/jin/SigCloth2022/SigCloth2022.htm) | China |
-
-#### 3D Reconstruction
-| Model | Title | Publication | Paper | Link | Region |
-| ----- | ----- | ----------- | ----- | ---- | ------------ |
-| Garment3DGen | Garment3DGen: 3D Garment Stylization and Texture Generation | arXiv 2024 | -> |[project](https://nsarafianos.github.io/garment3dgen) | USA |
-| SewFormer | Towards Garment Sewing Pattern Reconstruction from a Single Image | TOG (SIGGRAPH Asia 2023) | -> | [project](https://sewformer.github.io/) | Singapore |
-| GTA | Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction | NIPS 2023 | -> | [project](https://river-zhang.github.io/GTA-projectpage/) | China |
-| SeSDF | SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_SeSDF_Self-Evolved_Signed_Distance_Field_for_Implicit_3D_Clothed_Human_CVPR_2023_paper.pdf) | - | Hong Kong (China) |
-| SoY | Shape of You: Precise 3D shape estimations for diverse body types | CVPRW 2023) | [paper](https://drive.google.com/file/d/1JqymSHzRtx0aaZquzQxkvJVdvsPsQn1G/view) | - | USA |
-| KBody | KBody: Balanced monocular whole-body estimation | CVPRW 2023) | [paper](https://drive.google.com/file/d/1q-KuXsB1r6iFoKcPRsh5AdWjo1IE2Ezs/view) | [project](https://klothed.github.io/KBody/) | USA |
-| CAR | High-Fidelity Clothed Avatar Reconstruction from a Single Image | CVPR 2023 | -> | [project](https://github.com/TingtingLiao/CAR) | China |
-| DIFu | DIFu: Depth-Guided Implicit Function for Clothed Human Reconstruction | CVPR 2023 | -> | [project](https://eadcat.github.io/DIFu/) | South Korea |
-| NeuralUDF | NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies | CVPR 2023 | -> | [project](https://www.xxlong.site/NeuralUDF/) | Hong Kong (China) |
-| REC-MV | REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos | CVPR 2023 | -> | [project](https://lingtengqiu.github.io/2023/REC-MV/) | China |
-| Get3DHuman | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors |ICCV2023| -> |[project](https://x-zhangyang.github.io/2023_Get3DHuman/) | China |
 | CrossHuman | CrossHuman: Learning Cross-guidance from Multi-frame Images for Human Reconstruction | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3548351) | - | China |
 | ReEF | Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images | CVPR 2022 | -> | [project](https://kv2000.github.io/2022/03/28/reef/) | China |
 | PHORHUM | Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing | CVPR 2022 | -> | [project](https://phorhum.github.io/) | USA |
