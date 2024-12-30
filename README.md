@@ -53,7 +53,9 @@ Summary developments of technology
 
 | Title | Publication | Paper | Type | Region | 
 | ----- | ----------- | ----- | ---- | ------------ |
-| A Comparative Study of Garment Draping Techniques | Preprint 2024 | [paper](https://arxiv.org/abs/2405.11056) | Overview | India |
+| Toward Fashion Intelligence in the Big Data Era: SOTA and Future Prospects | TCE 2024 | [paper](https://ieeexplore.ieee.org/abstract/document/10153335/authors#full-text-header) | Fashion Analysis | China |
+| Fashion intelligence in the Metaverse: promise and future prospects | AIR 2024 | [paper](https://link.springer.com/article/10.1007/s10462-024-10703-8) | Fashion Analysis and 3D-Related | China |
+| A Comparative Study of Garment Draping Techniques | Preprint 2024 | [paper](https://arxiv.org/abs/2405.11056) | Draping | India |
 | A Survey of Artificial Intelligence in Fashion | IEEE Signal Process. Mag. 2023 | [paper](https://ieeexplore.ieee.org/document/10113373) | Overview | Taiwan (China) |
 | AI Assisted Fashion Design: A Review | IEEE Access  | [paper](https://ieeexplore.ieee.org/document/10223039) | Fashion Design | China |
 | Computational Technologies for Fashion Recommendation: A Survey | ACM Comput. Surv.  | [paper](https://dl.acm.org/doi/10.1145/3627100) | Fashion Recommendation | Hong Kong (China) |
