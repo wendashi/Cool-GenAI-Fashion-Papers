@@ -51,7 +51,7 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 
 Summary developments of technology
 
-| Title | Publication | Paper | Type | Region | 
+| Title | Publication | Paper | Key Word | Region | 
 | ----- | ----------- | ----- | ---- | ------------ |
 | Toward Fashion Intelligence in the Big Data Era: SOTA and Future Prospects | TCE 2024 | [paper](https://ieeexplore.ieee.org/abstract/document/10153335/authors#full-text-header) | Fashion Analysis | China |
 | Fashion intelligence in the Metaverse: promise and future prospects | AIR 2024 | [paper](https://link.springer.com/article/10.1007/s10462-024-10703-8) | Fashion Analysis and 3D-Related | China |
