@@ -33,7 +33,7 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 | [Design](#design) | [Editing](#editing)| 
 | [Design](#design) | [Design Agent](#design-agent) | 
 | [Design](#design) | [3D Synthesis](#3d-synthesis) | 
-| [Design](#design) | [4D Synthesis](#4d-synthesis) | 
+| [Design](#design) | [Dynamic Synthesis](#Dyn-synthesis) | 
 | [Buying](#buying) | [Trend Analysis](#trend-analysis) | 
 | [Buying](#buying) | [Knowledge Extraction](#knowledge-extraction) | 
 
@@ -327,7 +327,7 @@ Personal Styling
 | PHORHUM | Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing | CVPR 2022 | -> | [project](https://phorhum.github.io/) | USA |
 | NeuralTailor | NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments | SIGGRAPH 2022 | [paper](https://arXiv.org/abs/2201.13063) | - | South Korea |
 
-#### 4D Synthesis
+#### Dynamic Synthesis
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | WordRobe | WordRobe: Text-Guided Generation of Textured 3D Garments | arXiv 2024 | [paper](https://arxiv.org/abs/2403.17541) | [project](https://wordrobe24.github.io/WordRobe_Page/) | India |
