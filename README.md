@@ -352,11 +352,12 @@ Personal Styling
 
 
 ## 👀Workshops
-1. Computer Vision for Fashion, Art, and Design (CVPR Workshop): [CVFAD 2023](https://sites.google.com/view/cvfad2023/home), [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
-2. Multimedia Computing towards Fashion Recommendation (ACM MM Workshop): [MCFR 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3554765)
+1. Computer Vision for Fashion, Art, and Design (CVPR Workshop): [CVFAD 2024](https://sites.google.com/view/cvfad2024/home), [CVFAD 2023](https://sites.google.com/view/cvfad2023/home), [CVFAD 2022](https://sites.google.com/view/cvfad2022/home)
+2. Workshop on Creativity & Generative AI (NeurIPS Workshop): [Creat&GenAI 2024](https://creativity-ai.github.io/)
 3. Machine Learning for Creativity and Design (NeurIPS Workshop): [ML4CD 2023](https://neuripscreativityworkshop.github.io/2023/), [ML4CD 2022](https://neuripscreativityworkshop.github.io/2022/)
 4. Creative AI Across Modalities (AAAI Workshop): [creativeAI 2023](https://creativeai-ws.github.io/#cfp)
-5. recsysXfashion (RecSys Workshop): [recsysXfashion 2022](https://recsys.acm.org/recsys22/fashionxrecsys/), [recsysXfashion 2021](https://recsys.acm.org/recsys21/fashionxrecsys/)
+5. Multimedia Computing towards Fashion Recommendation (ACM MM Workshop): [MCFR 2022](https://dl.acm.org/doi/abs/10.1145/3503161.3554765)
+6. recsysXfashion (RecSys Workshop): [recsysXfashion 2022](https://recsys.acm.org/recsys22/fashionxrecsys/), [recsysXfashion 2021](https://recsys.acm.org/recsys21/fashionxrecsys/)
 
 
 ## 🚀Companies, Products
