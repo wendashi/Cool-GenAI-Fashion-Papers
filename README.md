@@ -9,7 +9,7 @@ Feel free to send a PR or open an issue.
 
 ## Overview
 
-The classification of GenAI in fashion is from GenAI in Fashion: Overview, and the classification of whole fAshIon follows [fAshIon after fashion: A Report of AI in Fashion](https://arXiv.org/abs/2105.03050).
+The classification of whole fAshIon follows [fAshIon after fashion: A Report of AI in Fashion](https://arXiv.org/abs/2105.03050).
 
 
 ## Table Of Content
