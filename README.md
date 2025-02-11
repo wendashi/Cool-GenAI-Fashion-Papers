@@ -14,8 +14,6 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
 
 - [📝Papers](#papers)
 
-<details>
-  <summary>Toggle Table</summary>
   | Type | Category | 
   |----------|-------------|
   | [Overview](#overview)  | - |
@@ -38,7 +36,6 @@ The structure of the category follows [fAshIon after fashion: A Report of AI in 
   | [Design](#design) | [Dynamic Synthesis](#Dyn-synthesis) | 
   | [Buying](#buying) | [Trend Analysis](#trend-analysis) | 
   | [Buying](#buying) | [Knowledge Extraction](#knowledge-extraction) |
-</details>
 
 - [👀Workshops](#workshops)
 - [🚀Companies, Products](#companies-products)
