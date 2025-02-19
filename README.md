@@ -427,8 +427,6 @@ address = {New York, NY, USA},
 issn = {2157-6904},
 url = {https://doi.org/10.1145/3718098},
 doi = {10.1145/3718098},
-abstract = {Generative Artificial Intelligence (GenAI) has recently gained immense popularity by offering various applications for generating high-quality and aesthetically pleasing content of image, 3D, and video data format. The innovative GenAI solutions have shifted paradigms across various design-related industries, particularly fashion. In this paper, we explore the incorporation of GenAI into fashion-related tasks and applications. Our examination encompasses a thorough review of more than 470 research papers and an in-depth analysis of over 300 applications, focusing on their contributions to the field. These contributions are identified as 13 tasks within four categories: multi-modal fashion understanding, and fashion synthesis of image, 3D, and dynamic (video and animatable 3D) formats We delve into these methods, recognizing their potential to propel future endeavours toward achieving state-of-the-art (SOTA) performance. Furthermore, we present a comprehensive overview of 53 publicly available datasets suitable for training and benchmarking fashion-centric models, accompanied by the relevant evaluation metrics. Finally, we review real-world applications, unveiling existing challenges and future directions. With comprehensive investigation and in-depth analysis, this paper is targeted to serve as a useful resource for understanding the current landscape of GenAI in fashion, paving the way for future innovations in this dynamic field. Papers discussed in this paper, along with public code and datasets links are available at: .},
-note = {Just Accepted},
 journal = {ACM Trans. Intell. Syst. Technol.},
 month = feb
 }
