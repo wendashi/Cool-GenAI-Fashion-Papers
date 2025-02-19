@@ -8,37 +8,16 @@
 Feel free to send a PR or open an issue.
 
 ## Overview
-
-The classification of whole fAshIon follows [fAshIon after fashion: A Report of AI in Fashion](https://arXiv.org/abs/2105.03050).
-
+The official repo of [Generative AI in Fashion: Overview (ACM TIST 2025)](https://dl.acm.org/doi/10.1145/3718098)
 
 ## Table Of Content
 
 
 - [📝Papers](#papers)
 
-  | Type | Category | 
-  |----------|-------------|
-  | [Overview](#overview)  | - |
-  | [Evaluation](#evaluation)  | - |
-  | [Basic Tech](#basic-tech)  | [Vision Language](#vision-language) | 
-  | [Basic Tech](#basic-tech)  | [Parsing](#parsing) |
-  | [Basic Tech](#basic-tech)   | [Segmentation, Recognition](#segmentation-recognition) |
-  | [Basic Tech](#basic-tech)  | [Detection](#detection) |
-  | [Basic Tech](#basic-tech)  | [Pose Estimation, Tracking](#pose-estimation-tracking) | 
-  | [Selling](#selling)  | [Retrieval](#retrieval) | 
-  | [Selling](#selling)  | [Selling Agent](#selling-agent) | 
-  | [Selling](#selling) | [Video Generation](#video-generation)  | 
-  | [Styling](#styling)  | [Compatibility Learning](#compatibility-learning) | 
-  | [Styling](#styling) | [Outfit Recommendation](#outfit-recommendation) |
-  | [Design](#design) | [Fashion Design Synthesis](#fashion-design-synthesis)| 
-  | [Design](#design) | [Try-On](#try-on)| 
-  | [Design](#design) | [Editing](#editing)| 
-  | [Design](#design) | [Design Agent](#design-agent) | 
-  | [Design](#design) | [3D Synthesis](#3d-synthesis) | 
-  | [Design](#design) | [Dynamic Synthesis](#Dyn-synthesis) | 
-  | [Buying](#buying) | [Trend Analysis](#trend-analysis) | 
-  | [Buying](#buying) | [Knowledge Extraction](#knowledge-extraction) |
+| Type | [Overview](#overview) | [Evaluation](#evaluation) | [Basic Tech](#basic-tech) | [Basic Tech](#basic-tech) | [Basic Tech](#basic-tech) | [Basic Tech](#basic-tech) | [Basic Tech](#basic-tech) | [Selling](#selling) | [Selling](#selling) | [Selling](#selling) | [Styling](#styling) | [Styling](#styling) | [Design](#design) | [Design](#design) | [Design](#design) | [Design](#design) | [Design](#design) | [Design](#design) | [Buying](#buying) | [Buying](#buying) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Category | - | - | [Vision Language](#vision-language) | [Parsing](#parsing) | [Segmentation, Recognition](#segmentation-recognition) | [Detection](#detection) | [Pose Estimation, Tracking](#pose-estimation-tracking) | [Retrieval](#retrieval) | [Selling Agent](#selling-agent) | [Video Generation](#video-generation) | [Compatibility Learning](#compatibility-learning) | [Outfit Recommendation](#outfit-recommendation) | [Fashion Design Synthesis](#fashion-design-synthesis) | [Try-On](#try-on) | [Editing](#editing) | [Design Agent](#design-agent) | [3D Synthesis](#3d-synthesis) | [Dynamic Synthesis](#Dyn-synthesis) | [Trend Analysis](#trend-analysis) | [Knowledge Extraction](#knowledge-extraction) | 
 
 - [👀Workshops](#workshops)
 - [🚀Companies, Products](#companies-products)
