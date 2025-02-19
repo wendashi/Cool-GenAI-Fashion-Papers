@@ -14,11 +14,6 @@ The official repo of [Generative AI in Fashion: Overview (ACM TIST 2025)](https:
 
 
 - [📝Papers](#papers)
-
-| Type | [Overview](#overview) | [Evaluation](#evaluation) | [Basic Tech](#basic-tech) | [Selling](#selling) | [Styling](#styling) | [Design](#design) | [Buying](#buying) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Category | - | - | [Vision Language](#vision-language), [Parsing](#parsing), [Segmentation, Recognition](#segmentation-recognition), [Detection](#detection), [Pose Estimation, Tracking](#pose-estimation-tracking) | [Retrieval](#retrieval), [Selling Agent](#selling-agent), [Video Generation](#video-generation) | [Compatibility Learning](#compatibility-learning), [Outfit Recommendation](#outfit-recommendation) | [Fashion Design Synthesis](#fashion-design-synthesis), [Try-On](#try-on), [Editing](#editing), [Design Agent](#design-agent), [3D Synthesis](#3d-synthesis), [Dynamic Synthesis](#Dyn-synthesis) | [Trend Analysis](#trend-analysis), [Knowledge Extraction](#knowledge-extraction) | 
-
 - [👀Workshops](#workshops)
 - [🚀Companies, Products](#companies-products)
 - [Researchers](#researchers)
@@ -29,6 +24,11 @@ The official repo of [Generative AI in Fashion: Overview (ACM TIST 2025)](https:
 
 
 ## 📝Papers
+
+| Type | [Overview](#overview) | [Evaluation](#evaluation) | [Basic Tech](#basic-tech) | [Selling](#selling) | [Styling](#styling) | [Design](#design) | [Buying](#buying) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Category | - | - | [Vision Language](#vision-language), [Parsing](#parsing), [Segmentation, Recognition](#segmentation-recognition), [Detection](#detection), [Pose Estimation, Tracking](#pose-estimation-tracking) | [Retrieval](#retrieval), [Selling Agent](#selling-agent), [Video Generation](#video-generation) | [Compatibility Learning](#compatibility-learning), [Outfit Recommendation](#outfit-recommendation) | [Fashion Design Synthesis](#fashion-design-synthesis), [Try-On](#try-on), [Editing](#editing), [Design Agent](#design-agent), [3D Synthesis](#3d-synthesis), [Dynamic Synthesis](#Dyn-synthesis) | [Trend Analysis](#trend-analysis), [Knowledge Extraction](#knowledge-extraction) | 
+
 ### Overview
 
 Summary developments of technology
