@@ -416,7 +416,7 @@ Personal Styling
 11. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech)
 
 ## Citation
-If this research is beneficial to your work, please consider citing it.❤️
+If this work is beneficial to your research, please consider citing it.❤️
 ```
 @article{10.1145/3718098,
 author = {Shi, Wenda and Wong, Waikeung and Zou, Xingxing},
