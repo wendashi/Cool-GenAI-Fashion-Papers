@@ -8,7 +8,7 @@
 Feel free to send a PR or open an issue.
 
 ## Overview
-The official repo of [Generative AI in Fashion: Overview (ACM TIST 2025)](https://dl.acm.org/doi/10.1145/3718098)
+This is the official repo of [Generative AI in Fashion: Overview (ACM TIST 2025)](https://dl.acm.org/doi/10.1145/3718098)
 - The publicly available datasets in each subtask are summarized in the corresponding section of paper.
 
 ![Overview of GenAI in fashion](images/Overview_of_GenAI_fashion.png)
