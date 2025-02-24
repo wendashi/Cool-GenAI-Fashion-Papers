@@ -383,6 +383,7 @@ Personal Styling
 
 <details>
 <summary>Other Resources</summary>
+ 
 #### Industry Reports
 1. [Generative AI’s Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/) | SEQUOIA | 2023.09 
 2. [How Are Consumers Using Generative AI?](https://a16z.com/how-are-consumers-using-generative-ai/)| A16Z | 2023.09 
