@@ -382,38 +382,35 @@ Personal Styling
 | [MPI-IS](https://ps.is.mpg.de/) | [Michael Black](https://ps.is.mpg.de/person/black)|
 
 <details>
-<summary>Industry Reports</summary>
-1. [Generative AI’s Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/) | SEQUOIA | 2023.09 |
-2. [How Are Consumers Using Generative AI?](https://a16z.com/how-are-consumers-using-generative-ai/)| A16Z | 2023.09 |
-3. [Outlook for the Global and Chinese Fashion Industry in 2035](https://www.rolandberger.com/zh/Insights/Publications/2035%E5%85%A8%E7%90%83%E5%8F%8A%E4%B8%AD%E5%9B%BD%E6%97%B6%E5%B0%9A%E4%BA%A7%E4%B8%9A%E5%B1%95%E6%9C%9B.html)|Roland Berger|2023.08|
-4. [The Complete Playbook for Generative AI in Fashion](https://www.businessoffashion.com/case-studies/technology/generative-ai-playbook-machine-learning-emerging-technology/)|Bof|2023.06|
-5. [Generative AI: Unlocking the future of fashion](https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion) |McKinsey|2023.03|
-</details>
+<summary>Other Resources</summary>
+#### Industry Reports
+1. [Generative AI’s Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/) | SEQUOIA | 2023.09 
+2. [How Are Consumers Using Generative AI?](https://a16z.com/how-are-consumers-using-generative-ai/)| A16Z | 2023.09 
+3. [Outlook for the Global and Chinese Fashion Industry in 2035](https://www.rolandberger.com/zh/Insights/Publications/2035%E5%85%A8%E7%90%83%E5%8F%8A%E4%B8%AD%E5%9B%BD%E6%97%B6%E5%B0%9A%E4%BA%A7%E4%B8%9A%E5%B1%95%E6%9C%9B.html)|Roland Berger|2023.08
+4. [The Complete Playbook for Generative AI in Fashion](https://www.businessoffashion.com/case-studies/technology/generative-ai-playbook-machine-learning-emerging-technology/)|Bof|2023.06
+5. [Generative AI: Unlocking the future of fashion](https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion) |McKinsey|2023.03
 
-<details>
-<summary>Other FashionAI Resources</summary>
-1. [Fashion Datasets](https://github.com/AemikaChow/DATASOURCE)
-2. [Cool Fashion Papers(Before 2022)](https://github.com/lzhbrian/Cool-Fashion-Papers)
-3. [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
-4. [AI4Design Survey](https://idvxlab.com/ai4design/#)
-5. [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers)
-6. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on)
-7. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
+#### About FashionAI
+1. [Fashion Datasets](https://github.com/AemikaChow/DATASOURCE) 
+2. [Cool Fashion Papers(Before 2022)](https://github.com/lzhbrian/Cool-Fashion-Papers) 
+3. [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) 
+4. [AI4Design Survey](https://idvxlab.com/ai4design/#) 
+5. [image-to-image-papers](https://github.com/lzhbrian/image-to-image-papers) 
+6. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on) 
+7. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer) 
 8. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
-</details>
 
-<details>
-<summary>Other GenAI Resources</summary>
-1. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap)
-2. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
-3. [LLM Survey](https://github.com/RUCAIBox/LLMSurvey)
-4. [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
-5. [Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing/tree/main)
-6. [Multimodal Image Synthesis and Editing: The Generative AI Era](https://github.com/fnzhan/Generative-AI)
-7. [GAN-Inversion Survey](https://github.com/weihaox/GAN-Inversion#gan-inversion-a-survey)
-8. [A Survey on Deep Generative 3D-aware Image Synthesis](https://weihaox.github.io/3D-aware-Gen/)
-9. [Awesome 3D Generation](https://github.com/justimyhxu/awesome-3D-generation)
-10. [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arXiv.org/abs/2305.06131)
+#### About GenAI
+1. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap) 
+2. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools) 
+3. [LLM Survey](https://github.com/RUCAIBox/LLMSurvey) 
+4. [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) 
+5. [Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing/tree/main) 
+6. [Multimodal Image Synthesis and Editing: The Generative AI Era](https://github.com/fnzhan/Generative-AI) 
+7. [GAN-Inversion Survey](https://github.com/weihaox/GAN-Inversion#gan-inversion-a-survey) 
+8. [A Survey on Deep Generative 3D-aware Image Synthesis](https://weihaox.github.io/3D-aware-Gen/) 
+9. [Awesome 3D Generation](https://github.com/justimyhxu/awesome-3D-generation) 
+10. [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arXiv.org/abs/2305.06131) 
 11. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech)
 </details>
 
