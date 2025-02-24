@@ -18,11 +18,8 @@ This is the official repo of [Generative AI in Fashion: Overview (ACM TIST 2025)
 - [📝Papers](#papers)
 - [👀Workshops](#workshops)
 - [🚀Companies, Products](#companies-products)
-- [Researchers](#researchers)
-- [Industry Reports](#industry-reports)
-- [Other FashionAI Resources](#other-fashionai-resources)
-- [Other GenAI Resources](#other-genai-resources)
-
+- [🧑‍🏫Researchers](#researchers)
+- [❤️Citation](#Citation)
 
 
 ## 📝Papers
@@ -384,16 +381,17 @@ Personal Styling
 | Cornell | [Kavita Bala](https://www.cs.cornell.edu/~kb/)|
 | [MPI-IS](https://ps.is.mpg.de/) | [Michael Black](https://ps.is.mpg.de/person/black)|
 
-## Industry Reports
-| Reports                                              |Organization | Time |
-| ------------------------------------------------------------| -----------| -----------|
-| [Generative AI’s Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/) | SEQUOIA | 2023.09 |
-| [How Are Consumers Using Generative AI?](https://a16z.com/how-are-consumers-using-generative-ai/)| A16Z | 2023.09 |
-| [Outlook for the Global and Chinese Fashion Industry in 2035](https://www.rolandberger.com/zh/Insights/Publications/2035%E5%85%A8%E7%90%83%E5%8F%8A%E4%B8%AD%E5%9B%BD%E6%97%B6%E5%B0%9A%E4%BA%A7%E4%B8%9A%E5%B1%95%E6%9C%9B.html)|Roland Berger|2023.08|
-| [The Complete Playbook for Generative AI in Fashion](https://www.businessoffashion.com/case-studies/technology/generative-ai-playbook-machine-learning-emerging-technology/)|Bof|2023.06|
-| [Generative AI: Unlocking the future of fashion](https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion) |McKinsey|2023.03|
+<details>
+<summary>Industry Reports</summary>
+1. [Generative AI’s Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/) | SEQUOIA | 2023.09 |
+2. [How Are Consumers Using Generative AI?](https://a16z.com/how-are-consumers-using-generative-ai/)| A16Z | 2023.09 |
+3. [Outlook for the Global and Chinese Fashion Industry in 2035](https://www.rolandberger.com/zh/Insights/Publications/2035%E5%85%A8%E7%90%83%E5%8F%8A%E4%B8%AD%E5%9B%BD%E6%97%B6%E5%B0%9A%E4%BA%A7%E4%B8%9A%E5%B1%95%E6%9C%9B.html)|Roland Berger|2023.08|
+4. [The Complete Playbook for Generative AI in Fashion](https://www.businessoffashion.com/case-studies/technology/generative-ai-playbook-machine-learning-emerging-technology/)|Bof|2023.06|
+5. [Generative AI: Unlocking the future of fashion](https://www.mckinsey.com/industries/retail/our-insights/generative-ai-unlocking-the-future-of-fashion) |McKinsey|2023.03|
+</details>
 
-## Other FashionAI Resources
+<details>
+<summary>Other FashionAI Resources</summary>
 1. [Fashion Datasets](https://github.com/AemikaChow/DATASOURCE)
 2. [Cool Fashion Papers(Before 2022)](https://github.com/lzhbrian/Cool-Fashion-Papers)
 3. [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai)
@@ -402,8 +400,10 @@ Personal Styling
 6. [Awesome Virtual Try-on (VTON) Research](https://github.com/minar09/awesome-virtual-try-on#non-clothing-virtual-try-on)
 7. [Awesome-pose-transfer](https://github.com/Zhangjinso/Awesome-pose-transfer)
 8. [Human Body Reconstruction](https://github.com/chenweikai/Body_Reconstruction_References)
+</details>
 
-## Other GenAI Resources
+<details>
+<summary>Other GenAI Resources</summary>
 1. [The Roadmap of Generative AI](https://github.com/SeedV/generative-ai-roadmap)
 2. [awesome-Ai-tools](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools)
 3. [LLM Survey](https://github.com/RUCAIBox/LLMSurvey)
@@ -415,6 +415,7 @@ Personal Styling
 9. [Awesome 3D Generation](https://github.com/justimyhxu/awesome-3D-generation)
 10. [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arXiv.org/abs/2305.06131)
 11. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech)
+</details>
 
 ## Citation
 If this work is beneficial to your research, please consider citing it.❤️
