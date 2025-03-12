@@ -3,10 +3,10 @@
 [![Cool](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/Cool-GenAI-Fashion-Papers) 
 
-Feel free to send a PR or open an issue.
+This repo collectes the latest fashion-related papers in top AI conferences (in [🔥Latest](#latest) section). Please feel free to send a PR or open an issue.
 
 ## Overview
-This is the official repo of [Generative AI in Fashion: Overview (ACM TIST 2025)](https://dl.acm.org/doi/10.1145/3718098)
+This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 2025)](https://dl.acm.org/doi/10.1145/3718098) ⬅️
 - The publicly available datasets in each subtask are summarized in the corresponding section of paper.
 
 ![Overview of GenAI in fashion](images/Overview_of_GenAI_fashion.png)
