@@ -21,7 +21,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 - [🧑‍🏫Researchers](#researchers)
 - [❤️Citation](#Citation)
 
-## 🔥 Latest Fashion-Related Papers
+## 🔥Latest Fashion-Related Papers
 
 <details>
   <summary>CVPR 2025-Fashion-Related-Papers</summary>
