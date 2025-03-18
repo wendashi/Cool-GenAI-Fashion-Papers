@@ -252,11 +252,11 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 ## 📝Papers
 
 ![Overview of fAshIon (AI in fashion)](images/Overview_of_AI_in_fashion.png)
-| Type | [Overview](#overview) | [Evaluation](#evaluation) | [Basic Tech](#basic-tech) | [Design](#design) | [Styling](#styling) | [Selling](#selling) |  [Buying](#buying) |
+| Type | [Overview](#Survey) | [Evaluation](#evaluation) | [Basic Tech](#basic-tech) | [Design](#design) | [Styling](#styling) | [Selling](#selling) |  [Buying](#buying) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Category | - | - | [Vision Language](#vision-language), [Parsing](#parsing), [Segmentation, Recognition](#segmentation-recognition), [Detection](#detection), [Pose Estimation, Tracking](#pose-estimation-tracking) | [Fashion Design Synthesis](#fashion-design-synthesis), [Try-On](#try-on), [Editing](#editing), [Design Agent](#design-agent), [3D Synthesis](#3d-synthesis), [Dynamic Synthesis](#Dyn-synthesis) | [Compatibility Learning](#compatibility-learning), [Outfit Recommendation](#outfit-recommendation) | [Retrieval](#retrieval), [Selling Agent](#selling-agent), [Video Generation](#video-generation) | [Trend Analysis](#trend-analysis), [Knowledge Extraction](#knowledge-extraction) | 
 
-### Overview
+### Survey
 
 Summary developments of technology
 
