@@ -249,6 +249,40 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
   </table>
 </details>
 
+<details>
+  <summary>ICLR 2025-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models</td>
+        <td>Zheng Chong · Xiao Dong · Haoxiang Li · shiyue Zhang · Wenqing Zhang · Hanqing Zhao · xujie zhang · Dongmei Jiang · Xiaodan Liang</td>
+        <td>virtual try-on, diffusion models</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Attributing Culture-Conditioned Generations to Pretraining Corpora</td>
+        <td>Huihan Li · Arnav Goel · Keyu He · Xiang Ren</td>
+        <td>culture-conditioned generation, pretraining corpora</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On</td>
+        <td>Siqi Wan · Jingwen Chen · Yingwei Pan · Ting Yao · Tao Mei</td>
+        <td>virtual try-on, diffusion model, visual correspondence</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 ## 📝Papers
 
 ![Overview of fAshIon (AI in fashion)](images/Overview_of_AI_in_fashion.png)
