@@ -283,6 +283,23 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
   </table>
 </details>
 
+## ❤️Citation
+If this work is beneficial to your research, please consider citing it.❤️
+```
+@article{10.1145/3718098,
+author = {Shi, Wenda and Wong, Waikeung and Zou, Xingxing},
+title = {Generative AI in Fashion: Overview},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {2157-6904},
+url = {https://doi.org/10.1145/3718098},
+doi = {10.1145/3718098},
+journal = {ACM Trans. Intell. Syst. Technol.},
+month = feb
+}
+```
+
 ## 📝Papers
 
 ![Overview of fAshIon (AI in fashion)](images/Overview_of_AI_in_fashion.png)
@@ -676,22 +693,3 @@ Personal Styling
 10. [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arXiv.org/abs/2305.06131) 
 11. [Awesome GenAI Tech](https://github.com/hollobit/Awesome-GenAITech)
 </details>
-
-## Citation
-If this work is beneficial to your research, please consider citing it.❤️
-```
-@article{10.1145/3718098,
-author = {Shi, Wenda and Wong, Waikeung and Zou, Xingxing},
-title = {Generative AI in Fashion: Overview},
-year = {2025},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-issn = {2157-6904},
-url = {https://doi.org/10.1145/3718098},
-doi = {10.1145/3718098},
-journal = {ACM Trans. Intell. Syst. Technol.},
-month = feb
-}
-```
-
-
