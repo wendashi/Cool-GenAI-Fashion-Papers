@@ -19,7 +19,6 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 - [👀Workshops](#workshops)
 - [🚀Companies, Products](#companies-products)
 - [🧑‍🏫Researchers](#researchers)
-- [❤️Citation](#Citation)
 
 ## 🔥Latest Fashion-Related Papers
 
