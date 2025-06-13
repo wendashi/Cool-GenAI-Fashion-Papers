@@ -283,7 +283,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 </details>
 
 ## ❤️Citation
-If this work is beneficial to your research, please consider citing it.❤️
+If this work is beneficial to your research, please consider citing it or giving this repo a star🌟.
 ```
 @article{10.1145/3718098,
 author = {Shi, Wenda and Wong, Waikeung and Zou, Xingxing},
@@ -639,7 +639,6 @@ Personal Styling
 | [DeepImage](https://deep-image.ai/) | 2022 | AI Product Content | - |
 | [Unbound](https://www.unboundml.com/) | - | personal AI business assistant | - |
 | [Zeg AI](https://www.zeg.ai/)| 2018 | AI Product Content, Videos, 3D Render | - |
-| - | - | - | - |
 
 
 ## Researchers
