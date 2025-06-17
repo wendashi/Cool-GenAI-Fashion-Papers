@@ -285,7 +285,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 ## ❤️Citation
 If this work is beneficial to your research, please consider citing it or giving this repo a star🌟.
 ```
-@article{10.1145/3718098,
+@article{GenAI_in_fashion_Shi,
 author = {Shi, Wenda and Wong, Waikeung and Zou, Xingxing},
 title = {Generative AI in Fashion: Overview},
 year = {2025},
