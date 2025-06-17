@@ -289,13 +289,18 @@ If this work is beneficial to your research, please consider citing it or giving
 author = {Shi, Wenda and Wong, Waikeung and Zou, Xingxing},
 title = {Generative AI in Fashion: Overview},
 year = {2025},
+issue_date = {August 2025},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
+volume = {16},
+number = {4},
 issn = {2157-6904},
 url = {https://doi.org/10.1145/3718098},
 doi = {10.1145/3718098},
 journal = {ACM Trans. Intell. Syst. Technol.},
-month = feb
+month = jun,
+articleno = {74},
+numpages = {73}
 }
 ```
 
