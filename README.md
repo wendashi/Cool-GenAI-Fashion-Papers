@@ -308,11 +308,12 @@ numpages = {73}
 ## ⚙Metrics
 
 Here we only provide the fashion-centric metrics.
-1. Image Domain: FashionCLIP & FashionSigLip, ([marqo-FashionCLIP](https://github.com/marqo-ai/marqo-FashionCLIP))
-   <a href="https://github.com/marqo-FashionCLIP" title="GitHub Repo">
-     <i class="fab fa-github"></i> 
-     <img src="https://img.shields.io/github/stars/marqo-FashionCLIP.svg?style=social" alt="Stars">
-   </a>
+1. Image Domain:
+   - FashionCLIP & FashionSigLip, ([marqo-FashionCLIP](https://github.com/marqo-ai/marqo-FashionCLIP))
+      <a href="https://github.com/marqo-FashionCLIP" title="GitHub Repo">
+        <i class="fab fa-github"></i> 
+        <img src="https://img.shields.io/github/stars/marqo-FashionCLIP.svg?style=social" alt="Stars">
+      </a>
 
 
 ## 📝Papers
