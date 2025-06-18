@@ -36,6 +36,29 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 ## 🔥Latest Fashion-Related Papers
 
 <details>
+  <summary>SIGGRAPH 2025-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>[Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates](https://liren2515.github.io/page/dmap/dmap.html)</td>
+        <td>Ren Li, Cong Cao, Corentin Dumery, Yingxuan You, Hao Li, Pascal Fua</td>
+        <td>Garment Reconstruction</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+
+<details>
   <summary>CVPR 2025-Fashion-Related-Papers</summary>
   <table>
     <thead>
