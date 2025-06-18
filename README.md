@@ -305,7 +305,7 @@ numpages = {73}
 }
 ```
 
-## Metrics
+## ⚙️Metrics
 
 Here we only provide the fashion-related metrics.
 1. Image Domain: FashionCLIP/FashionSigLip. [marqo-FashionCLIP](https://github.com/marqo-ai/marqo-FashionCLIP) 
