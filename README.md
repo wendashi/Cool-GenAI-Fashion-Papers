@@ -13,6 +13,8 @@ This repo collected the latest fashion-related papers on top AI conferences (in 
   - 2025-06, Fashion-centric metrics are involved.
  
   - 2025-03, Fashion-related papers in CVPR 2025/ICLR 2025 are involved.
+
+  - 2025-02, 'GenAI in Fashion: Overview' is accepted by ACM TIST(JCR Q1).
 </details>
 
 ## Overview
