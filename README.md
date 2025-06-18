@@ -12,6 +12,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 
 ![Overview of GenAI in fashion](images/Overview_of_GenAI_fashion.png)
 
+<details>
+  <summary>Change Log</summary>
+  - 2025-06-18, Fashion-centric metrics are involved.
+  - 2025-04-18, Fashion-related papers in CVPR 2025/ICLR 2025 are involved.
+</details>
+
 ## Table Of Content
 
 - [🔥Latest](#latest-fashion-related-papers)
