@@ -15,6 +15,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 ## Table Of Content
 
 - [🔥Latest](#latest-fashion-related-papers)
+- [⚙️Metricss](#metrics)
 - [📝Papers](#papers)
 - [👀Workshops](#workshops)
 - [🚀Companies, Products](#companies-products)
@@ -303,6 +304,12 @@ articleno = {74},
 numpages = {73}
 }
 ```
+
+## ⚙️Metrics
+
+Here we only provide the fashion-related metrics.
+1. Image Domain: FashionCLIP/FashionSigLip. [marqo-FashionCLIP](https://github.com/marqo-ai/marqo-FashionCLIP) 
+
 
 ## 📝Papers
 
