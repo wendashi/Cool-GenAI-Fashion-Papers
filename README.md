@@ -6,17 +6,21 @@
 This repo collected the latest fashion-related papers on top AI conferences (in [🔥Latest](#latest-fashion-related-papers) section). 
 - Please feel free to send a PR or open an issue 😊.
 
+
+<details>
+  <summary>Change Log</summary>
+ 
+  - 2025-06, Fashion-centric metrics are involved.
+ 
+  - 2025-03, Fashion-related papers in CVPR 2025/ICLR 2025 are involved.
+</details>
+
 ## Overview
 This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 2025)](https://dl.acm.org/doi/10.1145/3718098) ⬅️
 - The publicly available datasets in each subtask are summarized in the corresponding section of paper.
 
 ![Overview of GenAI in fashion](images/Overview_of_GenAI_fashion.png)
 
-<details>
-  <summary>Change Log</summary>
-  - 2025-06-18, Fashion-centric metrics are involved.
-  - 2025-04-18, Fashion-related papers in CVPR 2025/ICLR 2025 are involved.
-</details>
 
 ## Table Of Content
 
