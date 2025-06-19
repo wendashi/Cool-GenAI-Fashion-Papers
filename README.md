@@ -697,20 +697,20 @@ Personal Styling
 
 | Group/Lab/Univ                                              |Researchers |
 | ------------------------------------------------------------| -----------|
-| [MPI-IS](https://ps.is.mpg.de/) | [Michael Black](https://ps.is.mpg.de/person/black)|
-| [CVLab-EPFL](https://www.epfl.ch/labs/cvlab/) | [Ren Li](https://liren2515.github.io/page/)|
 | [AiDlab-PolyU](https://www.aidlab.hk/en/)|[Calvin WONG](https://research.polyu.edu.hk/en/persons/wai-keung-wong-2),[Xingxing Zou](https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN)|
 | [GAP Lab-CUHKSZ](https://gaplab.cuhk.edu.cn/pages/publications) | [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en)|
-| [Meshcapade](https://meshcapade.com/) | [Maria Korosteleva](https://korosteleva.com/)|
 | [HCP-I2 Lab-SYSU](https://www.sysu-hcp.net/publications/index.html) | [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl=en),[Zhenyu Xie](https://xiezhy6.github.io/)|
 | HIT SZ|[Haijun Zhang](https://dl2link.com/#)|
 | [MMLab-NTU](https://www.mmlab-ntu.com/index.html)|[Ziwei Liu](https://liuziwei7.github.io/index.html)|
-| UIUC | [Ranjitha Kumar](http://ranjithakumar.net/)|
+| [MPI-IS](https://ps.is.mpg.de/) | [Michael Black](https://ps.is.mpg.de/person/black)|
+| [Meshcapade](https://meshcapade.com/) | [Maria Korosteleva](https://korosteleva.com/)|
+| [CVLab-EPFL](https://www.epfl.ch/labs/cvlab/) | [Ren Li](https://liren2515.github.io/page/)|
 | [AImageLab](https://aimagelab.ing.unimore.it/imagelab/)|[Rita Cucchiara](https://scholar.google.com/citations?user=OM3sZEoAAAAJ&hl=en)|
-| The University of Utah |[Ziad Al-Halah](https://users.cs.utah.edu/~ziad/)|
+| Utah Univ |[Ziad Al-Halah](https://users.cs.utah.edu/~ziad/)|
 | Georgia Tech | [Devi Parikh](https://faculty.cc.gatech.edu/~parikh/)|
 | UT Austin | [Kristen Grauman](https://www.cs.utexas.edu/users/grauman/)|
 | Cornell | [Kavita Bala](https://www.cs.cornell.edu/~kb/)|
+| UIUC | [Ranjitha Kumar](http://ranjithakumar.net/)|
 
 
 <details>
