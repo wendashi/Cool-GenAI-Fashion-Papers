@@ -697,10 +697,12 @@ Personal Styling
 
 | Group/Lab/Univ                                              |Researchers |
 | ------------------------------------------------------------| -----------|
+| [MPI-IS](https://ps.is.mpg.de/) | [Michael Black](https://ps.is.mpg.de/person/black)|
+| [AiDlab-PolyU](https://www.aidlab.hk/en/)|[Calvin WONG](https://research.polyu.edu.hk/en/persons/wai-keung-wong-2),[Xingxing Zou](https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN)|
 | [GAP Lab-CUHKSZ](https://gaplab.cuhk.edu.cn/pages/publications) | [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en)|
+| [Meshcapade](https://meshcapade.com/) | [Maria Korosteleva](https://korosteleva.com/)|
 | [HCP-I2 Lab-SYSU](https://www.sysu-hcp.net/publications/index.html) | [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl=en),[Zhenyu Xie](https://xiezhy6.github.io/)|
 | HIT SZ|[Haijun Zhang](https://dl2link.com/#)|
-| [AiDlab-PolyU+RCA](https://www.aidlab.hk/en/)|[Calvin WONG](https://research.polyu.edu.hk/en/persons/wai-keung-wong-2),[Xingxing Zou](https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN),[P.Y.Mok](https://scholar.google.com.hk/citations?user=-83FFXcAAAAJ&hl=en)|
 | [MMLab-NTU](https://www.mmlab-ntu.com/index.html)|[Ziwei Liu](https://liuziwei7.github.io/index.html)|
 | UIUC | [Ranjitha Kumar](http://ranjithakumar.net/)|
 | [AImageLab](https://aimagelab.ing.unimore.it/imagelab/)|[Rita Cucchiara](https://scholar.google.com/citations?user=OM3sZEoAAAAJ&hl=en)|
@@ -708,7 +710,7 @@ Personal Styling
 | Georgia Tech | [Devi Parikh](https://faculty.cc.gatech.edu/~parikh/)|
 | UT Austin | [Kristen Grauman](https://www.cs.utexas.edu/users/grauman/)|
 | Cornell | [Kavita Bala](https://www.cs.cornell.edu/~kb/)|
-| [MPI-IS](https://ps.is.mpg.de/) | [Michael Black](https://ps.is.mpg.de/person/black)|
+
 
 <details>
 <summary>Other Resources</summary>
