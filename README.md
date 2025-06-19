@@ -10,9 +10,9 @@ This repo collected the latest fashion-related papers on top AI conferences (in 
 <details>
   <summary>Change Log</summary>
  
-  - 2025-06, Fashion-centric metrics are involved.
+  - 2025-06, Fashion-centric metrics are involved, Fashion-related papers in SIGGRAPH 2025 are updated
  
-  - 2025-03, Fashion-related papers in CVPR 2025/ICLR 2025 are involved.
+  - 2025-03, Fashion-related papers in CVPR 2025/ICLR 2025 are updated.
 
   - 2025-02, 'GenAI in Fashion: Overview' is accepted by ACM TIST(JCR Q1).
 </details>
@@ -51,6 +51,18 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>1</td>
         <td>[Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates](https://liren2515.github.io/page/dmap/dmap.html)</td>
         <td>Ren Li, Cong Cao, Corentin Dumery, Yingxuan You, Hao Li, Pascal Fua</td>
+        <td>Garment Reconstruction</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>[Rags2Riches: Computational Garment Reuse](https://anranqi.github.io/Rags2riches.github.io/)</td>
+        <td>Anran Qi, Nico Pietroni, Maria Korosteleva, Olga Sorkine-Hornung, Adrien Bousseau</td>
+        <td>Sewing Pattern Transfer</td>
+      </tr>
+       <tr>
+        <td>3</td>
+        <td>[GarmentImage: Raster Encoding of Garment Sewing Patterns with Diverse Topologies](https://yukistavailable.github.io/garmentimage.github.io/)</td>
+        <td>Yuki Tatsukawa, Anran Qi, I-Chao Shen, Takeo Igarashi</td>
         <td>Garment Reconstruction</td>
       </tr>
     </tbody>
