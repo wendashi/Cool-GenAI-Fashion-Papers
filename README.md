@@ -65,6 +65,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>Yuki Tatsukawa, Anran Qi, I-Chao Shen, Takeo Igarashi</td>
         <td>Garment Reconstruction</td>
       </tr>
+      <tr>
+        <td>4</td>
+        <td>[Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics](https://dress-1-to-3.github.io/)</td>
+        <td>Xuan Li, Chang Yu, Wenxin Du, Ying Jiang, Tianyi Xie, Yunuo Chen, Yin Yang, Chenfanfu Jiang</td>
+        <td>Garment Reconstruction</td>
+      </tr>
     </tbody>
   </table>
 </details>
