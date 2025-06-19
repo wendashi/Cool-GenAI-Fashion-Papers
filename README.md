@@ -698,6 +698,7 @@ Personal Styling
 | Group/Lab/Univ                                              |Researchers |
 | ------------------------------------------------------------| -----------|
 | [MPI-IS](https://ps.is.mpg.de/) | [Michael Black](https://ps.is.mpg.de/person/black)|
+| [CVLab-EPFL](https://www.epfl.ch/labs/cvlab/) | [Ren Li](https://liren2515.github.io/page/)|
 | [AiDlab-PolyU](https://www.aidlab.hk/en/)|[Calvin WONG](https://research.polyu.edu.hk/en/persons/wai-keung-wong-2),[Xingxing Zou](https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN)|
 | [GAP Lab-CUHKSZ](https://gaplab.cuhk.edu.cn/pages/publications) | [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=en)|
 | [Meshcapade](https://meshcapade.com/) | [Maria Korosteleva](https://korosteleva.com/)|
