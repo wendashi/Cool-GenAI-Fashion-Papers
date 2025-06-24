@@ -71,6 +71,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>Xuan Li, Chang Yu, Wenxin Du, Ying Jiang, Tianyi Xie, Yunuo Chen, Yin Yang, Chenfanfu Jiang</td>
         <td>Garment Reconstruction</td>
       </tr>
+      <tr>
+        <td>5</td>
+        <td>[3D Stylization via Large Reconstruction Model](https://arxiv.org/abs/2504.21836)</td>
+        <td>Ipek Oztas, Duygu Ceylan, Aysegul Dundar</td>
+        <td>Style</td>
+      </tr>
     </tbody>
   </table>
 </details>
