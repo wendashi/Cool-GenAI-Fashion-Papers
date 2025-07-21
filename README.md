@@ -9,6 +9,7 @@ This repo collected the latest fashion-related papers on top AI conferences (in 
 
 <details>
   <summary>Change Log</summary>
+  - 2025-07, Fashion-related papers in ICCV 2025 are updated.
  
   - 2025-06, Fashion-centric metrics are involved, Fashion-related papers in SIGGRAPH 2025 are updated.
  
@@ -34,6 +35,250 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 - [🧑‍🏫Researchers](#researchers)
 
 ## 🔥Latest Fashion-Related Papers
+
+<details>
+  <summary>ICCV 2025-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models</td>
+        <td>Quang-Binh Nguyen · Minh Luu · Quang Nguyen · Anh Tran · Khoi Nguyen</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Wasserstein Style Distribution Analysis and Transform for Stylized Image Generation</td>
+        <td>Xi Yu · Xiang Gu · Zhihao Shi · Jian Sun</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>RAGDiffusion: Faithful Cloth Generation via External Knowledge Assimilation</td>
+        <td>Yuhan Li · Xianfeng Tan · Wenxiang Shang · Yubo Wu · Jian Wang · Xuanhong Chen · Yi Zhang · Zhu Hangcheng · Bingbing Ni</td>
+        <td>cloth</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>From Imitation to Innovation: The Emergence of AI's Unique Artistic Styles and the Challenge of Copyright Protection</td>
+        <td>Zexi Jia · Chuanwei Huang · Hongyan Fei · Yeshuang Zhu · Zhiqiang Yuan · Ying Deng · Jiapei Zhang · Jinchao Zhang · Jie Zhou</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Split-and-Combine: Enhancing Style Augmentation for Single Domain Generalization</td>
+        <td>Lichuan Gu · Shuai Yang · Qianlong Dang · Zhize Wu · LiChuan Gu</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>FonTS: Text Rendering With Typography and Style Controls</td>
+        <td>Wenda SHI · Yiren Song · Dengming Zhang · Jiaming Liu · XINGXING ZOU</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>ConstStyle: Robust Domain Generalization with Unified Style Transformation</td>
+        <td>Nam Duong Tran · Nam Nguyen Phuong · Hieu Pham · Phi Le Nguyen · My Thai</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>A$^3$GS: Arbitrary Artistic Style into Arbitrary 3D Gaussian Splatting</td>
+        <td>Zhiyuan Fang · Rengan Xie · Xuancheng Jin · Qi Ye · Wei Chen · Wenting Zheng · Rui Wang · Yuchi Huo</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image</td>
+        <td>Junyi Guo · Jingxuan Zhang · Fangyu Wu · Huanda Lu · Qiufeng Wang · Wenmian Yang · ENG LIM · Dongming Lu</td>
+        <td>garment</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation</td>
+        <td>Zhongyu Yang · Jun Chen · Dannong Xu · Junjie Fei · Xiaoqian Shen · Liangbing Zhao · Chun-Mei Feng · Mohamed Elhoseiny</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>Balanced Image Stylization with Style Matching Score</td>
+        <td>Yuxin Jiang · Liming Jiang · Shuai Yang · Jia-Wei Liu · Ivor Tsang · Mike Zheng Shou</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>NGD: Neural Gradient Based Deformation for Monocular Garment Reconstruction</td>
+        <td>Soham Dasgupta · Shanthika Naik · Preet Savalia · Sujay Kumar Ingle · Avinash Sharma</td>
+        <td>garment</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td>SCFlow: Implicitly Learning Style and Content Disentanglement with Flow Models</td>
+        <td>Pingchuan Ma · Xiaopei Yang · Ming Gui · Yusong Li · Felix Krause · Johannes Schusterbauer · Björn Ommer</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>AIComposer: Any Style and Content Image Composition via Feature Integration</td>
+        <td>Haowen Li · Zhenfeng Fan · Zhang Wen · Zhengzhou Zhu · Yunjin Li</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td>StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion</td>
+        <td>Ziyu Guo · Young-Yoon Lee · Joseph Liu · Yizhak Ben-Shabat · Victor Zordan · Mubbasir Kapadia</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td>LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing</td>
+        <td>Federico Girella · Davide Talon · Ziyue Liu · Zanxi Ruan · Yiming Wang · Marco Cristani</td>
+        <td>fashion</td>
+      </tr>
+      <tr>
+        <td>17</td>
+        <td>Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation</td>
+        <td>Shengqi Liu · Yuhao Cheng · Zhuo Chen · Xingyu Ren · Wenhan Zhu · Lincheng Li · Mengxiao Bi · Xiaokang Yang · Yichao Yan</td>
+        <td>sewing</td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td>Rethinking DPO-style Diffusion Aligning Frameworks</td>
+        <td>XUN WU · Shaohan Huang · Lingjie Jiang · Furu Wei</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td>Text2Outfit: Controllable Outfit Generation with Multimodal Language Models</td>
+        <td>Yuanhao Zhai · Yen-Liang Lin · Minxu Peng · Larry Davis · Ashwin Chandramouli · Junsong Yuan · David Doermann</td>
+        <td>outfit</td>
+      </tr>
+      <tr>
+        <td>20</td>
+        <td>LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</td>
+        <td>Donald Shenaj · Ondrej Bohdal · Mete Ozay · Pietro Zanuttigh · Umberto Michieli</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>21</td>
+        <td>UnZipLoRA: Separating Content and Style from a Single Image</td>
+        <td>Chang Liu · Viraj Shah · Aiyu Cui · Svetlana Lazebnik</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>22</td>
+        <td>Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID</td>
+        <td>Zechao Hu · Zhengwei Yang · Hao Li · Yixiong Zou · Zheng Wang</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>23</td>
+        <td>StyleSRN: Scene Text Image Super-Resolution with Text Style Embedding</td>
+        <td>Shengrong Yuan · Runmin Wang · Ke Hao · Xu-Qi Ma · Changxin Gao · Li Liu · Nong Sang</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>24</td>
+        <td>Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images</td>
+        <td>Yuran Dong · Mang Ye</td>
+        <td>fashion</td>
+      </tr>
+      <tr>
+        <td>25</td>
+        <td>Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks</td>
+        <td>Hailong Guo · Bohan Zeng · Yiren Song · Wentao Zhang · Jiaming Liu · Chuang Zhang</td>
+        <td>clothing</td>
+      </tr>
+      <tr>
+        <td>26</td>
+        <td>SA-LUT: Spatial Adaptive 4D Look-Up Table for Photorealistic Style Transfer</td>
+        <td>Zerui Gong · Zhonghua Wu · Qingyi Tao · Qinyue Li · Chen Change Loy</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>27</td>
+        <td>DuoLoRA : Cycle-consistent and Rank-disentangled Content-Style Personalization</td>
+        <td>Aniket Roy · Shubhankar Borse · Shreya Kadambi · Debasmit Das · Shweta Mahajan · Risheek Garrepalli · Hyojin Park · Ankita Nayak · Rama Chellappa · Munawar Hayat · Fatih Porikli</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>28</td>
+        <td>All Parts Matter: A Unified Mask-Free Virtual Try-On Framework</td>
+        <td>Chenghu Du · Shengwu Xiong · Yi Rong</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>29</td>
+        <td>Magic Insert: Style-Aware Drag-and-Drop</td>
+        <td>Nataniel Ruiz · Yuanzhen Li · Neal Wadhwa · Yael Pritch · Michael Rubinstein · David Jacobs · Shlomi Fruchter</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>30</td>
+        <td>MSA$^2$: Multi-task Framework with Structure-aware and Style-adaptive Character Representation for Open-set Chinese Text Recognition</td>
+        <td>Yangfu Li · Hongjian Zhan · Qi Liu · Li Sun · Yu-Jie Xiong · Yue Lu</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>31</td>
+        <td>OmniVTON: Training-Free Universal Virtual Try-On</td>
+        <td>Zhaotong Yang · Yuhui Li · Shengfeng He · Xinzhe Li · Yangyang Xu · Junyu Dong · Yong Du</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>32</td>
+        <td>PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask</td>
+        <td>Jeongho Kim · Hoiyeong Jin · Sunghyun Park · Jaegul Choo</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>33</td>
+        <td>Learning Implicit Features with Flow-Infused Transformations for Realistic Virtual Try-On</td>
+        <td>Delong Zhang · Qiwei Huang · Yang Sun · Yuanliu Liu · Wei-Shi Zheng · Pengfei Xiong · Wei Zhang</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>34</td>
+        <td>IntroStyle: Training-Free Introspective Style Attribution using Diffusion Features</td>
+        <td>Anand Kumar · Jiteng Mu · Nuno Vasconcelos</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>35</td>
+        <td>MEH: A Multi-Style Dataset and Toolkit for Advancing Egyptian Hieroglyph Recognition</td>
+        <td>Maksim Golyadkin · Rubanova Alexandrovna · Aleksandr Utkov · Dmitry Nikolotov · Ilya Makarov</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>36</td>
+        <td>Domain Generalizable Portrait Style Transfer</td>
+        <td>Xinbo Wang · Wenju Xu · Qing Zhang · Wei-Shi Zheng</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>37</td>
+        <td>TextMaster: A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control</td>
+        <td>Zhenyu Yan · Jian Wang · Aoqiang Wang · Yuhan Li · Wenxiang Shang · Zhu Hangcheng</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>38</td>
+        <td>Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting</td>
+        <td>Yian Zhao · rushi ye · Ruochong Zheng · Zesen Cheng · Chaoran Feng · Jiashu Yang · Pengchong Qiao · Chang Liu · Jie Chen</td>
+        <td>style</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <details>
   <summary>SIGGRAPH 2025-Fashion-Related-Papers</summary>
