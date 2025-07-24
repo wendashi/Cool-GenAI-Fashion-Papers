@@ -81,7 +81,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>6</td>
-        <td>FonTS: Text Rendering With Typography and Style Controls</td>
+        <td>[FonTS: Text Rendering With Typography and Style Controls](https://wendashi.github.io/FonTS-Page/)</td>
         <td>Wenda SHI · Yiren Song · Dengming Zhang · Jiaming Liu · XINGXING ZOU</td>
         <td>style</td>
       </tr>
