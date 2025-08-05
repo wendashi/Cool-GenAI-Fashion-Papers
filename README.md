@@ -141,7 +141,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>16</td>
-        <td>LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing</td>
+        <td>[LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing](https://intelligolabs.github.io/lots/)</td>
         <td>Federico Girella · Davide Talon · Ziyue Liu · Zanxi Ruan · Yiming Wang · Marco Cristani</td>
         <td>fashion</td>
       </tr>
