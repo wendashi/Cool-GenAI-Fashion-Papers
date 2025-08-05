@@ -21,7 +21,7 @@ This repo collected the latest fashion-related papers on top AI conferences (in 
 
 ## Overview
 This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 2025)](https://dl.acm.org/doi/10.1145/3718098) ⬅️
-- The publicly available datasets in each subtask are summarized in the corresponding section of paper.
+- The public datasets and benchmarks for each subtask are summarized in the corresponding section of the paper.
 
 ![Overview of GenAI in fashion](images/Overview_of_GenAI_fashion.png)
 
