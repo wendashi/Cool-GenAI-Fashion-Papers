@@ -39,7 +39,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 ## 🔥Latest Fashion-Related Papers
 
 <details>
-  <summary>SIGGRAPH 2025-Fashion-Related-Papers</summary>
+  <summary>SIGGRAPH Asia 2025-Fashion-Related-Papers</summary>
   <table>
     <thead>
       <tr>
