@@ -9,6 +9,7 @@ This repo collected the latest fashion-related papers on top AI conferences (in 
 
 <details>
   <summary>Change Log</summary>
+  - 2025-08, Fashion-related papers in SIGGRAPH Asia 2025 are updated.
  
   - 2025-07, Fashion-related papers in ICCV 2025 are updated.
  
@@ -36,6 +37,29 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 - [🧑‍🏫Researchers](#researchers)
 
 ## 🔥Latest Fashion-Related Papers
+
+<details>
+  <summary>SIGGRAPH 2025-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>[GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling](https://style3d.github.io/garmagenet/)</td>
+        <td>Siran Li,  Chen Liu,  Ruiyang Liu,  Zhendong Wang,  Gaofeng He,  Yong-Lu Li,  Xiaogang Jin,  Huamin Wang</td>
+        <td>sewing</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 
 <details>
   <summary>ICCV 2025-Fashion-Related-Papers</summary>
