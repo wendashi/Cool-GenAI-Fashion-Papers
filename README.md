@@ -9,6 +9,7 @@ This repo collected the latest fashion-related papers on top AI conferences (in 
 
 <details>
   <summary>Change Log</summary>
+ 
   - 2025-08, Fashion-related papers in SIGGRAPH Asia 2025 are updated.
  
   - 2025-07, Fashion-related papers in ICCV 2025 are updated.
