@@ -57,6 +57,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>Siran Li,  Chen Liu,  Ruiyang Liu,  Zhendong Wang,  Gaofeng He,  Yong-Lu Li,  Xiaogang Jin,  Huamin Wang</td>
         <td>sewing</td>
       </tr>
+      <tr>
+        <td>2</td>
+        <td>[DreamO: A Unified Framework for Image Customization](https://github.com/bytedance/DreamO)</td>
+        <td>Chong Mou, Yanze Wu, Wenxu Wu, Zinan Guo, Pengze Zhang, Yufeng Cheng, Yiming Luo, Fei Ding, Shiwen Zhang, Xinghui Li, Mengtian Li, Mingcong Liu, Yi Zhang, Shaojin Wu, Songtao Zhao, Jian Zhang, Qian He, Xinglong Wu</td>
+        <td>try-on</td>
+      </tr>
     </tbody>
   </table>
 </details>
