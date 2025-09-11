@@ -82,7 +82,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models</td>
+        <td>[CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models](https://arxiv.org/abs/2507.13984)</td>
         <td>Quang-Binh Nguyen · Minh Luu · Quang Nguyen · Anh Tran · Khoi Nguyen</td>
         <td>style</td>
       </tr>
