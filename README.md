@@ -53,7 +53,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>[GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling](https://style3d.github.io/garmagenet/)</td>
+        <td>[GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling](https://github.com/Style3D/garmagenet-impl)</td>
         <td>Siran Li,  Chen Liu,  Ruiyang Liu,  Zhendong Wang,  Gaofeng He,  Yong-Lu Li,  Xiaogang Jin,  Huamin Wang</td>
         <td>sewing</td>
       </tr>
