@@ -63,6 +63,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>Chong Mou, Yanze Wu, Wenxu Wu, Zinan Guo, Pengze Zhang, Yufeng Cheng, Yiming Luo, Fei Ding, Shiwen Zhang, Xinghui Li, Mengtian Li, Mingcong Liu, Yi Zhang, Shaojin Wu, Songtao Zhao, Jian Zhang, Qian He, Xinglong Wu</td>
         <td>try-on</td>
       </tr>
+      <tr>
+        <td>3</td>
+        <td>[One-shot Embroidery Customization via Contrastive LoRA Modulation](https://style3d.github.io/embroidery_customization/)</td>
+        <td>Jun Ma, Qian He, Gaofeng He, Huang Chen, Chen Liu, Xiaogang Jin, Huamin Wang</td>
+        <td>stylization, embroidery</td>
+      </tr>
     </tbody>
   </table>
 </details>
