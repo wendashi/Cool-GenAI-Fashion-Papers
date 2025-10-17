@@ -69,9 +69,16 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>Jun Ma, Qian He, Gaofeng He, Huang Chen, Chen Liu, Xiaogang Jin, Huamin Wang</td>
         <td>stylization, embroidery</td>
       </tr>
+      <tr>
+        <td>4</td>
+        <td>[InfiniHuman: Infinite 3D Human Creation with Precise Control](https://github.com/YuxuanSnow/InfiniHuman)</td>
+        <td>Yuxuan Xue, Xianghui Xie, Margaret Kostyrko, Gerard Pons-Moll</td>
+        <td>try-on, clothed human</td>
+      </tr>
     </tbody>
   </table>
 </details>
+
 
 
 <details>
