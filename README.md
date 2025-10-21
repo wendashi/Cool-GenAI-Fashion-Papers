@@ -75,6 +75,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>Yuxuan Xue, Xianghui Xie, Margaret Kostyrko, Gerard Pons-Moll</td>
         <td>try-on, clothed human</td>
       </tr>
+      <tr>
+        <td>5</td>
+        <td>[CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling](https://github.com/hyz317/CHARM)</td>
+        <td>Yuze He, Yanning Zhou, Wang Zhao, Jingwen Ye, Yushi Bai, Kaiwen Xiao, Yong-Jin Liu, Zhongqian Sun, Wei Yang</td>
+        <td>hairstyle</td>
+      </tr>
     </tbody>
   </table>
 </details>
