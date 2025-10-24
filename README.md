@@ -40,6 +40,59 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 ## 🔥Latest Fashion-Related Papers
 
 <details>
+  <summary>NeurIPS 2025-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>[Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework](https://du-chenghu.github.io/OccFree-VTON/)</td>
+        <td>Chenghu Du · Shengwu Xiong · junyin Wang · Yi Rong · Shili Xiong</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>[ShoeFit: A New Dataset and Dual-image-stream DiT Framework for Virtual Footwear Try-On](https://neurips.cc/virtual/2025/poster/116167)</td>
+        <td>Yuhan Li · Zhiyu Jin · Yifan Tong · Wenxiang Shang · Benlei Cui · Xuanhong Chen · Ran Lin · Bingbing Ni</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>[VTON-VLLM: Aligning Virtual Try-On Models with Human Preferences](https://neurips.cc/virtual/2025/poster/116251)</td>
+        <td>Siqi Wan · Jingwen Chen · Qi Cai · Yingwei Pan · Ting Yao · Tao Mei</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>[PhysDiff-VTON: Cross-Domain Physics Modeling and Trajectory Optimization for Virtual Try-On](https://neurips.cc/virtual/2025/poster/116829)</td>
+        <td>Shibin Mei · Bingbing Ni</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>[OmniTry: Virtual Try-On Anything without Masks](https://neurips.cc/virtual/2025/poster/116675)</td>
+        <td>Yutong Feng · Linlin Zhang · Hengyuan Cao · Yiming Chen · Xiaoduan Feng · Jian Cao · Yuxiong Wu · Bin Wang</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>[Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image](https://neurips.cc/virtual/2025/poster/116202)</td>
+        <td>Junkun Chen · Aayush Bansal · Minh Vo · Yu-Xiong Wang</td>
+        <td>try-on</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+
+<details>
   <summary>SIGGRAPH Asia 2025-Fashion-Related-Papers</summary>
   <table>
     <thead>
