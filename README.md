@@ -380,6 +380,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>Yian Zhao · rushi ye · Ruochong Zheng · Zesen Cheng · Chaoran Feng · Jiashu Yang · Pengchong Qiao · Chang Liu · Jie Chen</td>
         <td>style</td>
       </tr>
+      <tr>
+        <td>39</td>
+        <td>[SAFT: Shape and Appearance of Fabrics from Template via Differentiable Physical Simulations from Monocular Video](https://github.com/vc-bonn/saft)</td>
+        <td>David Stotko · Reinhard Klein</td>
+        <td>fabric</td>
+      </tr>
     </tbody>
   </table>
 </details>
