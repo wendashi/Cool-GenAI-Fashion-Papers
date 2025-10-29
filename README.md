@@ -87,6 +87,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>Junkun Chen · Aayush Bansal · Minh Vo · Yu-Xiong Wang</td>
         <td>try-on</td>
       </tr>
+      <tr>
+        <td>7</td>
+        <td>[SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction](https://xishuxishu.github.io/SyncHuman.github.io/)</td>
+        <td>Wenyue Chen, Peng Li, Wangguandong Zheng, Chengfeng Zhao, Mengfei Li, Yaolong Zhu, Zhiyang Dou, Ronggang Wang, Yuan Liu</td>
+        <td>clothed-human</td>
+      </tr>
     </tbody>
   </table>
 </details>
