@@ -316,7 +316,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>27</td>
-        <td>DuoLoRA : Cycle-consistent and Rank-disentangled Content-Style Personalization</td>
+        <td>DuoLoRA: Cycle-consistent and Rank-disentangled Content-Style Personalization</td>
         <td>Aniket Roy · Shubhankar Borse · Shreya Kadambi · Debasmit Das · Shweta Mahajan · Risheek Garrepalli · Hyojin Park · Ankita Nayak · Rama Chellappa · Munawar Hayat · Fatih Porikli</td>
         <td>style</td>
       </tr>
@@ -437,6 +437,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>[3D Stylization via Large Reconstruction Model](https://arxiv.org/abs/2504.21836)</td>
         <td>Ipek Oztas, Duygu Ceylan, Aysegul Dundar</td>
         <td>Style</td>
+      </tr>
+       <tr>
+        <td>6</td>
+        <td>[FashionComposer: Compositional Fashion Image Generation](https://dl.acm.org/doi/10.1145/3721238.3730663)</td>
+        <td>Sihui Ji, Yiyang Wang, Xi Chen, Xiaogang Xu, Hao Luo, Hengshuang Zhao</td>
+        <td>Try-on</td>
       </tr>
     </tbody>
   </table>
