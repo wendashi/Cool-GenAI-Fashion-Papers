@@ -3,8 +3,8 @@
 [![Cool](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/Cool-GenAI-Fashion-Papers) 
 
-This repo collected the latest fashion-related papers on top AI conferences (in [🔥Latest](#latest-fashion-related-papers) section). 
-- If your work is related to this topic and wish to be added to this repo, please feel free to open an issue 😊.
+This repo collects the latest fashion-related papers on top AI conferences (in [🔥Latest](#latest-fashion-related-papers) section). 
+- If your work relates to this topic and you'd like to be added to this repo, feel free to open an issue 😊.
 
 
 <details>
