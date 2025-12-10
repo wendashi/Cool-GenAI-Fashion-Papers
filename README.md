@@ -392,6 +392,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>David Stotko · Reinhard Klein</td>
         <td>fabric</td>
       </tr>
+       <tr>
+        <td>40</td>
+        <td>[From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos](https://cjeen.github.io/BraceletPaper/)</td>
+        <td>Chenjian Gao, Lihe Ding, Rui Han, Zhanpeng Huang, Zibin Wang, Tianfan Xue</td>
+        <td>bracelet, try-on</td>
+      </tr>
     </tbody>
   </table>
 </details>
