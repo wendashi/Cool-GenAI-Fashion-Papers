@@ -636,6 +636,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>Yisol Choi · Sangkyung Kwak · Sihyun Yu · Hyungwon Choi · Jinwoo Shin</td>
         <td>garment, controllable image generation</td>
       </tr>
+      <tr>
+        <td>25</td>
+        <td>[SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing](https://research.nvidia.com/labs/dair/simavatar/)</td>
+        <td>Xueting Li, Ye Yuan, Shalini De Mello, Gilles Daviet, Jonathan Leaf, Miles Macklin, Jan Kautz, Umar Iqbal</td>
+        <td>clothing</td>
+      </tr>
     </tbody>
   </table>
 </details>
