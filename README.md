@@ -40,6 +40,136 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 ## 🔥Latest Fashion-Related Papers
 
 <details>
+  <summary>AAAI 2026-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos</td>
+        <td>Dianbing Xi; Guoyuan An; Jingsen Zhu; Zhijian Liu; Yuan Liu; Ruiyuan Zhang; Jiayuan Lu; Yuchi Huo; Rui Wang</td>
+        <td>outfit</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>DECON: Reconstruction of Clothed-Geometric Multiple Humans from a Single Image via Geometry-Guided Decoupling</td>
+        <td>Yiming Jiang; Wenfeng Song; Shuai Li; Aimin Hao</td>
+        <td>cloth</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Fashion Microscope: Pixel-Level Attribute Perception via Optimal Transport and Neural Semantic Aggregation</td>
+        <td>Shuili Zhang; Hongzhang Mu; Jiawei Sheng; Qianqian Tong; Wenyuan Zhang; Quangang Li; Tingwen Liu</td>
+        <td>fashion</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Effective Robotic Cloth Grasping Through Suppressing False Discoveries</td>
+        <td>Xingyu Zhu; Zhiwen Tu; Yan Wu; Shan Luo; Hechang Chen; Yixing Gao</td>
+        <td>cloth</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network</td>
+        <td>Aoran Liu; Kun Hu; Clinton Ansun Mo; Qiuxia Wu; Wenxiong Kang; Zhiyong Wang</td>
+        <td>garment</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Real Garment Benchmark (RGBench): A Comprehensive Benchmark for Robotic Garment Manipulation Featuring a High-Fidelity Scalable Simulator</td>
+        <td>Wenkang Hu; Xincheng Tang; Yanzhi E; Yitong Li; Zhengjie Shu; Wei Li; Huamin Wang; Ruigang Yang</td>
+        <td>garment</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Learning 3D Texture-Aware Representations for Parsing Diverse Human Clothing and Body Parts</td>
+        <td>Kiran Chhatre; Christopher E. Peters; Srikrishna Karanam</td>
+        <td>cloth, clothing</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>HumanPro: Single-view 3D Clothed Human Reconstruction with Progressive Normal Guidance</td>
+        <td>Jianchi Sun; Fei Luo; Wenzhuo Fan; Yu Jiang; Chunxia Xiao</td>
+        <td>clothed human, cloth</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>MonoCloth: Reconstruction and Animation of Cloth- Decoupled Human Avatars from Monocular Videos</td>
+        <td>Daisheng Jin; Ying He</td>
+        <td>cloth</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>FashionMAC: Deformation-Free Fashion Image Generation with Fine-Grained Model Appearance Customization</td>
+        <td>Rong Zhang; Jinxiao Li; Jingnan Wang; Zhiwen Zuo; Jianfeng Dong; Wei Li; Chi Wang; Weiwei Xu; Xun Wang</td>
+        <td>fashion</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>IMAGGarment+: Efficient Attribute-Wise Diffusion for Garment Generation</td>
+        <td>Jian Yu; Fei Shen; Cong Wang; Yanpeng Sun; Hao Tang; Qin Guo; Xiaoyu Du</td>
+        <td>garment</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>UniFit: Towards Universal Virtual Try-on with MLLM- Guided Semantic Alignment</td>
+        <td>Wei Zhang; Yeying Jin; Xin Li; Yan Zhang; Xiaofeng Cong; Cong Wang; Fengcai Qiao; Zhichao Lian</td>
+        <td>try-on, virtual try-on</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td>FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting</td>
+        <td>Yitong Yang; Yinglin Wang; Changshuo Wang; Huajie Wang; Shuting He</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>StyleSentinel: Reliable Artistic Copyright Verification via Stylistic Fingerprints</td>
+        <td>Lingxiao Chen; Liqin Wang; Wei Lu</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td>Style4D-Bench: A Benchmark Suite for 4D Stylization</td>
+        <td>Beiqi Chen; Shuai Shao; Haitang Feng; Jianhuang Lai; Jianlou Si; Guangcong Wang</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td>DialoGen: Towards Dialog Gesture Generation via Identity-Decoupled Style Guidance in Interactive Diffusion Model</td>
+        <td>Weiyu Zhao; Chenyang Wang; Liangxiao Hu; Zonglin Li; Wei Yu; Shengping Zhang</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>17</td>
+        <td>StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback</td>
+        <td>Hongbo Ma; Fei Shen; Hongbin Xu; Xiaoce Wang; Gang Xu; Jinkai Zheng; Liangqiong Qu; Ming Li</td>
+        <td>style, fashion</td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td>ACID-Style: An Adaptive Condition Injection Diffusion Model for Arbitrary Style Transfer</td>
+        <td>Ting Yang; Siyu Yang; Xiyao Liu; Songtao Wu; Gerald Schaefer; Kuanhong Xu; Hui Fang</td>
+        <td>style</td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td>StyleFM: Frequency Manipulation Empowered by Recursive Attention on Diffusion Models for Arbitrary Style Transfer</td>
+        <td>Yingnan Ma; Zhenye Liu; Siying Liu; Anup Basu</td>
+        <td>style</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
   <summary>NeurIPS 2025-Fashion-Related-Papers</summary>
   <table>
     <thead>
