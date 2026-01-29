@@ -720,26 +720,14 @@ Summary developments of technology
 
 | Title | Publication | Paper | Key Word | Region | 
 | ----- | ----------- | ----- | ---- | ------------ |
-| Toward Fashion Intelligence in the Big Data Era: SOTA and Future Prospects | TCE 2024 | [paper](https://ieeexplore.ieee.org/abstract/document/10153335/authors#full-text-header) | Fashion Analysis | China |
-| Fashion intelligence in the Metaverse: promise and future prospects | AIR 2024 | [paper](https://link.springer.com/article/10.1007/s10462-024-10703-8) | Fashion Analysis and 3D-Related | China |
-| A Comparative Study of Garment Draping Techniques | Preprint 2024 | [paper](https://arxiv.org/abs/2405.11056) | Draping | India |
-| A Survey of Artificial Intelligence in Fashion | IEEE Signal Process. Mag. 2023 | [paper](https://ieeexplore.ieee.org/document/10113373) | Overview | Taiwan (China) |
-| AI Assisted Fashion Design: A Review | IEEE Access  | [paper](https://ieeexplore.ieee.org/document/10223039) | Fashion Design | China |
 | Computational Technologies for Fashion Recommendation: A Survey | ACM Comput. Surv.  | [paper](https://dl.acm.org/doi/10.1145/3627100) | Fashion Recommendation | Hong Kong (China) |
 | A Review of Modern Fashion Recommender Systems | ACM Comput. Surv.  | [paper](https://dl.acm.org/doi/10.1145/3624733) | Fashion Recommendation | Italy |
 | A survey on Fashion Image Retrieval | ACM Comput. Surv.  | [paper](https://dl.acm.org/doi/10.1145/3636552) | Fashion Retrieval | India |
 | Appearance and Pose-Guided Human Generation: A Survey | ACM Comput. Surv.  | [paper](https://dl.acm.org/doi/10.1145/3637060) | Fashion Generation | Hong Kong (China) |
 | Analytics Applications in Fashion Supply Chain Management—A Review of Literature and Practice | IEEE Trans Eng Manag  | [paper](https://ieeexplore.ieee.org/document/9461179/authors) | Fashion Supply Chain | Germany |
-| Deep Learning Approaches for Fashion Knowledge Extraction From Social Media: A Review. | IEEE Access 2022 | [paper](https://ieeexplore.ieee.org/document/9661397) | Fashion Knowledge Extraction | Italy |
-| Defining digital fashion: Reshaping the field via a systematic review | Comput. Hum. Behav. 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S0747563222002291?via=ihub) | Digital Fashion | South Korea |
-| A Review of AI (Artificial Intelligence) Tools and Customer Experience in Online Fashion Retail | Int. J. E Bus. Res. 2022 | [paper](https://www.igi-global.com/gateway/article/294111) | Fashion Retail | India |
 | Fashion Meets Computer Vision: A Survey. | ACM Comput. Surv. 2021 | [paper](https://dl.acm.org/doi/10.1145/3447239) | Overview | Taiwan (China)  |
-| Smart Fashion: A Review of AI Applications in the Fashion & Apparel Industry | Preprint 2021 | [paper](https://arXiv.org/pdf/2111.00905) | Overview | Iran |
 | fAshIon after fashion: A Report of AI in Fashion | Preprint 2021 | [paper](https://arXiv.org/abs/2105.03050) | Overview | Hong Kong(China) |
-| Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion | Preprint 2021 | [paper](https://arXiv.org/abs/2101.08301) | Overview | China |
-| Fashion Recommendation Systems, Models and Methods: A Review | Informatics 2021 | [paper](https://www.mdpi.com/2227-9709/8/3/49#:~:text=Fashion%20Recommendation%20Systems%2C%20Models%20and%20Methods%3A%20A%20Review,Metrics%20Used%20in%20Fashion%20Recommendation%20System%20Evaluation%20) | Fashion Recommendation | USA  |
 | A Detailed Review of Artificial Intelligence Applied in the Fashion and Apparel Industry | IEEE Access 2019 | [paper](https://ieeexplore.ieee.org/document/8763948) | Overview | France  |
-| An Overview of Image Recognition and Retrieval of Clothing items | RICE 2018 | [paper](https://ieeexplore.ieee.org/document/8763948) | Fashion Retrieval | India |
 | When Multimedia Meets Fashion | IEEE MultiMedia 2018 | [paper](https://ieeexplore.ieee.org/document/8589035) | Overview | China |
 | Fashion Analysis: Current Techniques and Future Directions | IEEE MultiMedia 2014 | [paper](https://ieeexplore.ieee.org/abstract/document/6818912) | Overview | Singapore  |
 
