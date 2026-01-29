@@ -573,13 +573,13 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>14</td>
         <td>[StyleSSP:  Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer](https://github.com/bytedance/StyleSSP)</td>
         <td>ruojun xu · Weijie Xi · Xiaodi Wang · Yongbo Mao · Zach Cheng</td>
-        <td>style</td>
+        <td>style transfer</td>
       </tr>
       <tr>
         <td>15</td>
         <td>[ChatGarment: Garment Estimation, Generation and Editing via Large Language Models](https://chatgarment.github.io/)</td>
         <td>Siyuan Bian · Chenghao Xu · Yuliang Xiu · Artur Grigorev · Zhen Liu · Cewu Lu · Michael J. Black · Yao Feng</td>
-        <td>garment</td>
+        <td>garment geneartion, editing, sewing pattern</td>
       </tr>
       <tr>
         <td>16</td>
@@ -603,13 +603,13 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>19</td>
         <td>[DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image](https://hygenie1228.github.io/DeClotH/)</td>
         <td>Hyeongjin Nam · Donghwan Kim · Jeongtaek Oh · Kyoung Mu Lee</td>
-        <td>cloth</td>
+        <td>cloth + body reconstruction</td>
       </tr>
       <tr>
         <td>20</td>
         <td>[PGC: Physics-Based Gaussian Cloth from a Single Pose](https://phys-gaussian-cloth.github.io/)</td>
         <td>Michelle Guo · Matt Jen-Yuan Chiang · Igor Santesteban · Nikolaos Sarafianos · Hsiaoyu Chen · Oshri Halimi · Aljaž Božič · Shunsuke Saito · Jiajun Wu · Karen Liu · Tuur Stuyck · Egor Larionov</td>
-        <td>garment</td>
+        <td>garment reconstruction, simulation</td>
       </tr>
       <tr>
         <td>21</td>
@@ -628,13 +628,13 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>23</td>
         <td>[GaPT-DAR: Category-level Garments Pose Tracking via Integrated 2D Deformation and 3D Reconstruction](https://sites.google.com/view/gapt-dar)</td>
         <td>Li Zhang · mingliang xu · Jianan Wang · Qiaojun Yu · Lixin Yang · Yonglu Li · Cewu Lu · RujingWang · Liu Liu</td>
-        <td>garment, Reconstruction</td>
+        <td>garment, 3D reconstruction</td>
       </tr>
       <tr>
         <td>24</td>
         <td>[BootComp: Controllable Human Image Generation with Personalized Multi-Garments](https://github.com/omnious/BootComp)</td>
         <td>Yisol Choi · Sangkyung Kwak · Sihyun Yu · Hyungwon Choi · Jinwoo Shin</td>
-        <td>garment</td>
+        <td>garment, controllable image generation</td>
       </tr>
     </tbody>
   </table>
