@@ -762,7 +762,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>2</td>
-        <td[>Attributing Culture-Conditioned Generations to Pretraining Corpora](https://github.com/huihanlhh/CultureGenAttr)</td>
+        <td>[Attributing Culture-Conditioned Generations to Pretraining Corpora](https://github.com/huihanlhh/CultureGenAttr)</td>
         <td>Huihan Li · Arnav Goel · Keyu He · Xiang Ren</td>
         <td>culture-conditioned generation, pretraining corpora</td>
       </tr>
