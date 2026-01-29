@@ -55,13 +55,13 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>1</td>
         <td>PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos</td>
         <td>Dianbing Xi; Guoyuan An; Jingsen Zhu; Zhijian Liu; Yuan Liu; Ruiyuan Zhang; Jiayuan Lu; Yuchi Huo; Rui Wang</td>
-        <td>outfit</td>
+        <td>outfit, Reconstruction</td>
       </tr>
       <tr>
         <td>2</td>
         <td>DECON: Reconstruction of Clothed-Geometric Multiple Humans from a Single Image via Geometry-Guided Decoupling</td>
         <td>Yiming Jiang; Wenfeng Song; Shuai Li; Aimin Hao</td>
-        <td>cloth</td>
+        <td>cloth, Reconstruction</td>
       </tr>
       <tr>
         <td>3</td>
@@ -73,7 +73,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>4</td>
         <td>Effective Robotic Cloth Grasping Through Suppressing False Discoveries</td>
         <td>Xingyu Zhu; Zhiwen Tu; Yan Wu; Shan Luo; Hechang Chen; Yixing Gao</td>
-        <td>cloth</td>
+        <td>cloth, robot</td>
       </tr>
       <tr>
         <td>5</td>
@@ -83,15 +83,15 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>6</td>
-        <td>Real Garment Benchmark (RGBench): A Comprehensive Benchmark for Robotic Garment Manipulation Featuring a High-Fidelity Scalable Simulator</td>
+        <td>[Real Garment Benchmark (RGBench): A Comprehensive Benchmark for Robotic Garment Manipulation Featuring a High-Fidelity Scalable Simulator](https://rgbench.github.io/)</td>
         <td>Wenkang Hu; Xincheng Tang; Yanzhi E; Yitong Li; Zhengjie Shu; Wei Li; Huamin Wang; Ruigang Yang</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>7</td>
-        <td>Learning 3D Texture-Aware Representations for Parsing Diverse Human Clothing and Body Parts</td>
+        <td>[Learning 3D Texture-Aware Representations for Parsing Diverse Human Clothing and Body Parts](https://s-pectrum.github.io/)</td>
         <td>Kiran Chhatre; Christopher E. Peters; Srikrishna Karanam</td>
-        <td>cloth, clothing</td>
+        <td>cloth, Parsing</td>
       </tr>
       <tr>
         <td>8</td>
@@ -101,31 +101,31 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>9</td>
-        <td>MonoCloth: Reconstruction and Animation of Cloth- Decoupled Human Avatars from Monocular Videos</td>
+        <td>[MonoCloth: Reconstruction and Animation of Cloth-Decoupled Human Avatars from Monocular Videos](https://kingjg.github.io/MonoCloth.github.io/)</td>
         <td>Daisheng Jin; Ying He</td>
         <td>cloth</td>
       </tr>
       <tr>
         <td>10</td>
-        <td>FashionMAC: Deformation-Free Fashion Image Generation with Fine-Grained Model Appearance Customization</td>
+        <td>[FashionMAC: Deformation-Free Fashion Image Generation with Fine-Grained Model Appearance Customization](https://github.com/module8627/FashionMAC)</td>
         <td>Rong Zhang; Jinxiao Li; Jingnan Wang; Zhiwen Zuo; Jianfeng Dong; Wei Li; Chi Wang; Weiwei Xu; Xun Wang</td>
         <td>fashion</td>
       </tr>
       <tr>
         <td>11</td>
-        <td>IMAGGarment+: Efficient Attribute-Wise Diffusion for Garment Generation</td>
+        <td>[IMAGGarment+: Efficient Attribute-Wise Diffusion for Garment Generation](https://github.com/muzishen/IMAGGarment)</td>
         <td>Jian Yu; Fei Shen; Cong Wang; Yanpeng Sun; Hao Tang; Qin Guo; Xiaoyu Du</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>12</td>
-        <td>UniFit: Towards Universal Virtual Try-on with MLLM- Guided Semantic Alignment</td>
+        <td>[UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment](https://github.com/zwplus/UniFit)</td>
         <td>Wei Zhang; Yeying Jin; Xin Li; Yan Zhang; Xiaofeng Cong; Cong Wang; Fengcai Qiao; Zhichao Lian</td>
         <td>try-on, virtual try-on</td>
       </tr>
       <tr>
         <td>13</td>
-        <td>FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting</td>
+        <td>[FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://github.com/yangyt46/FantasyStyle)</td>
         <td>Yitong Yang; Yinglin Wang; Changshuo Wang; Huajie Wang; Shuting He</td>
         <td>style</td>
       </tr>
@@ -137,7 +137,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>15</td>
-        <td>Style4D-Bench: A Benchmark Suite for 4D Stylization</td>
+        <td>[Style4D-Bench: A Benchmark Suite for 4D Stylization](https://github.com/Becky-catherine/Style4D-Bench)</td>
         <td>Beiqi Chen; Shuai Shao; Haitang Feng; Jianhuang Lai; Jianlou Si; Guangcong Wang</td>
         <td>style</td>
       </tr>
@@ -149,19 +149,13 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>17</td>
-        <td>StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback</td>
+        <td>[StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback](https://github.com/ma-hongbo/StyleTailor)</td>
         <td>Hongbo Ma; Fei Shen; Hongbin Xu; Xiaoce Wang; Gang Xu; Jinkai Zheng; Liangqiong Qu; Ming Li</td>
         <td>style, fashion</td>
       </tr>
       <tr>
         <td>18</td>
-        <td>ACID-Style: An Adaptive Condition Injection Diffusion Model for Arbitrary Style Transfer</td>
-        <td>Ting Yang; Siyu Yang; Xiyao Liu; Songtao Wu; Gerald Schaefer; Kuanhong Xu; Hui Fang</td>
-        <td>style</td>
-      </tr>
-      <tr>
-        <td>19</td>
-        <td>StyleFM: Frequency Manipulation Empowered by Recursive Attention on Diffusion Models for Arbitrary Style Transfer</td>
+        <td>[StyleFM: Frequency Manipulation Empowered by Recursive Attention on Diffusion Models for Arbitrary Style Transfer](https://github.com/YingnanMa/StyleFM)</td>
         <td>Yingnan Ma; Zhenye Liu; Siying Liu; Anup Basu</td>
         <td>style</td>
       </tr>
@@ -803,7 +797,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>35</td>
-        <td>Controllable Human Image Generation with Personalized Multi-Garments</td>
+        <td>[BootComp: Controllable Human Image Generation with Personalized Multi-Garments](https://github.com/omnious/BootComp)</td>
         <td>Yisol Choi · Sangkyung Kwak · Sihyun Yu · Hyungwon Choi · Jinwoo Shin</td>
         <td>garment</td>
       </tr>
@@ -825,19 +819,19 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models</td>
+        <td>[CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models](https://github.com/Zheng-Chong/CatVTON)</td>
         <td>Zheng Chong · Xiao Dong · Haoxiang Li · shiyue Zhang · Wenqing Zhang · Hanqing Zhao · xujie zhang · Dongmei Jiang · Xiaodan Liang</td>
         <td>virtual try-on, diffusion models</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>Attributing Culture-Conditioned Generations to Pretraining Corpora</td>
+        <td[>Attributing Culture-Conditioned Generations to Pretraining Corpora](https://github.com/huihanlhh/CultureGenAttr)</td>
         <td>Huihan Li · Arnav Goel · Keyu He · Xiang Ren</td>
         <td>culture-conditioned generation, pretraining corpora</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On</td>
+        <td>[Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On](https://github.com/HiDream-ai/SPM-Diff)</td>
         <td>Siqi Wan · Jingwen Chen · Yingwei Pan · Ting Yao · Tao Mei</td>
         <td>virtual try-on, diffusion model, visual correspondence</td>
       </tr>
