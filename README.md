@@ -739,7 +739,6 @@ Evaluation protocols for specific tasks
 | Title | Publication | Paper | Link | Region |
 | ----- | ----------- | ----- | ---- | ------------ |
 | How Good Is Aesthetic Ability of a Fashion Model? | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.html) | [dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data) | Hong Kong |
-| An Evaluation of Artificial Intelligence Components in E-Commerce Fashion Platforms | WorldCIST 2022 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-04826-5_27) | - | Portugal |
 | Where are my clothes? A multi-level approach for evaluating deep instance segmentation architectures on fashion images |  CVPRW 2021  | [paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Jouanneau_Where_Are_My_Clothes_A_Multi-Level_Approach_for_Evaluating_Deep_CVPRW_2021_paper.pdf) | - | France |
 | Assessing Fashion Recommendations: A Multifaceted Offline Evaluation Approach | recsysXfashion 2019 | [paper](https://arxiv.org/abs/1909.04496) | - | USA |
 
@@ -767,21 +766,11 @@ Understanding of fashion images
 #### Parsing
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
-| OMNet | OMNet: Outfit Memory Net for clothing parsing | IJCST 2023 | [paper](https://www.emerald.com/insight/content/doi/10.1108/IJCST-10-2022-0145/full/html) | - | China |
-| UAM-Net | Unabridged adjacent modulation for clothing parsing | PR 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S0031320322000759) | [code](https://github.com/ctzuo/UAM-Net) | China |
-| - | Feature fusion network for clothing parsing | IJMLC 2022 | [paper](https://link.springer.com/article/10.1007/s13042-022-01519-5) | - | China |
-| CCFNet | CCFNet: Cross-Complementary fusion network for RGB-D scene parsing of clothing images | JVCI 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S1047320322002474#aep-article-footnote-id1) | - | China |
-| - | Describe Me If You Can! Characterized Instance-Level Human Parsing | ICIP 2021 | [paper](https://ieeexplore.ieee.org/abstract/document/9506509) | - | France |
 | - | Progressive One-shot Human Parsing | AAAI 2021 | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16243) | - | Sydney |
 | SIZER | SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing | ECCV 2020 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-58580-8_1) | [project](https://virtualhumans.mpi-inf.mpg.de/sizer/) | Germany |
 | - | Hierarchical Human Parsing With Typed Part-Relation Reasoning | CVPR 2020 | [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Hierarchical_Human_Parsing_With_Typed_Part-Relation_Reasoning_CVPR_2020_paper.html) | [code](https://github.com/hlzhu09/Hierarchical-Human-Parsing) |  Switzerland |
-| - | Fine-Grained Garment Parsing: A Body Generation Approach | ICME 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9102718) | - | China |
-| SP-FEN | Superpixels Features Extractor Network (SP-FEN) for Clothing Parsing Enhancement | NPL 2020 | [paper](https://link.springer.com/article/10.1007/s11063-019-10173-y#Sec11) | - | Malaysia |
 | Look into Person | Look into Person: Joint Body Parsing & Pose Estimation Network and a New Benchmark | TPAMI 2019 | [paper](https://ieeexplore.ieee.org/abstract/document/8327922) | - | China |
-| - | Holistic, Instance-Level Human Parsing | BMVC 2017 | [paper](https://arxiv.org/abs/1709.03612)| - | UK |
-| - | Looking at Outfit to Parse Clothing | Preprint 2017 | [paper](https://arxiv.org/abs/1703.01386) | - | Japan |
 | - | Surveillance Video Parsing With Single Frame Supervision | CVPR 2017 | [paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Surveillance_Video_Parsing_CVPR_2017_paper.html) | - | China |
-| - | Enhanced Reweighted MRFs for Efficient Fashion Image Parsing | TOMM 2016 | [paper](https://dl.acm.org/doi/abs/10.1145/2890104) | - | Canada |
 | - | Clothes Co-Parsing Via Joint Image Segmentation and Labeling With Application to Clothing Retrieval | TMM 2016 | [paper](https://ieeexplore.ieee.org/abstract/document/7434660) | - | China |
 | - | Parsing Based on Parselets: A Unified Deformable Mixture Model for Human Parsing | TPAMI 2015 | [paper](https://ieeexplore.ieee.org/abstract/document/7080924) | - | Singapore |
 | - | Retrieving Similar Styles to Parse Clothing  | TPAMI 2014 | [paper](https://ieeexplore.ieee.org/abstract/document/6888484) | - | Japan |
@@ -796,9 +785,8 @@ Understanding of fashion images
 | - | DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition  | CVPRW 2023 | [paper](https://drive.google.com/file/d/1q89zKZ7bobBpUqkBCDypn44B1EvxnHBA/view) | - | Hong Kong |
 | Fashionformer | Fashionformer: A Simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition | ECCV 2022 | -> | [project](https://github.com/xushilin1/FashionFormer) | China |
 | Fashionpedia | Fashionpedia: Ontology, Segmentation, and an Attribute Localization Dataset | ECCV 2020 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_19) | - | USA |
-| - | Segmentation task for fashion and apparel | Preprint 2020  | [paper](https://arxiv.org/abs/2006.11375) | - | USA |
 | - | Joint Multi-Person Pose Estimation and Semantic Part Segmentation | CVPR 2017 | [paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Xia_Joint_Multi-Person_Pose_CVPR_2017_paper.html)| - | USA |
-| DeepFashion | DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations | CVPR 2016 | [paper](https://ieeexplore.ieee.org/document/7780493) | - | Hong Kong(China) |
+| DeepFashion | DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations | CVPR 2016 | [paper](https://ieeexplore.ieee.org/document/7780493) | - | Hong Kong |
 | - | Who Blocks Who: Simultaneous clothing segmentation for grouping images | ICCV 2011 | [paper](https://ieeexplore.ieee.org/abstract/document/6126412) | - | China |
 
 
@@ -807,14 +795,12 @@ Understanding of fashion images
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | - | Improving apparel detection with category grouping and multi-grained branches | Multimedia Tools and Applications 2022  | [paper](https://link.springer.com/article/10.1007/s11042-022-13424-8) | - | USA |
 | CoRe | CoRe: Color Regression for Multicolor Fashion Garments | CVPRW 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/papers/Rame_CoRe_Color_Regression_for_Multicolor_Fashion_Garments_CVPRW_2022_paper.pdf) | - | France |
-| - |  Fashion landmark detection and category classification for robotics | ICARSC 2020  | [paper](https://ieeexplore.ieee.org/abstract/document/9096071) | - | Switzerland |
-| - | Aggregation and Finetuning for Clothes Landmark Detection | Preprint 2020 | [paper](https://arxiv.org/abs/2005.00419) | [code](https://github.com/lzhbrian/deepfashion2-kps-agg-finetune) | China |
 | - |  Spatial-aware non-local attention for fashion landmark detection | ICME 2019 | [paper](https://ieeexplore.ieee.org/abstract/document/8784817) | - | China |
 | - | Layout-Graph Reasoning for Fashion Landmark Detection | CVPR 2019 | [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Layout-Graph_Reasoning_for_Fashion_Landmark_Detection_CVPR_2019_paper.html) | - | China |
 | DeepFashion2 | DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images | CVPR 2019 | [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Ge_DeepFashion2_A_Versatile_Benchmark_for_Detection_Pose_Estimation_Segmentation_and_CVPR_2019_paper.html)| - | China |
 | - | A global-local embedding module for fashion landmark detection | ICCVW 2019 | [paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Lee_A_Global-Local_Embedding_Module_for_Fashion_Landmark_Detection_ICCVW_2019_paper.html) | - | Korea |
 | - | Unconstrained Fashion Landmark Detection via Hierarchical Recurrent Transformer Networks | MM 2017 | [paper](https://dl.acm.org/doi/abs/10.1145/3123266.3123276) | - | Hong Kong |
-| - | Fashion Landmark Detection in the Wild | ECCV 2016 | [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_15) | - | Hong Kong(China) |
+| - | Fashion Landmark Detection in the Wild | ECCV 2016 | [paper](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_15) | - | Hong Kong |
 
 
 #### Pose Estimation, Tracking
@@ -832,7 +818,6 @@ Online selling
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | M3-Net | Learning Attribute and Class-Specific Representation Duet for Fine-grained Fashion Analysis | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiao_Learning_Attribute_and_Class-Specific_Representation_Duet_for_Fine-Grained_Fashion_Analysis_CVPR_2023_paper.pdf) | - | USA |
-| - | Dynamic Network for Language-based Fashion Retrieval | MMIR ’23 (MM 2023 workshop)  | [paper](https://dl.acm.org/doi/10.1145/3606040.3617438) | - | China |
 | MODC | Fine-grained Fashion Representation Learning by Online Deep Clustering| ECCV 2022 | [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870019.pdf) | - | USA |
 | FashionVLP | FashionVLP: Vision Language Transformer for Fashion Retrieval with Feedback | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Goenka_FashionVLP_Vision_Language_Transformer_for_Fashion_Retrieval_With_Feedback_CVPR_2022_paper.pdf) | - | USA |
 | EI-CLIP | EI-CLIP: Entity-aware Interventional Contrastive Learning for E-commerce Cross-modal Retrieval | CVPR 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_EI-CLIP_Entity-Aware_Interventional_Contrastive_Learning_for_E-Commerce_Cross-Modal_Retrieval_CVPR_2022_paper.pdf) | - | USA |
@@ -855,8 +840,6 @@ Online selling
 #### Video Generation
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
-| GPT4Motion | GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning | Preprint 2023 | -> | [project](https://gpt4motion.github.io/) | China |
-| Animate Anyone | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation | Preprint 2023 | -> | [project](https://humanaigc.github.io/animate-anyone/) | China |
 | wFlow | Dressing in the Wild by Watching Dance Videos | CVPR 2022 | -> | [project](https://awesome-wflow.github.io/) | China |
 | ClothFormer | ClothFormer: Taming Video Virtual Try-on in All Module | CVPR 2022 | -> | [project](https://cloth-former.github.io/) | China |
 
@@ -886,7 +869,6 @@ Personal Styling
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
 | StyleMe | StyleMe: Towards Intelligent Fashion Generation with Designer Style | CHI 2023 | [paper](https://dl.acm.org/doi/fullHtml/10.1145/3544548.3581377) | [code](https://github.com/ExponentiAI/StyleMe) | China |
-| generative.fashion | Fashioning the Future: Unlocking the Creative Potential of Deep Generative Models for Design Space Exploration | CHI EA 2023 | [paper](https://dl.acm.org/doi/abs/10.1145/3544549.3585644) | [project](https://generative.fashion/) | Switzerland |
 | AI Archive | Generative AI for Concept Creation in Footwear Design | INVITED-TALK (SIGGRAPH 2023) | [paper](https://dl.acm.org/doi/10.1145/3587421.3595416) | - | Germany |
 | UnitedHuman | UnitedHuman: Harnessing Multi-Source Data for High-Resolution Human Generation | ICCV 2023 | -> | [project](https://unitedhuman.github.io/) | China |
 | FreeDoM | FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model | ICCV 2023 | [paper](https://arXiv.org/abs/2303.09833) | [code](https://github.com/vvictoryuki/FreeDoM) | China |
@@ -922,7 +904,6 @@ Personal Styling
 | DCI-VTON | Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow | MM 2023 | [paper](https://dl.acm.org/doi/10.1145/3581783.3612255) | [code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On) | China |
 | PG-VTON | PG-VTON: A Novel Image-Based Virtual Try-On Method via Progressive Inference Paradigm | TMM 2023 | [paper](https://arXiv.org/abs/2304.08956) | [code](https://github.com/NerdFNY/PGVTON) | China |
 | DOC-VTON | OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup | TMM 2023 | [paper](https://arXiv.org/abs/2301.00965) | [code](https://github.com/JyChen9811/DOC-VTON) | China |
-| StableVITON | StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On | Preprint 2023 | -> | [project](https://rlawjdghek.github.io/StableVITON/) | South Korea |
 | - | A High-resolution Image-based Virtual Try-on System in Taobao E-commerce Scenario | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547740) | - | China |
 | GT-MUST | GT-MUST: Gated Try-on by Learning the Mannequin-Specific Transformation | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547775) | - | China |
 | PL-VTON | Progressive Limb-Aware Virtual Try-On | MM 2022 | [paper](https://dl.acm.org/doi/10.1145/3503161.3547999) | - | China |
@@ -949,8 +930,8 @@ Personal Styling
 #### 3D Synthesis
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
-| Garment3DGen | Garment3DGen: 3D Garment Stylization and Texture Generation | arXiv 2024 | -> |[project](https://nsarafianos.github.io/garment3dgen) | USA |
-| En3D | En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data | Preprint 2024 | -> | [project](https://menyifang.github.io/projects/En3D/index.html) | China |
+| Garment3DGen | Garment3DGen: 3D Garment Stylization and Texture Generation | 3DV 2025 | -> |[project](https://nsarafianos.github.io/garment3dgen) | USA |
+| En3D | En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data | CVPR 2024 | -> | [project](https://menyifang.github.io/projects/En3D/index.html) | China |
 | SewFormer | Towards Garment Sewing Pattern Reconstruction from a Single Image | TOG (SIGGRAPH Asia 2023) | -> | [project](https://sewformer.github.io/) | Singapore |
 | GTA | Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction | NIPS 2023 | -> | [project](https://river-zhang.github.io/GTA-projectpage/) | China |
 | SeSDF | SeSDF: Self-evolved Signed Distance Field for Implicit 3D Clothed Human Reconstruction | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_SeSDF_Self-Evolved_Signed_Distance_Field_for_Implicit_3D_Clothed_Human_CVPR_2023_paper.pdf) | - | Hong Kong |
@@ -986,7 +967,7 @@ Personal Styling
 #### Dynamic Synthesis
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
-| WordRobe | WordRobe: Text-Guided Generation of Textured 3D Garments | arXiv 2024 | [paper](https://arxiv.org/abs/2403.17541) | [project](https://wordrobe24.github.io/WordRobe_Page/) | India |
+| WordRobe | WordRobe: Text-Guided Generation of Textured 3D Garments | ECCV 2024 | [paper](https://arxiv.org/abs/2403.17541) | [project](https://wordrobe24.github.io/WordRobe_Page/) | India |
 | CLOTH4D | CLOTH4D: A Dataset for Clothed Human Reconstruction | CVPR 2023 | -> | [project](https://github.com/AemikaChow/CLOTH4D) | Hong Kong |
 | Garment4D | Garment4D: Garment Reconstruction from Point Cloud Sequences | NIPS 2021 | -> | [project](https://hongfz16.github.io/projects/Garment4D.html) | Singapore |
 
@@ -1002,7 +983,7 @@ Personal Styling
 #### Knowledge Extraction
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ---- |
-| - | Multimodal Fashion Knowledge Extraction as Captioning | SIGIR-AP 2023 | [paper](https://dl.acm.org/doi/abs/10.1145/3624918.3625315) | - | Hong Kong(China) |
+| - | Multimodal Fashion Knowledge Extraction as Captioning | SIGIR-AP 2023 | [paper](https://dl.acm.org/doi/abs/10.1145/3624918.3625315) | - | Hong Kong |
 | - | Who, Where, and What to Wear?: Extracting Fashion Knowledge from Social Media | MM 2019 | [paper](https://dl.acm.org/doi/abs/10.1145/3343031.3350889) | - | Singapore |
 | - | Describing Clothing by Semantic Attributes | ECCV 2012 | [paper](https://link.springer.com/chapter/10.1007/978-3-642-33712-3_44) | - | USA |
 
