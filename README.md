@@ -43,7 +43,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 
 ## 🔥Latest Fashion-Related Papers
 <details>
-  <summary>AAAI 2026-Fashion-Related-Papers</summary>
+  <summary>ICLR 2026-Fashion-Related-Papers</summary>
   <table>
     <thead>
       <tr>
