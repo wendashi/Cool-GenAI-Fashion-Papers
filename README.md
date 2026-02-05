@@ -10,7 +10,7 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
  
-  - 2026-1, Fashion-related papers in AAAI 2026 are updated.
+  - 2026-1, Fashion-related papers in AAAI 2026/ICLR 2026 are updated.
  
   - 2025-10, Fashion-related papers in SIGGRAPH Asia 2025/NeurIPS 2025 are updated.
  
@@ -40,7 +40,64 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 - [🧑‍🏫Researchers](#researchers)
 
 ## 🔥Latest Fashion-Related Papers
-
+<details>
+  <summary>AAAI 2026-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>GarmentGPT: Compositional Garment Pattern Generation via Discrete Latent Tokenization</td>
+        <td>?</td>
+        <td>Garment, Pattern</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Anime-Ready: Controllable 3D Anime Character Generation with Body-Aligned Component-Wise Garment Modeling</td>
+        <td>?</td>
+        <td>Garment</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals</td>
+        <td>?</td>
+        <td>Virtual Try-Off, Fashion, Generation, Diffusion Transformer</td>
+      </tr>
+       <tr>
+        <td>4</td>
+        <td>Dynamic Texture Modeling of 3D Clothed Gaussian Avatars from a Single Video</td>
+        <td>?</td>
+        <td>Clothed Human</td>
+      </tr>
+       <tr>
+        <td>5</td>
+        <td>UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections</td>
+        <td>?</td>
+        <td>Clothed Human</td>
+      </tr>
+       <tr>
+        <td>6</td>
+        <td>Generative Human Geometry Distribution</td>
+        <td>?</td>
+        <td>Clothed Human</td>
+      </tr>    
+       <tr>
+        <td>7</td>
+        <td>CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions</td>
+        <td>?</td>
+        <td>Cloth Dynamics, Simulation</td>
+      </tr>    
+    </tbody>
+  </table>
+</details>
+     
 <details>
   <summary>AAAI 2026-Fashion-Related-Papers</summary>
   <table>
