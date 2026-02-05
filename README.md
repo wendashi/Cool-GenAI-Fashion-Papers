@@ -10,7 +10,9 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
  
-  - 2026-1, Fashion-related papers in AAAI 2026/ICLR 2026 are updated.
+  - 2026-2, Fashion-related papers in ICLR 2026 are updated.
+ 
+  - 2026-1, Fashion-related papers in AAAI 2026 are updated.
  
   - 2025-10, Fashion-related papers in SIGGRAPH Asia 2025/NeurIPS 2025 are updated.
  
