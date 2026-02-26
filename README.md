@@ -56,44 +56,44 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>GarmentGPT: Compositional Garment Pattern Generation via Discrete Latent Tokenization</td>
-        <td>?</td>
+        <td>[GarmentGPT: Compositional Garment Pattern Generation via Discrete Latent Tokenization](https://openreview.net/forum?id=XzXKnazRBF)</td>
+        <td>Fangsheng Weng, Junhao Chen, Xiang Li, Jie Qin, Hanzhong Guo, ShaochunHao, Xiaoguang Han</td>
         <td>Garment, Pattern</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>Anime-Ready: Controllable 3D Anime Character Generation with Body-Aligned Component-Wise Garment Modeling</td>
-        <td>?</td>
+        <td>[Anime-Ready: Controllable 3D Anime Character Generation with Body-Aligned Component-Wise Garment Modeling](https://openreview.net/forum?id=BRoAjhYWoQ&noteId=hwZucjFl6y)</td>
+        <td>Jiachen Qian, Hongye Yang, Youtian Lin, tianhao zhao, Hengshuang Zhao, Yao Yao, Feihu Zhang</td>
         <td>Garment</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals</td>
-        <td>?</td>
+        <td>[Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals](https://openreview.net/forum?id=4SRXfSo1H2)</td>
+        <td>Davide Lobba, Fulvio Sanguigni, Bin Ren, Marcella Cornia, Rita Cucchiara, Nicu Sebe</td>
         <td>Virtual Try-Off, Fashion, Generation, Diffusion Transformer</td>
       </tr>
        <tr>
         <td>4</td>
-        <td>Dynamic Texture Modeling of 3D Clothed Gaussian Avatars from a Single Video</td>
-        <td>?</td>
+        <td>[Dynamic Texture Modeling of 3D Clothed Gaussian Avatars from a Single Video](https://openreview.net/forum?id=2A3Q2EtGTF)</td>
+        <td>Seungeun Lee, SeungJun Moon, Hah Min Lew, Ji-Su Kang, Gyeong-Moon Park</td>
         <td>Clothed Human</td>
       </tr>
        <tr>
         <td>5</td>
-        <td>UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections</td>
-        <td>?</td>
+        <td>[UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections](https://openreview.net/forum?id=oFsNco4aMm)</td>
+        <td>Zeyu Cai, Ziyang Li, Xiaoben Li, Boqian Li, Zeyu Wang, Zhenyu Zhang, Yuliang Xiu</td>
         <td>Clothed Human</td>
       </tr>
        <tr>
         <td>6</td>
-        <td>Generative Human Geometry Distribution</td>
-        <td>?</td>
+        <td>[Generative Human Geometry Distribution](https://arxiv.org/html/2503.01448v1)</td>
+        <td>Xiangjun Tang, Biao Zhang, Peter Wonka</td>
         <td>Clothed Human</td>
       </tr>    
        <tr>
         <td>7</td>
-        <td>CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions</td>
-        <td>?</td>
+        <td>[CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions](https://github.com/whynot-zyl/CloDS)</td>
+        <td>Yuliang Zhan, Jian Li, Wenbing Huang, Wenbing Huang, Yang Liu, Hao Sun</td>
         <td>Cloth Dynamics, Simulation</td>
       </tr>    
     </tbody>
