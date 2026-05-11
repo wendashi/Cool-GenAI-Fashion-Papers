@@ -9,7 +9,9 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 
 <details>
   <summary>Change Log</summary>
- 
+
+  - 2026-5, Fashion-related papers in CVPR 2026 are updated.
+   
   - 2026-2, Fashion-related papers in ICLR 2026 are updated.
   
   - 2025-10, Fashion-related papers in SIGGRAPH Asia 2025/NeurIPS 2025 are updated.
@@ -40,6 +42,154 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 - [🧑‍🏫Researchers](#researchers)
 
 ## 🔥Latest Fashion-Related Papers
+<details>
+  <summary>CVPR 2026-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>[BarbieGait: An Identity-Consistent Synthetic Human Dataset with Versatile Cloth-Changing for Gait Recognition](https://cvpr.thecvf.com/virtual/2026/poster/36650)</td>
+        <td>Qingyuan Cai, Saihui Hou, Xuecai Hu, Yongzhen Huang</td>
+        <td>cloth, clothed human</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>[Clothe and Pose](https://cvpr.thecvf.com/virtual/2026/poster/40220)</td>
+        <td>Nakul Sharma, Aayush Bansal, Minh Vo</td>
+        <td>cloth</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>[FEAT: Fashion Editing and Try-On from Any Design](https://cvpr.thecvf.com/virtual/2026/poster/36224)</td>
+        <td>Soye Kwon, Keonyoung Lee, Dahuin Jung, Jaekoo Lee</td>
+        <td>fashion, try-on</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>[Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories](https://cvpr.thecvf.com/virtual/2026/poster/37269)</td>
+        <td>Junyao Hu, Zhongwei Cheng, Waikeung Wong, Xingxing Zou</td>
+        <td>garment, cloth, try-on</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>[GraspALL: Adaptive Structural Compensation from Luminance Variation for Robotic Garment Grasping in Any Low-Light Conditions](https://cvpr.thecvf.com/virtual/2026/poster/38756)</td>
+        <td>Haifeng Zhong, Wenshuo Han, Zhouyu Wang, Runyang Feng, Fan Tang, Tong-yee Lee, zipei fan, Ruihai Wu, Yuran Wang, Hao Dong, Hechang Chen, Hyung Jin Chang, Yixing Gao</td>
+        <td>garment</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>[High-Fidelity Virtual Try-On beyond Paired Data Scarcity via Diffusion-based Cycle-Consistent Learning](https://cvpr.thecvf.com/virtual/2026/poster/37904)</td>
+        <td>Jia Wu, Yijing Dai, Tingfeng Cao, Meiling Wu, Tao Luo, Jian Dong Zhang, Guangming Lu, Xiaoyi Zeng</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>[Mobile-VTON: High-Fidelity On-Device Virtual Try-On](https://cvpr.thecvf.com/virtual/2026/poster/37938)</td>
+        <td>Zhenchen Wan, Ce Chen, Runqi Lin, Jiaxin Huang, Tianxi Chen, Yanwu Xu, Tongliang Liu, Mingming Gong</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>[MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On](https://cvpr.thecvf.com/virtual/2026/poster/37608)</td>
+        <td>Xiaoyu Han, Chenyang Wang, Jing Wang, Shunyuan Zheng, Quanling Meng, Shengping Zhang</td>
+        <td>fashion, try-on</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>[MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data](https://cvpr.thecvf.com/virtual/2026/poster/37909)</td>
+        <td>Hunor Laczko, Libang Jia, Phat Truong, Diego Hernández, Sergio Escalera, Jordi Gonzàlez, Meysam Madadi</td>
+        <td>fashion, try-on</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>[NI-Tex: Non-isometric Image-based Garment Texture Generation](https://cvpr.thecvf.com/virtual/2026/poster/37495)</td>
+        <td>Hui Shan, Ming Li, Haitao Yang, Kai Zheng, Sizhe Zheng, Yanwei Fu, Xiangru Huang</td>
+        <td>garment</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>[PG-VTON: Single-Pass Training-Free Virtual Try-On via Patch-Guided Reference Alignment](https://cvpr.thecvf.com/virtual/2026/poster/37850)</td>
+        <td>Guohao Zhao, Yuxin Peng</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>[Physical Adversarial Clothing Evades Visible-Thermal Detectors via Non-Overlapping RGB-T Pattern](https://cvpr.thecvf.com/virtual/2026/poster/39343)</td>
+        <td>Xiaopei Zhu, Guanning Zeng, Zhanhao Hu, Jun Zhu, Xiaolin Hu</td>
+        <td>cloth</td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td>[PROMO: Promptable Outfitting for Efficient High-Fidelity Virtual Try-On](https://cvpr.thecvf.com/virtual/2026/poster/36278)</td>
+        <td>Haohua Chen, Tianze Zhou, Wei Zhu, Runqi Wang, Yandong Guan, Dejia Song, Yibo Chen, Xu Tang, Yao Hu, Lu Sheng, Zhiyong Wu</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td>[Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning](https://cvpr.thecvf.com/virtual/2026/poster/39754)</td>
+        <td>WonJun Moon, Hyun Seok Seong, Jae-Pil Heo</td>
+        <td>clothed human</td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td>[RefTON: Person-to-Person Virtual Try-On with Unpaired Visual References](https://cvpr.thecvf.com/virtual/2026/poster/36181)</td>
+        <td>Liuzhuozheng Li, Yue Gong, Shanyuan Liu, Zanyi Wang, Dengyang Jiang, Liebucha Wu, Bo Cheng, Yuhang Ma, Dawei Leng, Yuhui Yin</td>
+        <td>clothed human, try-on</td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td>[ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://cvpr.thecvf.com/virtual/2026/poster/38489)</td>
+        <td>Ming Li, Hui Shan, Kai Zheng, Chentao Shen, Siyu Liu, Yanwei Fu, Zhen Chen, Xiangru Huang</td>
+        <td>garment, clothed human</td>
+      </tr>
+      <tr>
+        <td>17</td>
+        <td>[SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation](https://cvpr.thecvf.com/virtual/2026/poster/36938)</td>
+        <td>Phuc Pham, Uy Tran, Binh-Son Hua, Phong Nguyen</td>
+        <td>garment</td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td>[Thermal is Always Wild: Characterizing and Addressing Challenges in Thermal-Only Novel View Synthesis](https://cvpr.thecvf.com/virtual/2026/poster/39537)</td>
+        <td>M. Kerem Aydin, Vishwanath Saragadam, Emma Alexander</td>
+        <td>clothed human</td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td>[Thermally Activated Dual-Modal Adversarial Clothing against AI Surveillance Systems](https://cvpr.thecvf.com/virtual/2026/poster/38499)</td>
+        <td>Jiahuan Long, Tingsong Jiang, Hanqing Liu, Chao Ma, Weien Zhou, Yang Yang, Wen Yao</td>
+        <td>cloth</td>
+      </tr>
+      <tr>
+        <td>20</td>
+        <td>[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://cvpr.thecvf.com/virtual/2026/poster/39744)</td>
+        <td>Qingdong He, Xueqin Chen, Yanjie Pan, Peng Tang, Pengcheng Xu, Zhenye Gan, Chengjie Wang, Xiaobin Hu, Jiangning Zhang, Yabiao Wang</td>
+        <td>try-on</td>
+      </tr>
+      <tr>
+        <td>21</td>
+        <td>[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://cvpr.thecvf.com/virtual/2026/poster/39279)</td>
+        <td>Hyunsoo Cha, Wonjung Woo, Byungjun Kim, Hanbyul Joo</td>
+        <td>clothed human, try-on</td>
+      </tr>
+      <tr>
+        <td>22</td>
+        <td>[Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image](https://cvpr.thecvf.com/virtual/2026/poster/40009)</td>
+        <td>Joohyun Kwon, Geonhee Sim, Gyeongsik Moon</td>
+        <td>cloth, clothed human</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 <details>
   <summary>ICLR 2026-Fashion-Related-Papers</summary>
   <table>
