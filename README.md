@@ -116,72 +116,54 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>11</td>
-        <td>[Thermally Activated Dual-Modal Adversarial Clothing against AI Surveillance Systems](https://cvpr.thecvf.com/virtual/2026/poster/38499)</td>
-        <td>Jiahuan Long, Tingsong Jiang, Hanqing Liu, Chao Ma, Weien Zhou, Yang Yang, Wen Yao</td>
-        <td>cloth</td>
-      </tr>
-      <tr>
-        <td>12</td>
         <td>[BarbieGait: An Identity-Consistent Synthetic Human Dataset with Versatile Cloth-Changing for Gait Recognition](https://cvpr.thecvf.com/virtual/2026/poster/36650)</td>
         <td>Qingyuan Cai, Saihui Hou, Xuecai Hu, Yongzhen Huang</td>
         <td>cloth, clothed human</td>
       </tr>
       <tr>
-        <td>13</td>
+        <td>12</td>
         <td>[Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image](https://cvpr.thecvf.com/virtual/2026/poster/40009)</td>
         <td>Joohyun Kwon, Geonhee Sim, Gyeongsik Moon</td>
         <td>cloth, clothed human</td>
       </tr>
       <tr>
-        <td>14</td>
-        <td>[Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning](https://cvpr.thecvf.com/virtual/2026/poster/39754)</td>
-        <td>WonJun Moon, Hyun Seok Seong, Jae-Pil Heo</td>
-        <td>clothed human</td>
-      </tr>
-      <tr>
-        <td>15</td>
-        <td>[Thermal is Always Wild: Characterizing and Addressing Challenges in Thermal-Only Novel View Synthesis](https://cvpr.thecvf.com/virtual/2026/poster/39537)</td>
-        <td>M. Kerem Aydin, Vishwanath Saragadam, Emma Alexander</td>
-        <td>clothed human</td>
-      </tr>
-      <tr>
-        <td>16</td>
+        <td>13</td>
         <td>[RefTON: Person-to-Person Virtual Try-On with Unpaired Visual References](https://cvpr.thecvf.com/virtual/2026/poster/36181)</td>
         <td>Liuzhuozheng Li, Yue Gong, Shanyuan Liu, Zanyi Wang, Dengyang Jiang, Liebucha Wu, Bo Cheng, Yuhang Ma, Dawei Leng, Yuhui Yin</td>
         <td>clothed human, try-on</td>
       </tr>
       <tr>
-        <td>17</td>
+        <td>14</td>
         <td>[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://cvpr.thecvf.com/virtual/2026/poster/39279)</td>
         <td>Hyunsoo Cha, Wonjung Woo, Byungjun Kim, Hanbyul Joo</td>
         <td>clothed human, try-on</td>
       </tr>
       <tr>
-        <td>18</td>
+        <td>15</td>
         <td>[High-Fidelity Virtual Try-On beyond Paired Data Scarcity via Diffusion-based Cycle-Consistent Learning](https://cvpr.thecvf.com/virtual/2026/poster/37904)</td>
         <td>Jia Wu, Yijing Dai, Tingfeng Cao, Meiling Wu, Tao Luo, Jian Dong Zhang, Guangming Lu, Xiaoyi Zeng</td>
         <td>try-on</td>
       </tr>
       <tr>
-        <td>19</td>
+        <td>16</td>
         <td>[Mobile-VTON: High-Fidelity On-Device Virtual Try-On](https://cvpr.thecvf.com/virtual/2026/poster/37938)</td>
         <td>Zhenchen Wan, Ce Chen, Runqi Lin, Jiaxin Huang, Tianxi Chen, Yanwu Xu, Tongliang Liu, Mingming Gong</td>
         <td>try-on</td>
       </tr>
       <tr>
-        <td>20</td>
+        <td>17</td>
         <td>[PG-VTON: Single-Pass Training-Free Virtual Try-On via Patch-Guided Reference Alignment](https://cvpr.thecvf.com/virtual/2026/poster/37850)</td>
         <td>Guohao Zhao, Yuxin Peng</td>
         <td>try-on</td>
       </tr>
       <tr>
-        <td>21</td>
+        <td>18</td>
         <td>[PROMO: Promptable Outfitting for Efficient High-Fidelity Virtual Try-On](https://cvpr.thecvf.com/virtual/2026/poster/36278)</td>
         <td>Haohua Chen, Tianze Zhou, Wei Zhu, Runqi Wang, Yandong Guan, Dejia Song, Yibo Chen, Xu Tang, Yao Hu, Lu Sheng, Zhiyong Wu</td>
         <td>try-on</td>
       </tr>
       <tr>
-        <td>22</td>
+        <td>19</td>
         <td>[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://cvpr.thecvf.com/virtual/2026/poster/39744)</td>
         <td>Qingdong He, Xueqin Chen, Yanjie Pan, Peng Tang, Pengcheng Xu, Zhenye Gan, Chengjie Wang, Xiaobin Hu, Jiangning Zhang, Yabiao Wang</td>
         <td>try-on</td>
