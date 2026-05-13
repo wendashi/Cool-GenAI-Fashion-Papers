@@ -14,13 +14,13 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
    
   - 2026-2, Fashion-related papers in ICLR 2026 are updated.
   
-  - 2025-10, Fashion-related papers in SIGGRAPH Asia 2025/NeurIPS 2025 are updated.
+  - 2025-10, Fashion-related papers in SIGGRAPH Asia/NeurIPS 2025 are updated.
  
   - 2025-07, Fashion-related papers in ICCV 2025 are updated.
  
   - 2025-06, Fashion-centric metrics are involved, Fashion-related papers in SIGGRAPH 2025 are updated.
  
-  - 2025-03, Fashion-related papers in CVPR 2025/ICLR 2025 are updated.
+  - 2025-03, Fashion-related papers in CVPR/ICLR 2025 are updated.
 
   - 2025-02, 'GenAI in Fashion: Overview' is accepted by ACM TIST(JCR Q1).
 </details>
