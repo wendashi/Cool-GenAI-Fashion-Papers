@@ -10,7 +10,7 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
 
-  - 2026-5, Fashion-related papers in CVPR 2026 are updated.
+  - 2026-5, Fashion-related papers in CVPR/SIGGRAPH 2026 are updated.
    
   - 2026-2, Fashion-related papers in ICLR 2026 are updated.
   
@@ -42,6 +42,40 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 - [🧑‍🏫Researchers](#researchers)
 
 ## 🔥Latest Fashion-Related Papers
+<details>
+  <summary>SIGGRAPH 2026-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td><a href="https://github.com/Junrongh/ControlTile">ControlTile: Controllable Texture Tiling with Transformed RoPE-Enhanced Diffusion Models</a></td>
+        <td>Junrong HUANG · Zhiyuan ZHANG · Tang RUI · Hongbo FU · Jing LIAO*</td>
+        <td>texture, textile, pattern design</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td><a href="https://github.com/Simulation-Intelligence/BS-Cloth">Efficient B-Spline Finite Elements for Cloth Simulation</a></td>
+        <td>Yuqi Meng, Yihao Shi, Kemeng Huang, Zixuan Lu, Ning Guo, Taku Komura, Yin Yang, Minchen Li</td>
+        <td>cloth, simulation, finite elements</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td><a href="https://github.com/deepmancer/HairPort">HairPort: 3D-aware Hairstyle Transfer</a></td>
+        <td>A. Heidari, A. Alimohammadi, W. Michel Pinto Lira, A. Bar-Lev, and A. Mahdavi-Amiri</td>
+        <td>hairstyle, 3D reconstruction, diffusion models</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 <details>
   <summary>CVPR 2026-Fashion-Related-Papers</summary>
   <table>
