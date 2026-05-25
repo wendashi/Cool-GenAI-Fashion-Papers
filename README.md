@@ -783,21 +783,21 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 If this work is beneficial to your research, please consider citing it or giving this repo a star🌟.
 ```
 @article{GenAI_in_fashion_Shi,
-author = {Shi, Wenda and Wong, Waikeung and Zou, Xingxing},
-title = {Generative AI in Fashion: Overview},
-year = {2025},
-issue_date = {August 2025},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {16},
-number = {4},
-issn = {2157-6904},
-url = {https://doi.org/10.1145/3718098},
-doi = {10.1145/3718098},
-journal = {ACM Trans. Intell. Syst. Technol.},
-month = jun,
-articleno = {74},
-numpages = {73}
+  author     = {Shi, Wenda and Wong, Waikeung and Zou, Xingxing},
+  title      = {Generative AI in Fashion: Overview},
+  journal    = {ACM Trans. Intell. Syst. Technol.},
+  year       = {2025},
+  volume     = {16},
+  number     = {4},
+  articleno  = {74},
+  numpages   = {73},
+  month      = jun,
+  issue_date = {August 2025},
+  publisher  = {Association for Computing Machinery},
+  address    = {New York, NY, USA},
+  issn       = {2157-6904},
+  doi        = {10.1145/3718098},
+  url        = {https://doi.org/10.1145/3718098}
 }
 ```
 
