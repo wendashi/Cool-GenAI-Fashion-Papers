@@ -4,7 +4,7 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wendashi/Cool-GenAI-Fashion-Papers) 
 
 This repo collects the latest fashion-related papers on top AI conferences (in [🔥Latest](#latest-fashion-related-papers) section). 
-- If your work relates to this topic and you'd like to be added to this repo, feel free to open an issue 😊.
+- If your work relates to this topic and you'd like to be added to this repo, feel free to open an issue ✨.
 
 
 <details>
