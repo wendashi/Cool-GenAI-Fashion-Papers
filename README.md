@@ -976,6 +976,22 @@ The following linked benchmark datasets are summarized from the `Benchmark Datas
         <td><a href="https://github.com/shadow2496/VITON-HD">dataset</a></td>
       </tr>
       <tr>
+        <td>MMDGarment</td>
+        <td>Latest Fashion-Related Papers</td>
+        <td>ICCV 2025</td>
+        <td>Flat sketch to realistic garment image generation</td>
+        <td>20,151 garment samples with photos, close-ups, text annotations, and professional flat sketches; part of the dataset is released under access restrictions.</td>
+        <td><a href="https://github.com/Maple498/HiGarment">dataset</a></td>
+      </tr>
+      <tr>
+        <td>LAION-Garment</td>
+        <td>Latest Fashion-Related Papers</td>
+        <td>ICCV 2025</td>
+        <td>Versatile image-based virtual try-on</td>
+        <td>Hugging Face image-text dataset with 84K rows across upper-body, lower-body, and whole-body garment categories.</td>
+        <td><a href="https://huggingface.co/datasets/loooooong/LAION-Garment">dataset</a></td>
+      </tr>
+      <tr>
         <td>Garments2Look</td>
         <td>Latest Fashion-Related Papers</td>
         <td>CVPR 2026</td>
@@ -1153,6 +1169,30 @@ The following linked benchmark datasets are summarized from the `Benchmark Datas
         <td>Garment assets paired with body meshes for body-garment collision evaluation.</td>
         <td><a href="https://github.com/zycliao/TailorNet_dataset">dataset</a></td>
       </tr>
+      <tr>
+        <td>ReWeaver-GCD-TS</td>
+        <td>Latest Fashion-Related Papers</td>
+        <td>CVPR 2026</td>
+        <td>Topology-accurate garment reconstruction</td>
+        <td>100K+ synthetic samples with multi-view RGB images, 3D garment geometries, textured human body meshes, and annotated sewing patterns.</td>
+        <td><a href="https://huggingface.co/datasets/SII-LiMing/ReWeaver-GCD-TS">dataset</a></td>
+      </tr>
+      <tr>
+        <td>GarmageSet</td>
+        <td>Latest Fashion-Related Papers</td>
+        <td>SIGGRAPH Asia 2025</td>
+        <td>Generic 3D garment modeling</td>
+        <td>14,801 professionally curated garments spanning major clothing categories with detailed structural and style annotations.</td>
+        <td><a href="https://huggingface.co/datasets/style3d-community/GarmageSet">dataset</a></td>
+      </tr>
+      <tr>
+        <td>GCD-MM</td>
+        <td>Latest Fashion-Related Papers</td>
+        <td>CVPR 2025</td>
+        <td>Multimodal digital garment generation</td>
+        <td>GarmentCodeData-Multimodal annotations for 120K+ garments with text, images, sewing patterns, and editing instructions.</td>
+        <td><a href="https://huggingface.co/georgeNakayama/AIpparel">dataset</a></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -1290,6 +1330,14 @@ The following linked benchmark datasets are summarized from the `Benchmark Datas
         <td>Video generation, virtual try-on</td>
         <td>50K dance videos with varied poses and garment types.</td>
         <td><a href="https://awesome-wflow.github.io/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>ViT-HD</td>
+        <td>Latest Fashion-Related Papers</td>
+        <td>CVPR 2026</td>
+        <td>High-definition video virtual try-on</td>
+        <td>15,070 high-quality video samples at 810x1080 resolution, covering 178 diverse garment styles.</td>
+        <td><a href="https://huggingface.co/datasets/zijiyingcai/ViT-HD">dataset</a></td>
       </tr>
       <tr>
         <td>MV-Fashion</td>
