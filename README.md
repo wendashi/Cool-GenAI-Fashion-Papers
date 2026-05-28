@@ -1140,7 +1140,7 @@ The following linked benchmark datasets are summarized from the `Benchmark Datas
       <tr>
         <td>GarmentCodeData</td>
         <td>Table 13. Benchmarks for Sewing Pattern Generation</td>
-        <td>2024</td>
+        <td>ECCV 2024</td>
         <td>Sewing pattern generation</td>
         <td>Large synthetic garment set with sewing patterns, draped meshes, UV maps, and measurements.</td>
         <td><a href="https://igl.ethz.ch/projects/GarmentCodeData/">dataset</a></td>
