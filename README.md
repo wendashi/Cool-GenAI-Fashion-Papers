@@ -36,6 +36,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 
 - [🔥Latest](#latest-fashion-related-papers)
 - [⚙️Metrics](#metrics)
+- [📊Data](#data)
 - [📝Papers](#papers)
 - [👀Workshops](#workshops)
 - [🚀Companies, Products](#companies-products)
@@ -810,6 +811,422 @@ Here we only provide the fashion-centric metrics.
         <i class="fab fa-github"></i> 
         <img src="https://img.shields.io/github/stars/marqo-ai/marqo-FashionCLIP.svg?style=social" alt="Stars">
       </a>
+
+
+## 📊Data
+
+The following linked benchmark datasets are summarized from the `Benchmark Datasets` sections of [Generative AI in Fashion: Overview](https://doi.org/10.1145/3718098). Only dataset links that returned valid `2xx/3xx` HTTP responses during verification are included.
+
+<details open>
+  <summary>Multi-modal[Text-Image]</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Benchmark</th>
+        <th>Task</th>
+        <th>Scale / Note</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Fashion-200K</td>
+        <td>Table 3. Benchmarks for Fashion VLP Models</td>
+        <td>Category retrieval, text-image retrieval</td>
+        <td>200K fashion images with short product descriptions.</td>
+        <td><a href="https://github.com/xthan/fashion-200k">dataset</a></td>
+      </tr>
+      <tr>
+        <td>FashionIQ</td>
+        <td>Table 3. Benchmarks for Fashion VLP Models</td>
+        <td>Text-guided image retrieval</td>
+        <td>77,684 images across dresses, shirts, and tops with natural-language feedback.</td>
+        <td><a href="https://github.com/XiaoxiaoGuo/fashion-iq">dataset</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details open>
+  <summary>Image</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Benchmark</th>
+        <th>Task</th>
+        <th>Scale / Note</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Extended DeepFashion</td>
+        <td>Table 6. Benchmarks for Fashion Image Generation</td>
+        <td>Image generation, redressing</td>
+        <td>Upper-body DeepFashion images with text descriptions and body annotations.</td>
+        <td><a href="https://github.com/zhusz/ICCV17-fashionGAN">dataset</a></td>
+      </tr>
+      <tr>
+        <td>FashionTex</td>
+        <td>Table 6. Benchmarks for Fashion Image Generation</td>
+        <td>Fashion image generation</td>
+        <td>Processed DeepFashion-MultiModal resource used for generation benchmarks.</td>
+        <td><a href="https://github.com/picksh/FashionTex/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>Polyvore</td>
+        <td>Table 6. Benchmarks for Fashion Image Generation</td>
+        <td>Outfit generation, compatibility</td>
+        <td>Fashion items and outfits frequently reused for generation benchmarks.</td>
+        <td><a href="https://github.com/xthan/polyvore">dataset</a></td>
+      </tr>
+      <tr>
+        <td>DiFashion</td>
+        <td>Table 6. Benchmarks for Fashion Image Generation</td>
+        <td>Generative outfit recommendation</td>
+        <td>Benchmark setting built around personalized outfit generation.</td>
+        <td><a href="https://github.com/YiyanXu/DiFashion">dataset</a></td>
+      </tr>
+      <tr>
+        <td>iFashion</td>
+        <td>Table 6. Benchmarks for Fashion Image Generation</td>
+        <td>Outfit recommendation, generation</td>
+        <td>Pre-defined outfits, fashion items, and user click behaviors.</td>
+        <td><a href="https://github.com/wenyuer/POG">dataset</a></td>
+      </tr>
+      <tr>
+        <td>Polyvore-U</td>
+        <td>Table 6. Benchmarks for Fashion Image Generation</td>
+        <td>Outfit recommendation, generation</td>
+        <td>Polyvore subsets with user-specific outfit/item data.</td>
+        <td><a href="https://github.com/lzcn/Fashion-Hash-Net">dataset</a></td>
+      </tr>
+      <tr>
+        <td>Dress Code</td>
+        <td>Table 7. Benchmarks for Fashion Image Editing</td>
+        <td>Fashion editing, virtual try-on</td>
+        <td>Garment/person pairs with keypoints, segmentations, and DensePose.</td>
+        <td><a href="https://github.com/aimagelab/dress-code">dataset</a></td>
+      </tr>
+      <tr>
+        <td>DFMM-Spotlight</td>
+        <td>Table 7. Benchmarks for Fashion Image Editing</td>
+        <td>Local fashion editing</td>
+        <td>Region prompts and masks for tops, pants, outerwear, dresses, and accessories.</td>
+        <td><a href="https://github.com/tongxin-wang/TexFit">dataset</a></td>
+      </tr>
+      <tr>
+        <td>VITON</td>
+        <td>Table 8. Benchmarks for Image-Based Try-On</td>
+        <td>Image-based virtual try-on</td>
+        <td>Frontal-view female model and upper-body clothing image pairs.</td>
+        <td><a href="https://github.com/xthan/VITON">dataset</a></td>
+      </tr>
+      <tr>
+        <td>FashionTryOn</td>
+        <td>Table 8. Benchmarks for Image-Based Try-On</td>
+        <td>Pose-aware virtual try-on</td>
+        <td>Triplets with clothing images and two human images in different poses.</td>
+        <td><a href="https://fashiontryon.wixsite.com/fashiontryon">dataset</a></td>
+      </tr>
+      <tr>
+        <td>SAL-HG</td>
+        <td>Table 8. Benchmarks for Image-Based Try-On</td>
+        <td>Human-garment landmark benchmark</td>
+        <td>Re-annotated VITON/VITON-HD/DressCode images with landmarks and visibility attributes.</td>
+        <td><a href="https://modelscope.cn/datasets/iic/SAL-HG/summary">dataset</a></td>
+      </tr>
+      <tr>
+        <td>SHHQ-1.0</td>
+        <td>Table 8. Benchmarks for Image-Based Try-On</td>
+        <td>Full-body try-on, human parsing</td>
+        <td>High-quality full-body images with segmentation masks, parsing labels, and 2D keypoints.</td>
+        <td><a href="https://stylegan-human.github.io/data.html">dataset</a></td>
+      </tr>
+      <tr>
+        <td>UPT</td>
+        <td>Table 8. Benchmarks for Image-Based Try-On</td>
+        <td>On-body garment try-on</td>
+        <td>Half-body and full-body front-view person images with diverse garment types.</td>
+        <td><a href="https://github.com/xiezhy6/PASTA-GAN">dataset</a></td>
+      </tr>
+      <tr>
+        <td>VITON-HD</td>
+        <td>Table 8. Benchmarks for Image-Based Try-On</td>
+        <td>High-resolution virtual try-on</td>
+        <td>13,679 high-resolution frontal-view woman and upper-body clothing pairs.</td>
+        <td><a href="https://github.com/shadow2496/VITON-HD">dataset</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details open>
+  <summary>3D</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Benchmark</th>
+        <th>Task</th>
+        <th>Scale / Note</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>THuman-2.0</td>
+        <td>Table 10. Benchmarks for 3D Clothed Human Generation</td>
+        <td>3D clothed human generation</td>
+        <td>Human scans rendered from 60 views with SMPL-X annotations.</td>
+        <td><a href="https://github.com/ytrock/THuman2.0-Dataset">dataset</a></td>
+      </tr>
+      <tr>
+        <td>BUFF</td>
+        <td>Table 10. Benchmarks for 3D Clothed Human Generation</td>
+        <td>3D clothed human generation</td>
+        <td>Textured scans and SMPL sequences of six subjects with six outfits.</td>
+        <td><a href="https://buff.is.tue.mpg.de/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>DeepCap</td>
+        <td>Table 10. Benchmarks for 3D Clothed Human Generation</td>
+        <td>3D human capture</td>
+        <td>In-the-wild clothed-human motion sequences with SMPL-style assets.</td>
+        <td><a href="https://gvv-assets.mpi-inf.mpg.de/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>DynaCap</td>
+        <td>Table 10. Benchmarks for 3D Clothed Human Generation</td>
+        <td>Dynamic 3D human capture</td>
+        <td>Multi-camera sequences of subjects in several apparel types and motions.</td>
+        <td><a href="https://gvv-assets.mpi-inf.mpg.de/ddc/?page_id=12">dataset</a></td>
+      </tr>
+      <tr>
+        <td>MonoPerfCap</td>
+        <td>Table 10. Benchmarks for 3D Clothed Human Generation</td>
+        <td>Monocular performance capture</td>
+        <td>Indoor/outdoor action sequences with varied subject clothing.</td>
+        <td><a href="https://vcai.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>LifeScans</td>
+        <td>Table 10. Benchmarks for 3D Clothed Human Generation</td>
+        <td>3D clothed human scans</td>
+        <td>Static clothed-human scans with SMPL+D-style registration.</td>
+        <td><a href="https://github.com/thmoa/octopus">dataset</a></td>
+      </tr>
+      <tr>
+        <td>RenderPeople</td>
+        <td>Table 10. Benchmarks for 3D Clothed Human Generation</td>
+        <td>3D human assets</td>
+        <td>Commercial 4D people assets used as clothed-human resources.</td>
+        <td><a href="https://renderpeople.com/3d-people?_product=4d-people">dataset</a></td>
+      </tr>
+      <tr>
+        <td>AXYZ</td>
+        <td>Table 10. Benchmarks for 3D Clothed Human Generation</td>
+        <td>3D human assets</td>
+        <td>Commercial 3D people assets referenced as clothed-human resources.</td>
+        <td><a href="https://secure.axyz-design.com/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>Digital Wardrobe</td>
+        <td>Table 12. Benchmarks for 3D Garment Generation</td>
+        <td>3D garment generation</td>
+        <td>Registered 3D scans with SMPL body and garment segmentation labels.</td>
+        <td><a href="https://virtualhumans.mpi-inf.mpg.de/mgn/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>Deep Fashion3D</td>
+        <td>Table 12. Benchmarks for 3D Garment Generation</td>
+        <td>3D garment reconstruction</td>
+        <td>563 garment items with feature lines, body poses, multiview images, and textures.</td>
+        <td><a href="https://github.com/GAP-LAB-CUHK-SZ/deepFashion3D">dataset</a></td>
+      </tr>
+      <tr>
+        <td>GarVerse-LOD</td>
+        <td>Table 12. Benchmarks for 3D Garment Generation</td>
+        <td>3D garment generation</td>
+        <td>Hierarchical garment dataset with multiple levels of detail.</td>
+        <td><a href="https://github.com/zhongjinluo/GarVerseLOD">dataset</a></td>
+      </tr>
+      <tr>
+        <td>Wang et al.</td>
+        <td>Table 13. Benchmarks for Sewing Pattern Generation</td>
+        <td>Sewing pattern generation</td>
+        <td>2D sketches, garment/body parameters, and draped 3D garment shapes.</td>
+        <td><a href="https://geometry.cs.ucl.ac.uk/projects/2018/garment_design/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>Korosteleva and Lee</td>
+        <td>Table 13. Benchmarks for Sewing Pattern Generation</td>
+        <td>Sewing pattern generation</td>
+        <td>Garment design variations draped over bodies with 3D models and segmentation labels.</td>
+        <td><a href="https://zenodo.org/records/5267549">dataset</a></td>
+      </tr>
+      <tr>
+        <td>SewFactory</td>
+        <td>Table 13. Benchmarks for Sewing Pattern Generation</td>
+        <td>Sewing pattern generation</td>
+        <td>Paired images, human pose/shape, DensePose, sewing patterns, garment meshes, depth, and normals.</td>
+        <td><a href="https://sewformer.github.io/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>GarmentCodeData</td>
+        <td>Table 13. Benchmarks for Sewing Pattern Generation</td>
+        <td>Sewing pattern generation</td>
+        <td>Large synthetic garment set with sewing patterns, draped meshes, UV maps, and measurements.</td>
+        <td><a href="https://igl.ethz.ch/projects/GarmentCodeData/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>MPV-3D</td>
+        <td>4.4.2 Benchmark Datasets</td>
+        <td>3D virtual try-on</td>
+        <td>Person-clothes image pairs with associated depth maps for 3D try-on.</td>
+        <td><a href="https://github.com/fyviezhao/M3D-VTON">dataset</a></td>
+      </tr>
+      <tr>
+        <td>AMASS</td>
+        <td>4.4.2 Benchmark Datasets</td>
+        <td>3D body motion for try-on</td>
+        <td>Body meshes and motion data used with garment datasets for collision evaluation.</td>
+        <td><a href="https://amass.is.tue.mpg.de/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>TailorNet</td>
+        <td>4.4.2 Benchmark Datasets</td>
+        <td>3D garments for try-on</td>
+        <td>Garment assets paired with body meshes for body-garment collision evaluation.</td>
+        <td><a href="https://github.com/zycliao/TailorNet_dataset">dataset</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details open>
+  <summary>Dynamic[Video/Animation]</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Benchmark</th>
+        <th>Task</th>
+        <th>Scale / Note</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ReSynth</td>
+        <td>Table 14. Benchmarks for 3D Clothed Human Animation</td>
+        <td>Clothed human animation</td>
+        <td>Pose-dependent clothing deformation over varied outfits and poses.</td>
+        <td><a href="https://pop.is.tue.mpg.de/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>ClothSeq</td>
+        <td>Table 14. Benchmarks for 3D Clothed Human Animation</td>
+        <td>Loose-clothing animation</td>
+        <td>Subjects wearing loose clothes with sequences of 500-750 frames.</td>
+        <td><a href="https://github.com/garvita-tiwari/neuralgif">dataset</a></td>
+      </tr>
+      <tr>
+        <td>THuman-CloSET</td>
+        <td>Table 14. Benchmarks for 3D Clothed Human Animation</td>
+        <td>Clothed human animation</td>
+        <td>Loose clothing, sparse poses, and challenging outfit categories.</td>
+        <td><a href="https://github.com/HongwenZhang/THuman-CloSET">dataset</a></td>
+      </tr>
+      <tr>
+        <td>AGORA</td>
+        <td>Table 14. Benchmarks for 3D Clothed Human Animation</td>
+        <td>Clothed human animation</td>
+        <td>High-resolution images with ground-truth 3D bodies in natural clothing and scenes.</td>
+        <td><a href="https://agora.is.tue.mpg.de/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>VTO</td>
+        <td>Table 15. Benchmarks for 3D Garment Animation</td>
+        <td>3D garment animation</td>
+        <td>Dressed character animations with diverse motions and body shapes.</td>
+        <td><a href="https://github.com/isantesteban/vto-dataset">dataset</a></td>
+      </tr>
+      <tr>
+        <td>VirtualBones</td>
+        <td>Table 15. Benchmarks for 3D Garment Animation</td>
+        <td>Garment animation</td>
+        <td>Garments driven by avatar motion under varied simulation parameters.</td>
+        <td><a href="https://github.com/non-void/VirtualBones">dataset</a></td>
+      </tr>
+      <tr>
+        <td>D-LAYERS</td>
+        <td>Table 15. Benchmarks for 3D Garment Animation</td>
+        <td>Multi-layer garment animation</td>
+        <td>Multi-layered garment dynamics with human motion and random wind.</td>
+        <td><a href="https://github.com/ftbabi/LayersNet_ICCV2023">dataset</a></td>
+      </tr>
+      <tr>
+        <td>CLOTH3D++</td>
+        <td>Table 15. Benchmarks for 3D Garment Animation</td>
+        <td>Garment dynamics</td>
+        <td>RGBA video sequences paired with 3D data for garment dynamics.</td>
+        <td><a href="https://chalearnlap.cvc.uab.es/dataset/38/description/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>CLOTH4D</td>
+        <td>Table 15. Benchmarks for 3D Garment Animation</td>
+        <td>4D garment animation</td>
+        <td>100K+ clothed meshes, paired unclothed humans, and fashion-design-standard outfits.</td>
+        <td><a href="https://github.com/AemikaChow/CLOTH4D">dataset</a></td>
+      </tr>
+      <tr>
+        <td>4D-Dress</td>
+        <td>Table 15. Benchmarks for 3D Garment Animation</td>
+        <td>4D clothed human capture</td>
+        <td>64 outfits in 520 motion sequences with textured scans, SMPL-X, and garment meshes.</td>
+        <td><a href="https://github.com/eth-ait/4d-dress">dataset</a></td>
+      </tr>
+      <tr>
+        <td>Sizer</td>
+        <td>Table 17. Benchmarks for Draping</td>
+        <td>Garment draping</td>
+        <td>100 subjects with clothing size variation and realistic cloth deformations.</td>
+        <td><a href="https://github.com/garvita-tiwari/sizer">dataset</a></td>
+      </tr>
+      <tr>
+        <td>CLOTH3D</td>
+        <td>Table 17. Benchmarks for Draping</td>
+        <td>Garment draping</td>
+        <td>Large-scale 3D clothing on posed SMPL bodies with varied topology and fabric.</td>
+        <td><a href="https://chalearnlap.cvc.uab.cat/dataset/38/description/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>UBC fashion video</td>
+        <td>Table 18. Benchmarks for Video-Based Virtual Try-On</td>
+        <td>Video-based virtual try-on</td>
+        <td>600 fashion videos with diverse clothing and high-resolution static-camera captures.</td>
+        <td><a href="https://vision.cs.ubc.ca/datasets/fashion/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>TikTok dataset</td>
+        <td>Table 18. Benchmarks for Video-Based Virtual Try-On</td>
+        <td>Video-based virtual try-on</td>
+        <td>Dance videos with human masks and UV coordinates.</td>
+        <td><a href="https://github.com/yasaminjafarian/HDNet_TikTok">dataset</a></td>
+      </tr>
+      <tr>
+        <td>Dance50k</td>
+        <td>Table 18. Benchmarks for Video-Based Virtual Try-On</td>
+        <td>Video generation, virtual try-on</td>
+        <td>50K dance videos with varied poses and garment types.</td>
+        <td><a href="https://awesome-wflow.github.io/">dataset</a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 
 ## 📝Papers
