@@ -975,6 +975,22 @@ The following linked benchmark datasets are summarized from the `Benchmark Datas
         <td>13,679 high-resolution frontal-view woman and upper-body clothing pairs.</td>
         <td><a href="https://github.com/shadow2496/VITON-HD">dataset</a></td>
       </tr>
+      <tr>
+        <td>Garments2Look</td>
+        <td>Latest Fashion-Related Papers</td>
+        <td>CVPR 2026</td>
+        <td>Outfit-level virtual try-on</td>
+        <td>80K many-garments-to-one-look pairs with 3-12 reference garments, 40 major categories, and 300+ fine-grained subcategories.</td>
+        <td><a href="https://huggingface.co/datasets/ArtmeScienceLab/Garments2Look">dataset</a></td>
+      </tr>
+      <tr>
+        <td>VRF</td>
+        <td>Latest Fashion-Related Papers</td>
+        <td>CVPR 2026</td>
+        <td>Person-to-person virtual try-on with visual references</td>
+        <td>Hugging Face WebDataset with image/text modalities; 83.8K viewer rows and 657K estimated rows.</td>
+        <td><a href="https://huggingface.co/datasets/qihoo360/VRF-datasets">dataset</a></td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -1274,6 +1290,22 @@ The following linked benchmark datasets are summarized from the `Benchmark Datas
         <td>Video generation, virtual try-on</td>
         <td>50K dance videos with varied poses and garment types.</td>
         <td><a href="https://awesome-wflow.github.io/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>MV-Fashion</td>
+        <td>Latest Fashion-Related Papers</td>
+        <td>CVPR 2026</td>
+        <td>Multi-view virtual try-on, size estimation, novel view synthesis</td>
+        <td>3,273 multi-view video sequences with 72.5M frames from 80 subjects and 474 outfit sets.</td>
+        <td><a href="https://hunorlaczko.github.io/MV-Fashion/">dataset</a></td>
+      </tr>
+      <tr>
+        <td>BarbieGait</td>
+        <td>Latest Fashion-Related Papers</td>
+        <td>CVPR 2026</td>
+        <td>Cloth-changing synthetic human gait recognition</td>
+        <td>Identity-consistent synthetic human dataset with versatile cloth-changing; access requires submitting the dataset agreement.</td>
+        <td><a href="https://github.com/BarbieGait/BarbieGait">dataset</a></td>
       </tr>
     </tbody>
   </table>
