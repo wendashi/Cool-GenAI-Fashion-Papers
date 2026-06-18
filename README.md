@@ -95,115 +95,115 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>[GraspALL: Adaptive Structural Compensation from Luminance Variation for Robotic Garment Grasping in Any Low-Light Conditions](https://cvpr.thecvf.com/virtual/2026/poster/38756)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/38756">GraspALL: Adaptive Structural Compensation from Luminance Variation for Robotic Garment Grasping in Any Low-Light Conditions</a></td>
         <td>Haifeng Zhong, Wenshuo Han, Zhouyu Wang, Runyang Feng, Fan Tang, Tong-yee Lee, zipei fan, Ruihai Wu, Yuran Wang, Hao Dong, Hechang Chen, Hyung Jin Chang, Yixing Gao</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>[NI-Tex: Non-isometric Image-based Garment Texture Generation](https://cvpr.thecvf.com/virtual/2026/poster/37495)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37495">NI-Tex: Non-isometric Image-based Garment Texture Generation</a></td>
         <td>Hui Shan, Ming Li, Haitao Yang, Kai Zheng, Sizhe Zheng, Yanwei Fu, Xiangru Huang</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>[SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation](https://cvpr.thecvf.com/virtual/2026/poster/36938)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/36938">SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation</a></td>
         <td>Phuc Pham, Uy Tran, Binh-Son Hua, Phong Nguyen</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>4</td>
-        <td>[Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories](https://cvpr.thecvf.com/virtual/2026/poster/37269)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37269">Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories</a></td>
         <td>Junyao Hu, Zhongwei Cheng, Waikeung Wong, Xingxing Zou</td>
         <td>garment, cloth, try-on</td>
       </tr>
       <tr>
         <td>5</td>
-        <td>[ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://cvpr.thecvf.com/virtual/2026/poster/38489)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/38489">ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction</a></td>
         <td>Ming Li, Hui Shan, Kai Zheng, Chentao Shen, Siyu Liu, Yanwei Fu, Zhen Chen, Xiangru Huang</td>
         <td>garment, clothed human</td>
       </tr>
       <tr>
         <td>6</td>
-        <td>[FEAT: Fashion Editing and Try-On from Any Design](https://cvpr.thecvf.com/virtual/2026/poster/36224)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/36224">FEAT: Fashion Editing and Try-On from Any Design</a></td>
         <td>Soye Kwon, Keonyoung Lee, Dahuin Jung, Jaekoo Lee</td>
         <td>fashion, try-on</td>
       </tr>
       <tr>
         <td>7</td>
-        <td>[MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On](https://cvpr.thecvf.com/virtual/2026/poster/37608)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37608">MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On</a></td>
         <td>Xiaoyu Han, Chenyang Wang, Jing Wang, Shunyuan Zheng, Quanling Meng, Shengping Zhang</td>
         <td>fashion, try-on</td>
       </tr>
       <tr>
         <td>8</td>
-        <td>[MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data](https://cvpr.thecvf.com/virtual/2026/poster/37909)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37909">MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data</a></td>
         <td>Hunor Laczko, Libang Jia, Phat Truong, Diego Hernández, Sergio Escalera, Jordi Gonzàlez, Meysam Madadi</td>
         <td>fashion, try-on</td>
       </tr>
       <tr>
         <td>9</td>
-        <td>[Clothe and Pose](https://cvpr.thecvf.com/virtual/2026/poster/40220)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/40220">Clothe and Pose</a></td>
         <td>Nakul Sharma, Aayush Bansal, Minh Vo</td>
         <td>cloth</td>
       </tr>
       <tr>
         <td>10</td>
-        <td>[Physical Adversarial Clothing Evades Visible-Thermal Detectors via Non-Overlapping RGB-T Pattern](https://cvpr.thecvf.com/virtual/2026/poster/39343)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/39343">Physical Adversarial Clothing Evades Visible-Thermal Detectors via Non-Overlapping RGB-T Pattern</a></td>
         <td>Xiaopei Zhu, Guanning Zeng, Zhanhao Hu, Jun Zhu, Xiaolin Hu</td>
         <td>cloth</td>
       </tr>
       <tr>
         <td>11</td>
-        <td>[BarbieGait: An Identity-Consistent Synthetic Human Dataset with Versatile Cloth-Changing for Gait Recognition](https://cvpr.thecvf.com/virtual/2026/poster/36650)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/36650">BarbieGait: An Identity-Consistent Synthetic Human Dataset with Versatile Cloth-Changing for Gait Recognition</a></td>
         <td>Qingyuan Cai, Saihui Hou, Xuecai Hu, Yongzhen Huang</td>
         <td>cloth, clothed human</td>
       </tr>
       <tr>
         <td>12</td>
-        <td>[Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image](https://cvpr.thecvf.com/virtual/2026/poster/40009)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/40009">Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image</a></td>
         <td>Joohyun Kwon, Geonhee Sim, Gyeongsik Moon</td>
         <td>cloth, clothed human</td>
       </tr>
       <tr>
         <td>13</td>
-        <td>[RefTON: Person-to-Person Virtual Try-On with Unpaired Visual References](https://cvpr.thecvf.com/virtual/2026/poster/36181)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/36181">RefTON: Person-to-Person Virtual Try-On with Unpaired Visual References</a></td>
         <td>Liuzhuozheng Li, Yue Gong, Shanyuan Liu, Zanyi Wang, Dengyang Jiang, Liebucha Wu, Bo Cheng, Yuhang Ma, Dawei Leng, Yuhui Yin</td>
         <td>clothed human, try-on</td>
       </tr>
       <tr>
         <td>14</td>
-        <td>[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://cvpr.thecvf.com/virtual/2026/poster/39279)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/39279">Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision</a></td>
         <td>Hyunsoo Cha, Wonjung Woo, Byungjun Kim, Hanbyul Joo</td>
         <td>clothed human, try-on</td>
       </tr>
       <tr>
         <td>15</td>
-        <td>[High-Fidelity Virtual Try-On beyond Paired Data Scarcity via Diffusion-based Cycle-Consistent Learning](https://cvpr.thecvf.com/virtual/2026/poster/37904)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37904">High-Fidelity Virtual Try-On beyond Paired Data Scarcity via Diffusion-based Cycle-Consistent Learning</a></td>
         <td>Jia Wu, Yijing Dai, Tingfeng Cao, Meiling Wu, Tao Luo, Jian Dong Zhang, Guangming Lu, Xiaoyi Zeng</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>16</td>
-        <td>[Mobile-VTON: High-Fidelity On-Device Virtual Try-On](https://cvpr.thecvf.com/virtual/2026/poster/37938)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37938">Mobile-VTON: High-Fidelity On-Device Virtual Try-On</a></td>
         <td>Zhenchen Wan, Ce Chen, Runqi Lin, Jiaxin Huang, Tianxi Chen, Yanwu Xu, Tongliang Liu, Mingming Gong</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>17</td>
-        <td>[PG-VTON: Single-Pass Training-Free Virtual Try-On via Patch-Guided Reference Alignment](https://cvpr.thecvf.com/virtual/2026/poster/37850)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37850">PG-VTON: Single-Pass Training-Free Virtual Try-On via Patch-Guided Reference Alignment</a></td>
         <td>Guohao Zhao, Yuxin Peng</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>18</td>
-        <td>[PROMO: Promptable Outfitting for Efficient High-Fidelity Virtual Try-On](https://cvpr.thecvf.com/virtual/2026/poster/36278)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/36278">PROMO: Promptable Outfitting for Efficient High-Fidelity Virtual Try-On</a></td>
         <td>Haohua Chen, Tianze Zhou, Wei Zhu, Runqi Wang, Yandong Guan, Dejia Song, Yibo Chen, Xu Tang, Yao Hu, Lu Sheng, Zhiyong Wu</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>19</td>
-        <td>[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://cvpr.thecvf.com/virtual/2026/poster/39744)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/39744">The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection</a></td>
         <td>Qingdong He, Xueqin Chen, Yanjie Pan, Peng Tang, Pengcheng Xu, Zhenye Gan, Chengjie Wang, Xiaobin Hu, Jiangning Zhang, Yabiao Wang</td>
         <td>try-on</td>
       </tr>
@@ -225,43 +225,43 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>[GarmentGPT: Compositional Garment Pattern Generation via Discrete Latent Tokenization](https://openreview.net/forum?id=XzXKnazRBF)</td>
+        <td><a href="https://openreview.net/forum?id=XzXKnazRBF">GarmentGPT: Compositional Garment Pattern Generation via Discrete Latent Tokenization</a></td>
         <td>Fangsheng Weng, Junhao Chen, Xiang Li, Jie Qin, Hanzhong Guo, ShaochunHao, Xiaoguang Han</td>
         <td>Garment, Pattern</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>[Anime-Ready: Controllable 3D Anime Character Generation with Body-Aligned Component-Wise Garment Modeling](https://openreview.net/forum?id=BRoAjhYWoQ&noteId=hwZucjFl6y)</td>
+        <td><a href="https://openreview.net/forum?id=BRoAjhYWoQ&amp;noteId=hwZucjFl6y">Anime-Ready: Controllable 3D Anime Character Generation with Body-Aligned Component-Wise Garment Modeling</a></td>
         <td>Jiachen Qian, Hongye Yang, Youtian Lin, tianhao zhao, Hengshuang Zhao, Yao Yao, Feihu Zhang</td>
         <td>Garment</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>[Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals](https://openreview.net/forum?id=4SRXfSo1H2)</td>
+        <td><a href="https://openreview.net/forum?id=4SRXfSo1H2">Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals</a></td>
         <td>Davide Lobba, Fulvio Sanguigni, Bin Ren, Marcella Cornia, Rita Cucchiara, Nicu Sebe</td>
         <td>Virtual Try-Off, Fashion, Generation, Diffusion Transformer</td>
       </tr>
        <tr>
         <td>4</td>
-        <td>[Dynamic Texture Modeling of 3D Clothed Gaussian Avatars from a Single Video](https://openreview.net/forum?id=2A3Q2EtGTF)</td>
+        <td><a href="https://openreview.net/forum?id=2A3Q2EtGTF">Dynamic Texture Modeling of 3D Clothed Gaussian Avatars from a Single Video</a></td>
         <td>Seungeun Lee, SeungJun Moon, Hah Min Lew, Ji-Su Kang, Gyeong-Moon Park</td>
         <td>Clothed Human</td>
       </tr>
        <tr>
         <td>5</td>
-        <td>[UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections](https://openreview.net/forum?id=oFsNco4aMm)</td>
+        <td><a href="https://openreview.net/forum?id=oFsNco4aMm">UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections</a></td>
         <td>Zeyu Cai, Ziyang Li, Xiaoben Li, Boqian Li, Zeyu Wang, Zhenyu Zhang, Yuliang Xiu</td>
         <td>Clothed Human</td>
       </tr>
        <tr>
         <td>6</td>
-        <td>[Generative Human Geometry Distribution](https://arxiv.org/html/2503.01448v1)</td>
+        <td><a href="https://arxiv.org/html/2503.01448v1">Generative Human Geometry Distribution</a></td>
         <td>Xiangjun Tang, Biao Zhang, Peter Wonka</td>
         <td>Clothed Human</td>
       </tr>    
        <tr>
         <td>7</td>
-        <td>[CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions](https://github.com/whynot-zyl/CloDS)</td>
+        <td><a href="https://github.com/whynot-zyl/CloDS">CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions</a></td>
         <td>Yuliang Zhan, Jian Li, Wenbing Huang, Wenbing Huang, Yang Liu, Hao Sun</td>
         <td>Cloth Dynamics, Simulation</td>
       </tr>    
@@ -283,43 +283,43 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>[Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework](https://du-chenghu.github.io/OccFree-VTON/)</td>
+        <td><a href="https://du-chenghu.github.io/OccFree-VTON/">Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework</a></td>
         <td>Chenghu Du · Shengwu Xiong · junyin Wang · Yi Rong · Shili Xiong</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>[ShoeFit: A New Dataset and Dual-image-stream DiT Framework for Virtual Footwear Try-On](https://neurips.cc/virtual/2025/poster/116167)</td>
+        <td><a href="https://neurips.cc/virtual/2025/poster/116167">ShoeFit: A New Dataset and Dual-image-stream DiT Framework for Virtual Footwear Try-On</a></td>
         <td>Yuhan Li · Zhiyu Jin · Yifan Tong · Wenxiang Shang · Benlei Cui · Xuanhong Chen · Ran Lin · Bingbing Ni</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>[VTON-VLLM: Aligning Virtual Try-On Models with Human Preferences](https://neurips.cc/virtual/2025/poster/116251)</td>
+        <td><a href="https://neurips.cc/virtual/2025/poster/116251">VTON-VLLM: Aligning Virtual Try-On Models with Human Preferences</a></td>
         <td>Siqi Wan · Jingwen Chen · Qi Cai · Yingwei Pan · Ting Yao · Tao Mei</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>4</td>
-        <td>[PhysDiff-VTON: Cross-Domain Physics Modeling and Trajectory Optimization for Virtual Try-On](https://neurips.cc/virtual/2025/poster/116829)</td>
+        <td><a href="https://neurips.cc/virtual/2025/poster/116829">PhysDiff-VTON: Cross-Domain Physics Modeling and Trajectory Optimization for Virtual Try-On</a></td>
         <td>Shibin Mei · Bingbing Ni</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>5</td>
-        <td>[OmniTry: Virtual Try-On Anything without Masks](https://neurips.cc/virtual/2025/poster/116675)</td>
+        <td><a href="https://neurips.cc/virtual/2025/poster/116675">OmniTry: Virtual Try-On Anything without Masks</a></td>
         <td>Yutong Feng · Linlin Zhang · Hengyuan Cao · Yiming Chen · Xiaoduan Feng · Jian Cao · Yuxiong Wu · Bin Wang</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>6</td>
-        <td>[Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image](https://neurips.cc/virtual/2025/poster/116202)</td>
+        <td><a href="https://neurips.cc/virtual/2025/poster/116202">Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image</a></td>
         <td>Junkun Chen · Aayush Bansal · Minh Vo · Yu-Xiong Wang</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>7</td>
-        <td>[SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction](https://xishuxishu.github.io/SyncHuman.github.io/)</td>
+        <td><a href="https://xishuxishu.github.io/SyncHuman.github.io/">SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction</a></td>
         <td>Wenyue Chen, Peng Li, Wangguandong Zheng, Chengfeng Zhao, Mengfei Li, Yaolong Zhu, Zhiyang Dou, Ronggang Wang, Yuan Liu</td>
         <td>clothed-human</td>
       </tr>
@@ -342,31 +342,31 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>[GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling](https://github.com/Style3D/garmagenet-impl)</td>
+        <td><a href="https://github.com/Style3D/garmagenet-impl">GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling</a></td>
         <td>Siran Li,  Chen Liu,  Ruiyang Liu,  Zhendong Wang,  Gaofeng He,  Yong-Lu Li,  Xiaogang Jin,  Huamin Wang</td>
         <td>sewing</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>[DreamO: A Unified Framework for Image Customization](https://github.com/bytedance/DreamO)</td>
+        <td><a href="https://github.com/bytedance/DreamO">DreamO: A Unified Framework for Image Customization</a></td>
         <td>Chong Mou, Yanze Wu, Wenxu Wu, Zinan Guo, Pengze Zhang, Yufeng Cheng, Yiming Luo, Fei Ding, Shiwen Zhang, Xinghui Li, Mengtian Li, Mingcong Liu, Yi Zhang, Shaojin Wu, Songtao Zhao, Jian Zhang, Qian He, Xinglong Wu</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>[One-shot Embroidery Customization via Contrastive LoRA Modulation](https://style3d.github.io/embroidery_customization/)</td>
+        <td><a href="https://style3d.github.io/embroidery_customization/">One-shot Embroidery Customization via Contrastive LoRA Modulation</a></td>
         <td>Jun Ma, Qian He, Gaofeng He, Huang Chen, Chen Liu, Xiaogang Jin, Huamin Wang</td>
         <td>stylization, embroidery</td>
       </tr>
       <tr>
         <td>4</td>
-        <td>[InfiniHuman: Infinite 3D Human Creation with Precise Control](https://github.com/YuxuanSnow/InfiniHuman)</td>
+        <td><a href="https://github.com/YuxuanSnow/InfiniHuman">InfiniHuman: Infinite 3D Human Creation with Precise Control</a></td>
         <td>Yuxuan Xue, Xianghui Xie, Margaret Kostyrko, Gerard Pons-Moll</td>
         <td>try-on, clothed human</td>
       </tr>
       <tr>
         <td>5</td>
-        <td>[CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling](https://github.com/hyz317/CHARM)</td>
+        <td><a href="https://github.com/hyz317/CHARM">CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling</a></td>
         <td>Yuze He, Yanning Zhou, Wang Zhao, Jingwen Ye, Yushi Bai, Kaiwen Xiao, Yong-Jin Liu, Zhongqian Sun, Wei Yang</td>
         <td>hairstyle</td>
       </tr>
@@ -390,7 +390,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>[CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models](https://arxiv.org/abs/2507.13984)</td>
+        <td><a href="https://arxiv.org/abs/2507.13984">CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models</a></td>
         <td>Quang-Binh Nguyen · Minh Luu · Quang Nguyen · Anh Tran · Khoi Nguyen</td>
         <td>style</td>
       </tr>
@@ -402,67 +402,67 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>3</td>
-        <td>[RAGDiffusion: Faithful Cloth Generation via External Knowledge Assimilation](https://colorful-liyu.github.io/RAGDiffusion-page/)</td>
+        <td><a href="https://colorful-liyu.github.io/RAGDiffusion-page/">RAGDiffusion: Faithful Cloth Generation via External Knowledge Assimilation</a></td>
         <td>Yuhan Li · Xianfeng Tan · Wenxiang Shang · Yubo Wu · Jian Wang · Xuanhong Chen · Yi Zhang · Zhu Hangcheng · Bingbing Ni</td>
         <td>cloth</td>
       </tr>
       <tr>
         <td>4</td>
-        <td>[HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image](https://github.com/Maple498/HiGarment)</td>
+        <td><a href="https://github.com/Maple498/HiGarment">HiGarment: Cross-modal Harmony Based Diffusion Model for Flat Sketch to Realistic Garment Image</a></td>
         <td>Junyi Guo · Jingxuan Zhang · Fangyu Wu · Huanda Lu · Qiufeng Wang · Wenmian Yang · ENG LIM · Dongming Lu</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>5</td>
-        <td>[NGD: Neural Gradient Based Deformation for Monocular Garment Reconstruction](https://astonishingwolf.github.io/pages/NGD/)</td>
+        <td><a href="https://astonishingwolf.github.io/pages/NGD/">NGD: Neural Gradient Based Deformation for Monocular Garment Reconstruction</a></td>
         <td>Soham Dasgupta · Shanthika Naik · Preet Savalia · Sujay Kumar Ingle · Avinash Sharma</td>
         <td>garment reconstruction</td>
       </tr>
       <tr>
         <td>6</td>
-        <td>[AIComposer: Any Style and Content Image Composition via Feature Integration](https://github.com/sherlhw/AIComposer)</td>
+        <td><a href="https://github.com/sherlhw/AIComposer">AIComposer: Any Style and Content Image Composition via Feature Integration</a></td>
         <td>Haowen Li · Zhenfeng Fan · Zhang Wen · Zhengzhou Zhu · Yunjin Li</td>
         <td>style</td>
       </tr>
       <tr>
         <td>7</td>
-        <td>[LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing](https://intelligolabs.github.io/lots/)</td>
+        <td><a href="https://intelligolabs.github.io/lots/">LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing</a></td>
         <td>Federico Girella · Davide Talon · Ziyue Liu · Zanxi Ruan · Yiming Wang · Marco Cristani</td>
         <td>fashion</td>
       </tr>
       <tr>
         <td>8</td>
-        <td>[Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation](https://shengqiliu1.github.io/SewingLDM/)</td>
+        <td><a href="https://shengqiliu1.github.io/SewingLDM/">Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation</a></td>
         <td>Shengqi Liu · Yuhao Cheng · Zhuo Chen · Xingyu Ren · Wenhan Zhu · Lincheng Li · Mengxiao Bi · Xiaokang Yang · Yichao Yan</td>
         <td>sewing</td>
       </tr>
       <tr>
         <td>9</td>
-        <td>[Text2Outfit: Controllable Outfit Generation with Multimodal Language Models](https://iccv.thecvf.com/virtual/2025/poster/993)</td>
+        <td><a href="https://iccv.thecvf.com/virtual/2025/poster/993">Text2Outfit: Controllable Outfit Generation with Multimodal Language Models</a></td>
         <td>Yuanhao Zhai · Yen-Liang Lin · Minxu Peng · Larry Davis · Ashwin Chandramouli · Junsong Yuan · David Doermann</td>
         <td>outfit</td>
       </tr>
       <tr>
         <td>10</td>
-        <td>[LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation](https://donaldssh.github.io/LoRA.rar/)</td>
+        <td><a href="https://donaldssh.github.io/LoRA.rar/">LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation</a></td>
         <td>Donald Shenaj · Ondrej Bohdal · Mete Ozay · Pietro Zanuttigh · Umberto Michieli</td>
         <td>style</td>
       </tr>
       <tr>
         <td>11</td>
-        <td>[UnZipLoRA: Separating Content and Style from a Single Image](https://unziplora.github.io/)</td>
+        <td><a href="https://unziplora.github.io/">UnZipLoRA: Separating Content and Style from a Single Image</a></td>
         <td>Chang Liu · Viraj Shah · Aiyu Cui · Svetlana Lazebnik</td>
         <td>style</td>
       </tr>
       <tr>
         <td>12</td>
-        <td>[Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images](https://github.com/NDYBSNDY/Pose-Star)</td>
+        <td><a href="https://github.com/NDYBSNDY/Pose-Star">Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images</a></td>
         <td>Yuran Dong · Mang Ye</td>
         <td>fashion</td>
       </tr>
       <tr>
         <td>13</td>
-        <td>[Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks](https://github.com/logn-2024/Any2anyTryon)</td>
+        <td><a href="https://github.com/logn-2024/Any2anyTryon">Any2AnyTryon: Leveraging Adaptive Position Embeddings for Versatile Virtual Clothing Tasks</a></td>
         <td>Hailong Guo · Bohan Zeng · Yiren Song · Wentao Zhang · Jiaming Liu · Chuang Zhang</td>
         <td>clothing</td>
       </tr>
@@ -474,55 +474,55 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>15</td>
-        <td>[Magic Insert: Style-Aware Drag-and-Drop](https://magicinsert.github.io/)</td>
+        <td><a href="https://magicinsert.github.io/">Magic Insert: Style-Aware Drag-and-Drop</a></td>
         <td>Nataniel Ruiz · Yuanzhen Li · Neal Wadhwa · Yael Pritch · Michael Rubinstein · David Jacobs · Shlomi Fruchter</td>
         <td>style</td>
       </tr>
       <tr>
         <td>16</td>
-        <td>[OmniVTON: Training-Free Universal Virtual Try-On](https://github.com/Jerome-Young/OmniVTON)</td>
+        <td><a href="https://github.com/Jerome-Young/OmniVTON">OmniVTON: Training-Free Universal Virtual Try-On</a></td>
         <td>Zhaotong Yang · Yuhui Li · Shengfeng He · Xinzhe Li · Yangyang Xu · Junyu Dong · Yong Du</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>17</td>
-        <td>[PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask](https://github.com/rlawjdghek/PromptDresser)</td>
+        <td><a href="https://github.com/rlawjdghek/PromptDresser">PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask</a></td>
         <td>Jeongho Kim · Hoiyeong Jin · Sunghyun Park · Jaegul Choo</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>18</td>
-        <td>[Learning Implicit Features with Flow-Infused Transformations for Realistic Virtual Try-On](https://iccv.thecvf.com/virtual/2025/poster/2042)</td>
+        <td><a href="https://iccv.thecvf.com/virtual/2025/poster/2042">Learning Implicit Features with Flow-Infused Transformations for Realistic Virtual Try-On</a></td>
         <td>Delong Zhang · Qiwei Huang · Yang Sun · Yuanliu Liu · Wei-Shi Zheng · Pengfei Xiong · Wei Zhang</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>19</td>
-        <td>[Domain Generalizable Portrait Style Transfer](https://github.com/wangxb29/DGPST)</td>
+        <td><a href="https://github.com/wangxb29/DGPST">Domain Generalizable Portrait Style Transfer</a></td>
         <td>Xinbo Wang · Wenju Xu · Qing Zhang · Wei-Shi Zheng</td>
         <td>style</td>
       </tr>
       <tr>
         <td>18</td>
-        <td>[TextMaster: A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control](https://iccv.thecvf.com/virtual/2025/poster/2535)</td>
+        <td><a href="https://iccv.thecvf.com/virtual/2025/poster/2535">TextMaster: A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control</a></td>
         <td>Zhenyu Yan · Jian Wang · Aoqiang Wang · Yuhan Li · Wenxiang Shang · Zhu Hangcheng</td>
         <td>style</td>
       </tr>
       <tr>
         <td>19</td>
-        <td>[Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting](https://iccv.thecvf.com/virtual/2025/poster/2554)</td>
+        <td><a href="https://iccv.thecvf.com/virtual/2025/poster/2554">Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting</a></td>
         <td>Yian Zhao · rushi ye · Ruochong Zheng · Zesen Cheng · Chaoran Feng · Jiashu Yang · Pengchong Qiao · Chang Liu · Jie Chen</td>
         <td>style</td>
       </tr>
       <tr>
         <td>20</td>
-        <td>[SAFT: Shape and Appearance of Fabrics from Template via Differentiable Physical Simulations from Monocular Video](https://github.com/vc-bonn/saft)</td>
+        <td><a href="https://github.com/vc-bonn/saft">SAFT: Shape and Appearance of Fabrics from Template via Differentiable Physical Simulations from Monocular Video</a></td>
         <td>David Stotko · Reinhard Klein</td>
         <td>fabric</td>
       </tr>
        <tr>
         <td>21</td>
-        <td>[From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos](https://cjeen.github.io/BraceletPaper/)</td>
+        <td><a href="https://cjeen.github.io/BraceletPaper/">From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos</a></td>
         <td>Chenjian Gao, Lihe Ding, Rui Han, Zhanpeng Huang, Zibin Wang, Tianfan Xue</td>
         <td>try-on</td>
       </tr>
@@ -544,37 +544,37 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>[Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates](https://liren2515.github.io/page/dmap/dmap.html)</td>
+        <td><a href="https://liren2515.github.io/page/dmap/dmap.html">Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates</a></td>
         <td>Ren Li, Cong Cao, Corentin Dumery, Yingxuan You, Hao Li, Pascal Fua</td>
         <td>Garment Reconstruction</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>[Rags2Riches: Computational Garment Reuse](https://anranqi.github.io/Rags2riches.github.io/)</td>
+        <td><a href="https://anranqi.github.io/Rags2riches.github.io/">Rags2Riches: Computational Garment Reuse</a></td>
         <td>Anran Qi, Nico Pietroni, Maria Korosteleva, Olga Sorkine-Hornung, Adrien Bousseau</td>
         <td>Sewing Pattern Transfer</td>
       </tr>
        <tr>
         <td>3</td>
-        <td>[GarmentImage: Raster Encoding of Garment Sewing Patterns with Diverse Topologies](https://yukistavailable.github.io/garmentimage.github.io/)</td>
+        <td><a href="https://yukistavailable.github.io/garmentimage.github.io/">GarmentImage: Raster Encoding of Garment Sewing Patterns with Diverse Topologies</a></td>
         <td>Yuki Tatsukawa, Anran Qi, I-Chao Shen, Takeo Igarashi</td>
         <td>Garment Reconstruction</td>
       </tr>
       <tr>
         <td>4</td>
-        <td>[Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics](https://dress-1-to-3.github.io/)</td>
+        <td><a href="https://dress-1-to-3.github.io/">Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics</a></td>
         <td>Xuan Li, Chang Yu, Wenxin Du, Ying Jiang, Tianyi Xie, Yunuo Chen, Yin Yang, Chenfanfu Jiang</td>
         <td>Garment Reconstruction</td>
       </tr>
       <tr>
         <td>5</td>
-        <td>[3D Stylization via Large Reconstruction Model](https://arxiv.org/abs/2504.21836)</td>
+        <td><a href="https://arxiv.org/abs/2504.21836">3D Stylization via Large Reconstruction Model</a></td>
         <td>Ipek Oztas, Duygu Ceylan, Aysegul Dundar</td>
         <td>Style</td>
       </tr>
        <tr>
         <td>6</td>
-        <td>[FashionComposer: Compositional Fashion Image Generation](https://dl.acm.org/doi/10.1145/3721238.3730663)</td>
+        <td><a href="https://dl.acm.org/doi/10.1145/3721238.3730663">FashionComposer: Compositional Fashion Image Generation</a></td>
         <td>Sihui Ji, Yiyang Wang, Xi Chen, Xiaogang Xu, Hao Luo, Hengshuang Zhao</td>
         <td>Try-on</td>
       </tr>
@@ -609,13 +609,13 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>3</td>
-        <td>[K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs](https://k-lora.github.io/K-LoRA.io/)</td>
+        <td><a href="https://k-lora.github.io/K-LoRA.io/">K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs</a></td>
         <td>Ziheng Ouyang · Zhen Li · Qibin Hou</td>
         <td>style</td>
       </tr>
       <tr>
         <td>4</td>
-        <td>[Geometry in Style: 3D Stylization via Surface Normal Deformation](https://github.com/threedle/geometry-in-style)</td>
+        <td><a href="https://github.com/threedle/geometry-in-style">Geometry in Style: 3D Stylization via Surface Normal Deformation</a></td>
         <td>Nam Anh Dinh · Itai Lang · Hyunwoo Kim · Oded Stein · Rana Hanocka</td>
         <td>style</td>
       </tr>
@@ -627,122 +627,122 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>6</td>
-        <td>[VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction](https://scnuhealthy.github.io/VTON360/)</td>
+        <td><a href="https://scnuhealthy.github.io/VTON360/">VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction</a></td>
         <td>Zijian He · Yuwei Ning · Yipeng Qin · Guangrun Wang · Sibei Yang · Liang Lin · Guanbin Li</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>7</td>
-        <td>[SGSST: Scaling Gaussian Splatting Style Transfer](https://github.com/JianlingWANG2021/SGSST)</td>
+        <td><a href="https://github.com/JianlingWANG2021/SGSST">SGSST: Scaling Gaussian Splatting Style Transfer</a></td>
         <td>Bruno Galerne · Jianling WANG · Lara Raad · Jean-michel Morel</td>
         <td>style</td>
       </tr>
       <tr>
         <td>8</td>
-        <td>[BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training](https://github.com/little-misfit/BooW-VTON)</td>
+        <td><a href="https://github.com/little-misfit/BooW-VTON">BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training</a></td>
         <td>Xuanpu Zhang · Dan Song · pengxin zhan · Tianyu Chang · Jianhao Zeng · Qing-Guo Chen · Weihua Luo · An-An Liu</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>9</td>
-        <td>[Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction](https://cvpr.thecvf.com/virtual/2025/poster/32778)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2025/poster/32778">Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction</a></td>
         <td>Dong Li · Wenqi Zhong · Wei Yu · Yingwei Pan · Dingwen Zhang · Ting Yao · Junwei Han · Tao Mei</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>10</td>
-        <td>[Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation](https://github.com/AlwaySleepy/Garment-Pile)</td>
+        <td><a href="https://github.com/AlwaySleepy/Garment-Pile">Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation</a></td>
         <td>Ruihai Wu · Ziyu Zhu · Yuran Wang · Yue Chen · Jiarui Wang · Hao Dong</td>
         <td>garment, embodied</td>
       </tr>
       <tr>
         <td>11</td>
-        <td>[AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models](https://crayon-shinchan.github.io/AnyDressing/)</td>
+        <td><a href="https://crayon-shinchan.github.io/AnyDressing/">AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models</a></td>
         <td>Xinghui Li · Qichao Sun · Pengze Zhang · Fulong Ye · Zhichao Liao · Wanquan Feng · Songtao Zhao · Qian HE</td>
         <td>garment, try-on</td>
       </tr>
       <tr>
         <td>12</td>
-        <td>[Design2GarmentCode: Turning Design Concepts to Tangible Garments Through Program Synthesis](https://style3d.github.io/design2garmentcode/)</td>
+        <td><a href="https://style3d.github.io/design2garmentcode/">Design2GarmentCode: Turning Design Concepts to Tangible Garments Through Program Synthesis</a></td>
         <td>Feng Zhou · Ruiyang Liu · chen liu · Gaofeng He · Yonglu Li · Xiaogang Jin · Huamin Wang</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>13</td>
-        <td>[TexGarment: Consistent Garment UV Texture Generation via Efficient 3D Structure-Guided Diffusion Transformer](https://cvpr.thecvf.com/virtual/2025/poster/34341)</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2025/poster/34341">TexGarment: Consistent Garment UV Texture Generation via Efficient 3D Structure-Guided Diffusion Transformer</a></td>
         <td>Jialun Liu · Jinbo Wu · Xiaobo Gao · JiaKui Hu · Bojun Xiong · Xing Liu · Chen Zhao · Hongbin Pei · Haocheng Feng · Yingying Li · Errui Ding · Jingdong Wang</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>14</td>
-        <td>[StyleSSP:  Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer](https://github.com/bytedance/StyleSSP)</td>
+        <td><a href="https://github.com/bytedance/StyleSSP">StyleSSP:  Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer</a></td>
         <td>ruojun xu · Weijie Xi · Xiaodi Wang · Yongbo Mao · Zach Cheng</td>
         <td>style transfer</td>
       </tr>
       <tr>
         <td>15</td>
-        <td>[ChatGarment: Garment Estimation, Generation and Editing via Large Language Models](https://chatgarment.github.io/)</td>
+        <td><a href="https://chatgarment.github.io/">ChatGarment: Garment Estimation, Generation and Editing via Large Language Models</a></td>
         <td>Siyuan Bian · Chenghao Xu · Yuliang Xiu · Artur Grigorev · Zhen Liu · Cewu Lu · Michael J. Black · Yao Feng</td>
         <td>garment geneartion, editing, sewing pattern</td>
       </tr>
       <tr>
         <td>16</td>
-        <td>[ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On](https://jiwoohong93.github.io/ita-mdt/)</td>
+        <td><a href="https://jiwoohong93.github.io/ita-mdt/">ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On</a></td>
         <td>Ji Woo Hong · Tri Ton · Trung X. Pham · Gwanhyeong Koo · Sunjae Yoon · Chang D. Yoo</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>17</td>
-        <td>[AIpparel: A Large Multimodal Generative Model for Digital Garments](https://georgenakayama.github.io/AIpparel/)</td>
+        <td><a href="https://georgenakayama.github.io/AIpparel/">AIpparel: A Large Multimodal Generative Model for Digital Garments</a></td>
         <td>Kiyohiro Nakayama · Jan Ackermann · Timur Levent Kesdogan · Yang Zheng · Maria Korosteleva · Olga Sorkine-Hornung · Leonidas Guibas · Guandao Yang · Gordon Wetzstein</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>18</td>
-        <td>[Robust-MVTON: Learning Cross-Pose Feature Alignment and Fusion for Robust Multi-View Virtual Try-On](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Robust-MVTON_Learning_Cross-Pose_Feature_Alignment_and_Fusion_for_Robust_Multi-View_CVPR_2025_paper.html)</td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Robust-MVTON_Learning_Cross-Pose_Feature_Alignment_and_Fusion_for_Robust_Multi-View_CVPR_2025_paper.html">Robust-MVTON: Learning Cross-Pose Feature Alignment and Fusion for Robust Multi-View Virtual Try-On</a></td>
         <td>Nannan Zhang · Yijiang Li · Dong Du · Zheng Chong · Zhengwentai Sun · Jianhao Zeng · Yusheng Dai · Zhenyu Xie · Hairui Zhu · Xiaoguang Han</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>19</td>
-        <td>[DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image](https://hygenie1228.github.io/DeClotH/)</td>
+        <td><a href="https://hygenie1228.github.io/DeClotH/">DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image</a></td>
         <td>Hyeongjin Nam · Donghwan Kim · Jeongtaek Oh · Kyoung Mu Lee</td>
         <td>cloth + body reconstruction</td>
       </tr>
       <tr>
         <td>20</td>
-        <td>[PGC: Physics-Based Gaussian Cloth from a Single Pose](https://phys-gaussian-cloth.github.io/)</td>
+        <td><a href="https://phys-gaussian-cloth.github.io/">PGC: Physics-Based Gaussian Cloth from a Single Pose</a></td>
         <td>Michelle Guo · Matt Jen-Yuan Chiang · Igor Santesteban · Nikolaos Sarafianos · Hsiaoyu Chen · Oshri Halimi · Aljaž Božič · Shunsuke Saito · Jiajun Wu · Karen Liu · Tuur Stuyck · Egor Larionov</td>
         <td>garment reconstruction, simulation</td>
       </tr>
       <tr>
         <td>21</td>
-        <td>[VTON-HandFit: Virtual Try-on for Arbitrary Hand Pose Guided by Hand Priors Embedding](https://github.com/VTON-HandFit/VTON-HandFit)</td>
+        <td><a href="https://github.com/VTON-HandFit/VTON-HandFit">VTON-HandFit: Virtual Try-on for Arbitrary Hand Pose Guided by Hand Priors Embedding</a></td>
         <td>Yujie Liang · Xiaobin Hu · Boyuan Jiang · Donghao Luo · Xu Peng · Kai WU · Chengming Xu · Wenhui Han · Taisong Jin · Chengjie Wang · Rongrong Ji</td>
         <td>try-on</td>
       </tr>
       <tr>
       <tr>
         <td>22</td>
-        <td>[Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling](https://github.com/NannanLi999/earsb)</td>
+        <td><a href="https://github.com/NannanLi999/earsb">Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling</a></td>
         <td>Nannan Li · Kevin Shih · Bryan A. Plummer</td>
         <td>try-on</td>
       </tr>
       <tr>
         <td>23</td>
-        <td>[GaPT-DAR: Category-level Garments Pose Tracking via Integrated 2D Deformation and 3D Reconstruction](https://sites.google.com/view/gapt-dar)</td>
+        <td><a href="https://sites.google.com/view/gapt-dar">GaPT-DAR: Category-level Garments Pose Tracking via Integrated 2D Deformation and 3D Reconstruction</a></td>
         <td>Li Zhang · mingliang xu · Jianan Wang · Qiaojun Yu · Lixin Yang · Yonglu Li · Cewu Lu · RujingWang · Liu Liu</td>
         <td>garment, 3D reconstruction</td>
       </tr>
       <tr>
         <td>24</td>
-        <td>[BootComp: Controllable Human Image Generation with Personalized Multi-Garments](https://github.com/omnious/BootComp)</td>
+        <td><a href="https://github.com/omnious/BootComp">BootComp: Controllable Human Image Generation with Personalized Multi-Garments</a></td>
         <td>Yisol Choi · Sangkyung Kwak · Sihyun Yu · Hyungwon Choi · Jinwoo Shin</td>
         <td>garment, controllable image generation</td>
       </tr>
       <tr>
         <td>25</td>
-        <td>[SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing](https://research.nvidia.com/labs/dair/simavatar/)</td>
+        <td><a href="https://research.nvidia.com/labs/dair/simavatar/">SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing</a></td>
         <td>Xueting Li, Ye Yuan, Shalini De Mello, Gilles Daviet, Jonathan Leaf, Miles Macklin, Jan Kautz, Umar Iqbal</td>
         <td>clothing</td>
       </tr>
@@ -764,19 +764,19 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td>[CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models](https://github.com/Zheng-Chong/CatVTON)</td>
+        <td><a href="https://github.com/Zheng-Chong/CatVTON">CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models</a></td>
         <td>Zheng Chong · Xiao Dong · Haoxiang Li · shiyue Zhang · Wenqing Zhang · Hanqing Zhao · xujie zhang · Dongmei Jiang · Xiaodan Liang</td>
         <td>virtual try-on, diffusion models</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>[Attributing Culture-Conditioned Generations to Pretraining Corpora](https://github.com/huihanlhh/CultureGenAttr)</td>
+        <td><a href="https://github.com/huihanlhh/CultureGenAttr">Attributing Culture-Conditioned Generations to Pretraining Corpora</a></td>
         <td>Huihan Li · Arnav Goel · Keyu He · Xiang Ren</td>
         <td>culture-conditioned generation, pretraining corpora</td>
       </tr>
       <tr>
         <td>3</td>
-        <td>[Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On](https://github.com/HiDream-ai/SPM-Diff)</td>
+        <td><a href="https://github.com/HiDream-ai/SPM-Diff">Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On</a></td>
         <td>Siqi Wan · Jingwen Chen · Yingwei Pan · Ting Yao · Tao Mei</td>
         <td>virtual try-on, diffusion model, visual correspondence</td>
       </tr>
