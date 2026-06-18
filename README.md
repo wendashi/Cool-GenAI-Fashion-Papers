@@ -677,7 +677,7 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
       </tr>
       <tr>
         <td>14</td>
-        <td><a href="https://github.com/bytedance/StyleSSP">StyleSSP:  Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer</a></td>
+        <td><a href="https://github.com/bytedance/StyleSSP">StyleSSP:  Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer</a> 🌟highlight</td>
         <td>ruojun xu · Weijie Xi · Xiaodi Wang · Yongbo Mao · Zach Cheng</td>
         <td>style transfer</td>
       </tr>
@@ -695,7 +695,7 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
       </tr>
       <tr>
         <td>17</td>
-        <td><a href="https://georgenakayama.github.io/AIpparel/">AIpparel: A Large Multimodal Generative Model for Digital Garments</a></td>
+        <td><a href="https://georgenakayama.github.io/AIpparel/">AIpparel: A Large Multimodal Generative Model for Digital Garments</a> 🌟highlight</td>
         <td>Kiyohiro Nakayama · Jan Ackermann · Timur Levent Kesdogan · Yang Zheng · Maria Korosteleva · Olga Sorkine-Hornung · Leonidas Guibas · Guandao Yang · Gordon Wetzstein</td>
         <td>garment</td>
       </tr>
@@ -713,7 +713,7 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
       </tr>
       <tr>
         <td>20</td>
-        <td><a href="https://phys-gaussian-cloth.github.io/">PGC: Physics-Based Gaussian Cloth from a Single Pose</a></td>
+        <td><a href="https://phys-gaussian-cloth.github.io/">PGC: Physics-Based Gaussian Cloth from a Single Pose</a> 🌟highlight</td>
         <td>Michelle Guo · Matt Jen-Yuan Chiang · Igor Santesteban · Nikolaos Sarafianos · Hsiaoyu Chen · Oshri Halimi · Aljaž Božič · Shunsuke Saito · Jiajun Wu · Karen Liu · Tuur Stuyck · Egor Larionov</td>
         <td>garment reconstruction, simulation</td>
       </tr>
