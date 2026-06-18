@@ -819,7 +819,7 @@ Here we only provide the fashion-centric metrics.
 
 ## 📊Data
 
-The following linked benchmark datasets are summarized from the `Benchmark Datasets` sections of [Generative AI in Fashion: Overview](https://doi.org/10.1145/3718098). Only dataset links that returned valid `2xx/3xx` HTTP responses during verification are included.
+Only dataset links that returned valid `2xx/3xx` HTTP responses during verification are included.
 
 <details open>
   <summary>Multi-modal[Text-Image]</summary>
@@ -1367,6 +1367,8 @@ The following linked benchmark datasets are summarized from the `Benchmark Datas
 
 
 ## 📝Papers
+
+The following sections follow the taxonomy introduced in [Generative AI in Fashion: Overview](https://doi.org/10.1145/3718098).
 
 ![Overview of fAshIon (AI in fashion)](images/Overview_of_AI_in_fashion.png)
 | Type | [Overview](#Survey) | [Evaluation](#evaluation) | [Basic Tech](#basic-tech) | [Design](#design) | [Styling](#styling) | [Selling](#selling) |  [Buying](#buying) |
