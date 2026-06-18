@@ -71,6 +71,12 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
         <td>A. Heidari, A. Alimohammadi, W. Michel Pinto Lira, A. Bar-Lev, and A. Mahdavi-Amiri</td>
         <td>hairstyle, 3D reconstruction, diffusion models</td>
       </tr>
+      <tr>
+        <td>4</td>
+        <td><a href="https://garment-particles.github.io/">Garment Particles: A 2D-3D Symmetric Garment Representation for Generation and Editing</a></td>
+        <td>Kiyohiro Nakayama, I-chao Shen, Ruofan Liu, Yiming Wang, Gordon Wetzstein, Takeo Igarashi</td>
+        <td>garment generation, garment editing, 2D-3D representation</td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -1577,6 +1583,7 @@ Personal Styling
 #### 3D Synthesis
 | Model | Title | Publication | Paper | Link | Region |
 | ----- | ----- | ----------- | ----- | ---- | ------------ |
+| Garment Particles | Garment Particles: A 2D-3D Symmetric Garment Representation for Generation and Editing | SIGGRAPH 2026 | [paper](https://arxiv.org/abs/2605.26391) | [project](https://garment-particles.github.io/) | Japan, USA |
 | Garment3DGen | Garment3DGen: 3D Garment Stylization and Texture Generation | 3DV 2025 | -> |[project](https://nsarafianos.github.io/garment3dgen) | USA |
 | En3D | En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data | CVPR 2024 | -> | [project](https://menyifang.github.io/projects/En3D/index.html) | China |
 | SewFormer | Towards Garment Sewing Pattern Reconstruction from a Single Image | TOG (SIGGRAPH Asia 2023) | -> | [project](https://sewformer.github.io/) | Singapore |
