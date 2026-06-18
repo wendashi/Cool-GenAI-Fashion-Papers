@@ -10,6 +10,8 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
 
+  - 2026-6, Additional fashion-related papers in SIGGRAPH 2026 are updated.
+
   - 2026-5, Fashion-related papers in CVPR/SIGGRAPH 2026 are updated.
    
   - 2026-2, Fashion-related papers in ICLR 2026 are updated.
@@ -78,6 +80,24 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://garment-particles.github.io/">Garment Particles: A 2D-3D Symmetric Garment Representation for Generation and Editing</a></td>
         <td>Kiyohiro Nakayama, I-chao Shen, Ruofan Liu, Yiming Wang, Gordon Wetzstein, Takeo Igarashi</td>
         <td>garment generation, garment editing, 2D-3D representation</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td><a href="https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_718&sess=sess117">LoBoFit: Flexible Garment Refitting via Local Bone Mapping Blending</a></td>
+        <td>Meng Zhang, Yu Xin, Feiya Guo, Kaizhang Kang, Mengyu Chu, Ruizhen Hu</td>
+        <td>garment refitting, local bone mapping</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td><a href="https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_292&sess=sess117">Learning Sewing Patterns via Latent Flow Matching of Implicit Fields</a></td>
+        <td>Cong Cao, Ren Li, Corentin Dumery, Hao Li</td>
+        <td>sewing pattern, latent flow matching, implicit fields</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td><a href="https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_185&sess=sess117">PatternGSL: A Structured Specification Language for Template-Free and Simulation-Ready 3D Garments</a></td>
+        <td>Zhenyang Li, Lutao Jiang, Yizhou Zhao, Weikai Chen, Ying-Cong Chen, Xin Wang, Yifan Peng</td>
+        <td>garment, sewing pattern, simulation-ready</td>
       </tr>
     </tbody>
   </table>
