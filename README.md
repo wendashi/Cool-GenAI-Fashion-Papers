@@ -41,6 +41,8 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 - [🧑‍🏫Researchers](#researchers)
 
 ## 🔥Latest Fashion-Related Papers
+Labels: 🏅best / 🏆oral / 🌟highlight.
+
 <details>
   <summary>SIGGRAPH 2026-Fashion-Related-Papers</summary>
   <table>
@@ -95,19 +97,19 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
     <tbody>
       <tr>
         <td>1</td>
-        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/38756">GraspALL: Adaptive Structural Compensation from Luminance Variation for Robotic Garment Grasping in Any Low-Light Conditions</a></td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/38756">GraspALL: Adaptive Structural Compensation from Luminance Variation for Robotic Garment Grasping in Any Low-Light Conditions</a> 🌟highlight</td>
         <td>Haifeng Zhong, Wenshuo Han, Zhouyu Wang, Runyang Feng, Fan Tang, Tong-yee Lee, zipei fan, Ruihai Wu, Yuran Wang, Hao Dong, Hechang Chen, Hyung Jin Chang, Yixing Gao</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>2</td>
-        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37495">NI-Tex: Non-isometric Image-based Garment Texture Generation</a></td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37495">NI-Tex: Non-isometric Image-based Garment Texture Generation</a> 🌟highlight</td>
         <td>Hui Shan, Ming Li, Haitao Yang, Kai Zheng, Sizhe Zheng, Yanwei Fu, Xiangru Huang</td>
         <td>garment</td>
       </tr>
       <tr>
         <td>3</td>
-        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/36938">SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation</a></td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/36938">SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation</a> 🌟highlight</td>
         <td>Phuc Pham, Uy Tran, Binh-Son Hua, Phong Nguyen</td>
         <td>garment</td>
       </tr>
@@ -125,19 +127,19 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>6</td>
-        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/36224">FEAT: Fashion Editing and Try-On from Any Design</a></td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/36224">FEAT: Fashion Editing and Try-On from Any Design</a> 🌟highlight</td>
         <td>Soye Kwon, Keonyoung Lee, Dahuin Jung, Jaekoo Lee</td>
         <td>fashion, try-on</td>
       </tr>
       <tr>
         <td>7</td>
-        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37608">MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On</a></td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37608">MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On</a> 🌟highlight</td>
         <td>Xiaoyu Han, Chenyang Wang, Jing Wang, Shunyuan Zheng, Quanling Meng, Shengping Zhang</td>
         <td>fashion, try-on</td>
       </tr>
       <tr>
         <td>8</td>
-        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37909">MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data</a></td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/37909">MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data</a> 🌟highlight</td>
         <td>Hunor Laczko, Libang Jia, Phat Truong, Diego Hernández, Sergio Escalera, Jordi Gonzàlez, Meysam Madadi</td>
         <td>fashion, try-on</td>
       </tr>
@@ -173,7 +175,7 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
       </tr>
       <tr>
         <td>14</td>
-        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/39279">Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision</a></td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/39279">Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision</a> 🌟highlight</td>
         <td>Hyunsoo Cha, Wonjung Woo, Byungjun Kim, Hanbyul Joo</td>
         <td>clothed human, try-on</td>
       </tr>
