@@ -10,7 +10,7 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
 
-  - 2026-6, SIGGRAPH 2026 Garments session papers are updated.
+  - 2026-6, SIGGRAPH 2026 fashion-related papers are updated.
 
   - 2026-5, Fashion-related papers in CVPR/SIGGRAPH 2026 are updated.
    
@@ -110,6 +110,18 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_980&sess=sess117">FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On</a></td>
         <td>Yuanhao Wang, Johanna Karras, Yingwei Li, Ira Kemelmacher-Shlizerman</td>
         <td>virtual try-on, dataset, fit-aware</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td><a href="https://s2026.conference-schedule.org/presentation/?id=papers_596&sess=sess152">FabricTryOn: Taming Image Editing Models for Garment Re-Texturing</a></td>
+        <td>Jun Ma, Qian He, Gaofeng He, Huang Chen, Chen Liu, Xiaogang Jin, Yin Yang, Huamin Wang</td>
+        <td>virtual try-on, garment re-texturing, image editing</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td><a href="https://s2026.conference-schedule.org/presentation/?id=papers_1007&sess=sess152">HumanFlow: Controllable Human Image Generation via Flow Matching</a></td>
+        <td>Wenzhuo Fan, Hongsheng Zheng, Jianchi Sun, Fei Fang, Hong Ding, Chunxia Xiao</td>
+        <td>human image generation, flow matching, virtual try-on</td>
       </tr>
     </tbody>
   </table>
