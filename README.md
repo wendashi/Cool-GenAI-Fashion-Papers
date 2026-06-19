@@ -10,7 +10,7 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
 
-  - 2026-6, Additional fashion-related papers in SIGGRAPH 2026 are updated.
+  - 2026-6, SIGGRAPH 2026 Garments session papers are updated.
 
   - 2026-5, Fashion-related papers in CVPR/SIGGRAPH 2026 are updated.
    
@@ -98,6 +98,18 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_185&sess=sess117">PatternGSL: A Structured Specification Language for Template-Free and Simulation-Ready 3D Garments</a></td>
         <td>Zhenyang Li, Lutao Jiang, Yizhou Zhao, Weikai Chen, Ying-Cong Chen, Xin Wang, Yifan Peng</td>
         <td>garment, sewing pattern, simulation-ready</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td><a href="https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_329&sess=sess117">Learned Universal Interoperable Virtual Try-ON</a></td>
+        <td>Cong Cao, Xianhang Cheng, Jingyuan Liu, Yujian Zheng, Zhenhui Lin, Ren Li, Meriem Chkir, Hao Li</td>
+        <td>virtual try-on, garment interoperability, geometry</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td><a href="https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_980&sess=sess117">FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On</a></td>
+        <td>Yuanhao Wang, Johanna Karras, Yingwei Li, Ira Kemelmacher-Shlizerman</td>
+        <td>virtual try-on, dataset, fit-aware</td>
       </tr>
     </tbody>
   </table>
