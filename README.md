@@ -275,6 +275,36 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td>Qingdong He, Xueqin Chen, Yanjie Pan, Peng Tang, Pengcheng Xu, Zhenye Gan, Chengjie Wang, Xiaobin Hu, Jiangning Zhang, Yabiao Wang</td>
         <td>try-on</td>
       </tr>
+      <tr>
+        <td>20</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/40556">AvatarMix: Identity-Preserving Cross-Avatar Composition for Outfit Personalization</a></td>
+        <td>Zhaorong Wang, Yoshihiro Kanamori, Yuki Endo</td>
+        <td>outfit personalization, clothed avatar, garment transfer</td>
+      </tr>
+      <tr>
+        <td>21</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/40931">One Model for All: Unified Try-On and Try-Off in Any Pose via LLM-Inspired Bidirectional Tweedie Diffusion</a></td>
+        <td>Jinxi Liu, Zijian He, Guangrun Wang, Guanbin Li, Liang Lin</td>
+        <td>virtual try-on, try-off, diffusion models</td>
+      </tr>
+      <tr>
+        <td>22</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/40959">Eevee: Towards Close-up High-resolution Video-based Virtual Try-on</a></td>
+        <td>Jianhao Zeng, Yancheng Bai, Ruidong Chen, Xuanpu Zhang, Lei Sun, Dongyang Jin, Ryan Xu, Nannan Zhang, Dan Song, Xiangxiang Chu</td>
+        <td>video virtual try-on, garment consistency, dataset</td>
+      </tr>
+      <tr>
+        <td>23</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/40974">Fashion130K: An E-commerce Fashion Dataset for Outfit Generation with Unified Multi-modal Condition</a></td>
+        <td>Yu He, Ting Zhu, Yichun Liu, Lichen Ma, Xinyuan Shan, Jingling Fu, Yu Shi, Junshi Huang, Yan Li</td>
+        <td>fashion dataset, outfit generation, multimodal condition</td>
+      </tr>
+      <tr>
+        <td>24</td>
+        <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/41064">FIRE-CIR: Fine-grained Reasoning for Composed Fashion Image Retrieval</a></td>
+        <td>François Gardères, Camille-Sovanneary Gauthier, Jean Ponce, Shizhe Chen</td>
+        <td>fashion retrieval, composed image retrieval, reasoning</td>
+      </tr>
     </tbody>
   </table>
 </details>
