@@ -46,6 +46,28 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 Labels: 🏅best / 🏆oral / 🌟highlight.
 
 <details>
+  <summary>ECCV 2026-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td><a href="https://github.com/Levinna/Re-CatVTON">Re-CatVTON: Rethinking Garment Conditioning in Diffusion-based Virtual Try-On</a></td>
+        <td>Kihyun Na, Jinyoung Choi, Injung Kim</td>
+        <td>virtual try-on, garment conditioning, diffusion models</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
   <summary>SIGGRAPH 2026-Fashion-Related-Papers</summary>
   <table>
     <thead>
@@ -122,28 +144,6 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://s2026.conference-schedule.org/presentation/?id=papers_1007&sess=sess152">HumanFlow: Controllable Human Image Generation via Flow Matching</a></td>
         <td>Wenzhuo Fan, Hongsheng Zheng, Jianchi Sun, Fei Fang, Hong Ding, Chunxia Xiao</td>
         <td>human image generation, flow matching, virtual try-on</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
-<details>
-  <summary>ECCV 2026-Fashion-Related-Papers</summary>
-  <table>
-    <thead>
-      <tr>
-        <th>No</th>
-        <th>Title</th>
-        <th>Authors</th>
-        <th>Key words</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1</td>
-        <td><a href="https://github.com/Levinna/Re-CatVTON">Re-CatVTON: Rethinking Garment Conditioning in Diffusion-based Virtual Try-On</a></td>
-        <td>Kihyun Na, Jinyoung Choi, Injung Kim</td>
-        <td>virtual try-on, garment conditioning, diffusion models</td>
       </tr>
     </tbody>
   </table>
