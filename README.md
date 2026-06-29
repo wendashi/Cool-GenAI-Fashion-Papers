@@ -63,6 +63,24 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td>Kihyun Na, Jinyoung Choi, Injung Kim</td>
         <td>virtual try-on, garment conditioning, diffusion models</td>
       </tr>
+      <tr>
+        <td>2</td>
+        <td><a href="https://github.com/tiny-smart/FitControler">FitControler: Toward Fit-Aware Virtual Try-On</a></td>
+        <td>Lu Yang, Yicheng Liu, Yanan Li, Xiang Bai, Hao Lu</td>
+        <td>virtual try-on, fit-aware control, garment fit</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td><a href="https://github.com/realcrane/EPNet">Self-supervised Garment Dynamics with Persistent Wrinkles</a></td>
+        <td>Xiaoyuan Yang, Deshan Gong, Taku Komura, He Wang</td>
+        <td>garment dynamics, persistent wrinkles, cloth simulation</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td><a href="https://github.com/NJU-PCALab/OrthoTryOn">OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation</a></td>
+        <td>Authors not listed yet</td>
+        <td>fashion generation, virtual try-on, garment reconstruction</td>
+      </tr>
     </tbody>
   </table>
 </details>
@@ -304,6 +322,12 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://cvpr.thecvf.com/virtual/2026/poster/41064">FIRE-CIR: Fine-grained Reasoning for Composed Fashion Image Retrieval</a></td>
         <td>François Gardères, Camille-Sovanneary Gauthier, Jean Ponce, Shizhe Chen</td>
         <td>fashion retrieval, composed image retrieval, reasoning</td>
+      </tr>
+      <tr>
+        <td>25</td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Long_Thermally_Activated_Dual-Modal_Adversarial_Clothing_against_AI_Surveillance_Systems_CVPR_2026_paper.html">Thermally Activated Dual-Modal Adversarial Clothing against AI Surveillance Systems</a></td>
+        <td>Jiahuan Long, Tingsong Jiang, Hanqing Liu, Chao Ma, Weien Zhou, Yang Yang, Wen Yao</td>
+        <td>clothing, adversarial wearable, dual-modal camouflage</td>
       </tr>
     </tbody>
   </table>
