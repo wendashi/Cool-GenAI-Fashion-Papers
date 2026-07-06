@@ -163,6 +163,12 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td>Wenzhuo Fan, Hongsheng Zheng, Jianchi Sun, Fei Fang, Hong Ding, Chunxia Xiao</td>
         <td>human image generation, flow matching, virtual try-on</td>
       </tr>
+      <tr>
+        <td>12</td>
+        <td><a href="https://s2026.conference-schedule.org/?post_type=page&p=15&id=papers_321&sess=sess111">High-Fidelity 4D Cloth Capture Pipeline with a Two-Level Pattern</a></td>
+        <td>Anka H. Chen, Shu Chen, Jenny Han Lin, Ziheng Liu</td>
+        <td>cloth capture, 4D cloth, garment pipeline</td>
+      </tr>
     </tbody>
   </table>
 </details>
