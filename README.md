@@ -169,6 +169,12 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td>Anka H. Chen, Shu Chen, Jenny Han Lin, Ziheng Liu</td>
         <td>cloth capture, 4D cloth, garment pipeline</td>
       </tr>
+      <tr>
+        <td>13</td>
+        <td><a href="https://anonymousresearcher1111.github.io/KnitGraph-Viewer/">Surface Power Diagrams for Knit Singularity Placement</a></td>
+        <td>Rahul Mitra, Mattéo Couplet, Ruichen Liu, Jonathan Ng, Ruza Markov, William Batara Jeremiah Samosir, Megan Hofmann, Edward Chien</td>
+        <td>knit, textile, geometry processing</td>
+      </tr>
     </tbody>
   </table>
 </details>
