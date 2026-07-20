@@ -10,7 +10,9 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
 
-  - 2026-6, SIGGRAPH/ECCV 2026 fashion-related papers are updated.
+  - 2026-7, Fashion-related papers in ECCV 2026 are updated.
+
+  - 2026-6, Fashion-related papers in SIGGRAPH 2026 are updated.
 
   - 2026-5, Fashion-related papers in CVPR/SIGGRAPH 2026 are updated.
    
@@ -20,7 +22,7 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
  
   - 2025-07, Fashion-related papers in ICCV 2025 are updated.
  
-  - 2025-06, Fashion-centric metrics are involved, Fashion-related papers in SIGGRAPH 2025 are updated.
+  - 2025-06, Fashion-related papers in SIGGRAPH 2025 are updated.
  
   - 2025-03, Fashion-related papers in CVPR/ICLR 2025 are updated.
 
