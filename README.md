@@ -78,8 +78,44 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
       <tr>
         <td>4</td>
         <td><a href="https://github.com/NJU-PCALab/OrthoTryOn">OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation</a></td>
-        <td>Authors not listed yet</td>
+        <td>Zhaotong Yang, Ying Tai, Jiahui Zhan, Yu Zheng, Jianjun Qian, Jian Yang</td>
         <td>fashion generation, virtual try-on, garment reconstruction</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td><a href="https://ejshim.github.io/diffgi/">DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation</a></td>
+        <td>Eungjune Shim, Hansol Lee, Eunjung Ju</td>
+        <td>garment, thin-shell 3D generation, geometry images</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td><a href="https://arxiv.org/abs/2602.08020">PhysDrape: Learning Explicit Forces and Collision Constraints for Physically Realistic Garment Draping</a></td>
+        <td>Minghai Chen, Mingyuan Liu, Ning Ma, Jianqing Li, Yuxiang Huan</td>
+        <td>garment draping, cloth simulation, collision constraints</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td><a href="https://aimagelab.github.io/Dress-ED/">Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off</a></td>
+        <td>Fulvio Sanguigni, Davide Lobba, Bin Ren, Marcella Cornia, Nicu Sebe, Rita Cucchiara</td>
+        <td>virtual try-on, try-off, instruction-guided editing</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td><a href="https://andreus00.github.io/stitchedembeddings/">Stitched Embeddings: A Unified Latent Space for 3D Garments and 2D Patterns</a></td>
+        <td>Andrea Sanchietti, Riccardo Marin, Bharat Lal Bhatnagar, Yuanlu Xu, Gerard Pons-Moll</td>
+        <td>3D garments, sewing patterns, latent space</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td><a href="https://shaodingbao.github.io/TripVVT/">TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On</a></td>
+        <td>Dingbao Shao, Song Wu, Shenyi Wang, Ye Wang, Ziheng Tang, Fei Liu, Jiang Lin, Xinyu Chen, Qian Wang, Ying Tai, Jian Yang, Zili Yi</td>
+        <td>video virtual try-on, triplet dataset, fashion</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td><a href="https://www.catalyzex.com/paper/fdm-mfvt-few-step-sampling-diffusion-model">FDM-MFVT: Few-step Sampling Diffusion Model for Mask-Free Virtual Try-On</a></td>
+        <td>Jiaxin Liu, Xiaoye Liang, Lai Jiang, Mai Xu, Jun Liu</td>
+        <td>virtual try-on, diffusion models, mask-free try-on</td>
       </tr>
     </tbody>
   </table>
@@ -174,6 +210,12 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://anonymousresearcher1111.github.io/KnitGraph-Viewer/">Surface Power Diagrams for Knit Singularity Placement</a></td>
         <td>Rahul Mitra, Mattéo Couplet, Ruichen Liu, Jonathan Ng, Ruza Markov, William Batara Jeremiah Samosir, Megan Hofmann, Edward Chien</td>
         <td>knit, textile, geometry processing</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td><a href="https://s2026.conference-schedule.org/presentation/?id=papers_121&amp;sess=sess102">Interactive Yarn-level Knitwear with Nested Douglas-Rachford Splitting</a></td>
+        <td>Chun Yuan, Zixuan Lu, Haoyang Shi, Dewen Guo, Huamin Wang, Chenfanfu Jiang, Zherong Pan, Kui Wu, Yin Yang</td>
+        <td>knitwear, yarn-level simulation, textile</td>
       </tr>
     </tbody>
   </table>
