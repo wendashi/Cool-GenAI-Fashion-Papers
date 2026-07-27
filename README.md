@@ -119,6 +119,18 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td>Jiaxin Liu, Xiaoye Liang, Lai Jiang, Mai Xu, Jun Liu</td>
         <td>virtual try-on, diffusion models, mask-free try-on</td>
       </tr>
+      <tr>
+        <td>11</td>
+        <td><a href="https://sunhao242.github.io/TryOnCrafter_web.github.io/">TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy</a></td>
+        <td>Hao Sun, Hao Yan, Mengting Chen, Quanjian Song, Yu Li, Juan Cao, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Sheng Tang</td>
+        <td>video virtual try-on, 4D try-on proxy, camera-controllable VVT</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td><a href="https://sanghunpark.github.io/hadapter_page/">H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks</a></td>
+        <td>Seulgi Jeong, Yunseong Cho, Sanghun Park</td>
+        <td>hairstyle transfer, diffusion models, pose-robust editing</td>
+      </tr>
     </tbody>
   </table>
 </details>
