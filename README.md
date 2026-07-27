@@ -1863,6 +1863,7 @@ Personal Styling
 | [DeepImage](https://deep-image.ai/) | 2022 | AI Product Content | - |
 | [Unbound](https://www.unboundml.com/) | - | personal AI business assistant | - |
 | [Zeg AI](https://www.zeg.ai/)| 2018 | AI Product Content, Videos, 3D Render | - |
+| [STIL.AI](https://stil.gracestack.se) | 2025 | AI text-to-fashion design platform. Generate clothing designs from text prompts, 100+ designs across 26 categories. Also offers AI Outfit Generator for consumers. | [2026.07 launched AI Outfit Generator](https://stil.gracestack.se/outfit) |
 
 
 ## Researchers
