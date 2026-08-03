@@ -131,6 +131,18 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td>Seulgi Jeong, Yunseong Cho, Sanghun Park</td>
         <td>hairstyle transfer, diffusion models, pose-robust editing</td>
       </tr>
+      <tr>
+        <td>13</td>
+        <td><a href="https://chunfeng-projects.github.io/layering-virtual-tryon/">Layering Virtual Try On</a></td>
+        <td>Chun Feng, Bowei Chen, Mengyi Shan, Ira Kemelmacher-Shlizerman</td>
+        <td>virtual try-on, garment layering, fashion editing</td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td><a href="https://pro-pose-portrait.github.io/">Pro-Pose: Unpaired Full-Body Portrait Synthesis via Canonical UV Maps</a></td>
+        <td>Sandeep Mishra, Yasamin Jafarian, Andreas Lugmayr, Yingwei Li, Varsha Ramakrishnan, Srivatsan Varadharajan, Alan C. Bovik, Ira Kemelmacher-Shlizerman</td>
+        <td>virtual try-on, full-body portrait synthesis, canonical UV maps</td>
+      </tr>
     </tbody>
   </table>
 </details>
