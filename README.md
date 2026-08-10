@@ -143,6 +143,18 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td>Sandeep Mishra, Yasamin Jafarian, Andreas Lugmayr, Yingwei Li, Varsha Ramakrishnan, Srivatsan Varadharajan, Alan C. Bovik, Ira Kemelmacher-Shlizerman</td>
         <td>virtual try-on, full-body portrait synthesis, canonical UV maps</td>
       </tr>
+      <tr>
+        <td>15</td>
+        <td><a href="https://github.com/litelightlite/VTON-IQA">Reference-Free Image Quality Assessment for Virtual Try-On via Human Feedback</a></td>
+        <td>Yuki Hirakawa, Takashi Wada, Ryotaro Shimizu, Takuya Furusawa, Yuki Saito, Ryosuke Araki, Tianwei Chen, Fan Mo, Yoshimitsu Aoki</td>
+        <td>virtual try-on, image quality assessment, human feedback</td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td><a href="https://dynhair.is.tue.mpg.de/">DynHair: Head Avatars with Dynamic Explicit Hair</a></td>
+        <td>Vanessa Sklyarova, Haonan Chen, Berna Kabadayi, Tobias Kirschstein, Zicong Fan, Xi Wang, Gerard Pons-Moll, Matthias Nießner, Marc Pollefeys, Michael J. Black, Justus Thies</td>
+        <td>hairstyle, dynamic hair, head avatars</td>
+      </tr>
     </tbody>
   </table>
 </details>
