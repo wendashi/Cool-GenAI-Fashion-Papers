@@ -10,6 +10,8 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
 
+  - 2026-8, Fashion-related papers in ECCV/SIGGRAPH Asia 2026 are updated.
+
   - 2026-7, Fashion-related papers in ECCV 2026 are updated.
 
   - 2026-6, Fashion-related papers in SIGGRAPH 2026 are updated.
@@ -154,6 +156,40 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://dynhair.is.tue.mpg.de/">DynHair: Head Avatars with Dynamic Explicit Hair</a></td>
         <td>Vanessa Sklyarova, Haonan Chen, Berna Kabadayi, Tobias Kirschstein, Zicong Fan, Xi Wang, Gerard Pons-Moll, Matthias Nießner, Marc Pollefeys, Michael J. Black, Justus Thies</td>
         <td>hairstyle, dynamic hair, head avatars</td>
+      </tr>
+      <tr>
+        <td>17</td>
+        <td><a href="https://arxiv.org/abs/2603.05659">When Rubrics Fail: Error Enumeration as Reward in Reference-Free RL Post-Training for Virtual Try-On</a></td>
+        <td>Wisdom Ikezogwo, Mehmet Saygin Seyfioglu, Ranjay Krishna, Karim Bouyarmane</td>
+        <td>virtual try-on, reference-free RL post-training, reward modeling</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary>SIGGRAPH Asia 2026-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td><a href="https://harrywang355.github.io/">OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction</a></td>
+        <td>Ding-Jiun Huang, Yuanhao Wang, Cheng Zhang, Hugo Bertiche, Alexandru-Eugen Ichim, Thabo Beeler, Fernando De la Torre</td>
+        <td>3D garment reconstruction, UV texture synthesis, garment texture</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td><a href="https://arxiv.org/abs/2605.20460">HyperBones: Realtime Bone-driven Neural Garment Simulation with Hypernetwork Conditioning</a></td>
+        <td>Astitva Srivastava, Hsiao-Yu Chen, Ryan Goldade, Philipp Herholz, Zhongshi Jiang, Gene Wei-Chin Lin, Lingchen Yang, Nikolaos Sarafianos, Tuur Stuyck, Doug Roble, Avinash Sharma, Egor Larionov</td>
+        <td>garment simulation, neural garment dynamics, cloth animation</td>
       </tr>
     </tbody>
   </table>
