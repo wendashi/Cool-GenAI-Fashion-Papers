@@ -81,7 +81,7 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
       </tr>
       <tr>
         <td>4</td>
-        <td><a href="https://github.com/NJU-PCALab/OrthoTryOn">OrthoTryOn: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation</a></td>
+        <td><a href="https://eccv.ecva.net/virtual/2026/poster/3484">OrthoTailor: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation</a></td>
         <td>Zhaotong Yang, Ying Tai, Jiahui Zhan, Yu Zheng, Jianjun Qian, Jian Yang</td>
         <td>fashion generation, virtual try-on, garment reconstruction</td>
       </tr>
@@ -162,6 +162,60 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://arxiv.org/abs/2603.05659">When Rubrics Fail: Error Enumeration as Reward in Reference-Free RL Post-Training for Virtual Try-On</a></td>
         <td>Wisdom Ikezogwo, Mehmet Saygin Seyfioglu, Ranjay Krishna, Karim Bouyarmane</td>
         <td>virtual try-on, reference-free RL post-training, reward modeling</td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td><a href="https://eccv.ecva.net/virtual/2026/poster/5963">NeuralGarSim: Geometry-agnostic Garment Simulation with Neural Fields</a></td>
+        <td>Arihant Gaur, Navami Kairanda, Christian Theobalt, Vladislav Golyanik</td>
+        <td>garment simulation, neural fields, cloth dynamics</td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td><a href="https://eccv.ecva.net/virtual/2026/poster/4590">WearWow: Native 2K Multi-Garment Virtual Try-On via Adaptive Token Packing and Preference Alignment</a></td>
+        <td>Xujie Zhang, Runyan Du, Song Chang, Jiang Li, Dongliang Shao, Liping Wu, Luo Wei, Xiaochao Qu, Luoqi Liu, Xiaodan Liang</td>
+        <td>virtual try-on, multi-garment try-on, preference alignment</td>
+      </tr>
+      <tr>
+        <td>20</td>
+        <td><a href="https://github.com/Hiuyee124/VTEdit-Bench">VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On</a></td>
+        <td>Xiaoye Liang, Zhiyuan Qu, Mingye Zou, Jiaxin Liu, Lai Jiang, Mai Xu, Yiheng Zhu</td>
+        <td>virtual try-on, image editing benchmark, multi-reference editing</td>
+      </tr>
+      <tr>
+        <td>21</td>
+        <td><a href="https://eccv.ecva.net/virtual/2026/poster/5116">DSAR: Dual-Stream Autoregressive Modeling of Temporal Cloth Dynamics for Photorealistic Animatable Avatars</a></td>
+        <td>Haozhong Xiong, Yu Yao, Yu Zhou, Sidan Du</td>
+        <td>cloth dynamics, animatable avatars, autoregressive modeling</td>
+      </tr>
+      <tr>
+        <td>22</td>
+        <td><a href="https://eccv.ecva.net/virtual/2026/poster/4554">HairWeaver: Few-Shot Photorealistic Hair Motion Synthesis with Sim-to-Real Guided Video Diffusion</a></td>
+        <td>Di Chang, Ji Hou, Aljaž Božič, Assaf Neuberger, Felix Juefei-Xu, Olivier Maury, Gene Lin, Tuur Stuyck, Doug Roble, Mohammad Soleymani, Stéphane Grabli</td>
+        <td>hair motion synthesis, video diffusion, sim-to-real</td>
+      </tr>
+      <tr>
+        <td>23</td>
+        <td><a href="https://eccv.ecva.net/virtual/2026/poster/5370">ControlHair: Synergizing Physics Simulator and Video Diffusion for Controllable Dynamic Hair Rendering</a></td>
+        <td>Weikai Lin, Haoxiang Li, Yuhao Zhu</td>
+        <td>dynamic hair rendering, video diffusion, physics simulation</td>
+      </tr>
+      <tr>
+        <td>24</td>
+        <td><a href="https://eccv.ecva.net/virtual/2026/poster/3893">HairOrbit: Multi-view Aware 3D Hair Modeling from Single Portraits</a></td>
+        <td>Leyang Jin, Yujian Zheng, Bingkui Tong, Yuda Qiu, Zhenyu Xie, Hao Li</td>
+        <td>3D hair modeling, multi-view modeling, single portrait</td>
+      </tr>
+      <tr>
+        <td>25</td>
+        <td><a href="https://eccv.ecva.net/virtual/2026/poster/3284">Anchoring on Reality: Breaking the Pseudo-Target Ceiling in Makeup Transfer</a></td>
+        <td>Bo Wei, Xianhui Lin, Yi Dong, Zhongzhong Li, Zonghui Li, Zirui Wang, Jiachen Yang, Xing Liu, Hong Gu, Xiaoming Li, Wangmeng Zuo</td>
+        <td>makeup transfer, image editing, diffusion models</td>
+      </tr>
+      <tr>
+        <td>26</td>
+        <td><a href="https://vivocameraresearch.github.io/magicmakeup">MagicMakeup: A Region-Controllable Diffusion Transformer for High-Fidelity Makeup-Transfer</a></td>
+        <td>Ziyi Wang, Siming Zheng, Yang Yang, Shusong Xu, Hao Zhang, Bo Li, Changqing Zou, Peng-Tao Jiang</td>
+        <td>makeup transfer, diffusion transformer, region-controllable editing</td>
       </tr>
     </tbody>
   </table>
