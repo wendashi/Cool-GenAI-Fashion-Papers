@@ -50,6 +50,34 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 Labels: 🏅best / 🏆oral / 🌟highlight.
 
 <details>
+  <summary>SIGGRAPH Asia 2026-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td><a href="https://harrywang355.github.io/">OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction</a></td>
+        <td>Ding-Jiun Huang, Yuanhao Wang, Cheng Zhang, Hugo Bertiche, Alexandru-Eugen Ichim, Thabo Beeler, Fernando De la Torre</td>
+        <td>3D garment reconstruction, UV texture synthesis, garment texture</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td><a href="https://arxiv.org/abs/2605.20460">HyperBones: Realtime Bone-driven Neural Garment Simulation with Hypernetwork Conditioning</a></td>
+        <td>Astitva Srivastava, Hsiao-Yu Chen, Ryan Goldade, Philipp Herholz, Zhongshi Jiang, Gene Wei-Chin Lin, Lingchen Yang, Nikolaos Sarafianos, Tuur Stuyck, Doug Roble, Avinash Sharma, Egor Larionov</td>
+        <td>garment simulation, neural garment dynamics, cloth animation</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
   <summary>ECCV 2026-Fashion-Related-Papers</summary>
   <table>
     <thead>
@@ -217,33 +245,11 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td>Ziyi Wang, Siming Zheng, Yang Yang, Shusong Xu, Hao Zhang, Bo Li, Changqing Zou, Peng-Tao Jiang</td>
         <td>makeup transfer, diffusion transformer, region-controllable editing</td>
       </tr>
-    </tbody>
-  </table>
-</details>
-
-<details>
-  <summary>SIGGRAPH Asia 2026-Fashion-Related-Papers</summary>
-  <table>
-    <thead>
       <tr>
-        <th>No</th>
-        <th>Title</th>
-        <th>Authors</th>
-        <th>Key words</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1</td>
-        <td><a href="https://harrywang355.github.io/">OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction</a></td>
-        <td>Ding-Jiun Huang, Yuanhao Wang, Cheng Zhang, Hugo Bertiche, Alexandru-Eugen Ichim, Thabo Beeler, Fernando De la Torre</td>
-        <td>3D garment reconstruction, UV texture synthesis, garment texture</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td><a href="https://arxiv.org/abs/2605.20460">HyperBones: Realtime Bone-driven Neural Garment Simulation with Hypernetwork Conditioning</a></td>
-        <td>Astitva Srivastava, Hsiao-Yu Chen, Ryan Goldade, Philipp Herholz, Zhongshi Jiang, Gene Wei-Chin Lin, Lingchen Yang, Nikolaos Sarafianos, Tuur Stuyck, Doug Roble, Avinash Sharma, Egor Larionov</td>
-        <td>garment simulation, neural garment dynamics, cloth animation</td>
+        <td>27</td>
+        <td><a href="https://weipengchao.top/PRISM-page/">Fabric Image Demoiréing Benchmark from Synthesis to Restoration</a></td>
+        <td>Pengchao Wei, Xiaojie Guo</td>
+        <td>fabric demoiréing, textile restoration, benchmark</td>
       </tr>
     </tbody>
   </table>
