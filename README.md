@@ -251,6 +251,36 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td>Pengchao Wei, Xiaojie Guo</td>
         <td>fabric demoiréing, textile restoration, benchmark</td>
       </tr>
+      <tr>
+        <td>28</td>
+        <td><a href="https://zcai0612.github.io/OmniFit/">OmniFit: Multi-modal 3D Body Fitting via Scale-agnostic Dense Landmark Prediction</a></td>
+        <td>Zeyu Cai, Yuliang Xiu, Renke Wang, Zhijing Shao, Xiaoben Li, Siyuan Yu, Chao Xu, Yang Liu, Baigui Sun, Jian Yang, Zhenyu Zhang</td>
+        <td>clothed human, body fitting, dense landmark prediction</td>
+      </tr>
+      <tr>
+        <td>29</td>
+        <td><a href="https://xiaobenli00.github.io/ETCH-X/">ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Synthetic Data</a></td>
+        <td>Xiaoben Li, Jingyi Wu, Zeyu Cai, Siyuan Yu, Boqian Li, Yuliang Xiu</td>
+        <td>clothed human, body fitting, synthetic garments</td>
+      </tr>
+      <tr>
+        <td>30</td>
+        <td><a href="https://github.com/KLMAV-CUC/DiGS-Avatar">DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion</a></td>
+        <td>Jiakun Li, Li Fang, Hao Zhu, Fei Hu, Long Ye, Yuan Zhang, Jinyao Yan</td>
+        <td>animatable avatar, 3D human reconstruction, UV-space diffusion</td>
+      </tr>
+      <tr>
+        <td>31</td>
+        <td><a href="https://eccv.ecva.net/Conferences/2026/AcceptedPapers">PartCHOI: Part-Aware Guidance for Clothed Human-Object Interaction Generation</a></td>
+        <td>Mingwen Shao, Xinyuan Chen, Qiao Zhang, Xiang Lv, Lingzhuang Meng, Qinglin Zhan, Chang Liu, Chao Dong</td>
+        <td>clothed human, human-object interaction, part-aware guidance</td>
+      </tr>
+      <tr>
+        <td>32</td>
+        <td><a href="https://luh1124.github.io/MARCUS-Avatar-Projectpage/">Monocular Avatar Reconstruction via Cascaded Diffusion Priors and UV-Space Differentiable Shading</a></td>
+        <td>Hong Li, Minqi Meng, Yanjun Liang, Chongjie Ye, Houyuan Chen, Weiqing Xiao, Xianda Guo, Guojun Lei, Xuhui Liu, Chaojie Yang, Yanlun Peng, Hao Zhao, Baochang Zhang</td>
+        <td>avatar reconstruction, UV-space diffusion, PBR materials</td>
+      </tr>
     </tbody>
   </table>
 </details>
