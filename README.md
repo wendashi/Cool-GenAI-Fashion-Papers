@@ -10,15 +10,15 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
 
-  - 2026-8, Fashion-related papers in ECCV/SIGGRAPH Asia 2026 are updated.
+  - 2026-08, Fashion-related papers in ECCV/SIGGRAPH Asia 2026 are updated.
 
-  - 2026-7, Fashion-related papers in ECCV 2026 are updated.
+  - 2026-07, Fashion-related papers in ECCV 2026 are updated.
 
-  - 2026-6, Fashion-related papers in SIGGRAPH 2026 are updated.
+  - 2026-06, Fashion-related papers in SIGGRAPH 2026 are updated.
 
-  - 2026-5, Fashion-related papers in CVPR/SIGGRAPH 2026 are updated.
+  - 2026-05, Fashion-related papers in CVPR/SIGGRAPH 2026 are updated.
    
-  - 2026-2, Fashion-related papers in ICLR 2026 are updated.
+  - 2026-02, Fashion-related papers in ICLR 2026 are updated.
   
   - 2025-10, Fashion-related papers in SIGGRAPH Asia/NeurIPS 2025 are updated.
  
@@ -63,7 +63,7 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
     <tbody>
       <tr>
         <td>1</td>
-        <td><a href="https://harrywang355.github.io/">OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction</a></td>
+        <td><a href="https://github.com/humansensinglab/OmniFabric">OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction</a></td>
         <td>Ding-Jiun Huang, Yuanhao Wang, Cheng Zhang, Hugo Bertiche, Alexandru-Eugen Ichim, Thabo Beeler, Fernando De la Torre</td>
         <td>3D garment reconstruction, UV texture synthesis, garment texture</td>
       </tr>
