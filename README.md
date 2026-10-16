@@ -9,8 +9,9 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 
 <details>
   <summary>Change Log</summary>
-
-  - 2026-08, Fashion-related papers in ECCV/SIGGRAPH Asia 2026 are updated.
+  - 2026-10, Fashion-related papers in SIGGRAPH Asia/NIPS 2026 are updated.
+  
+  - 2026-08/09, Fashion-related papers in ECCV/SIGGRAPH Asia 2026 are updated.
 
   - 2026-07, Fashion-related papers in ECCV 2026 are updated.
 
@@ -72,6 +73,40 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://arxiv.org/abs/2605.20460">HyperBones: Realtime Bone-driven Neural Garment Simulation with Hypernetwork Conditioning</a></td>
         <td>Astitva Srivastava, Hsiao-Yu Chen, Ryan Goldade, Philipp Herholz, Zhongshi Jiang, Gene Wei-Chin Lin, Lingchen Yang, Nikolaos Sarafianos, Tuur Stuyck, Doug Roble, Avinash Sharma, Egor Larionov</td>
         <td>garment simulation, neural garment dynamics, cloth animation</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td><a href="https://github.com/GongDeshan/Fabric_101_for_Wrinkles">Learnable Persistent Wrinkle Formation in Cloth Simulation</a></td>
+        <td>Deshan Gong, Ningtao Mao, Xiaoyuan Yang, Xinyu Lu, He Wang, Taku Komura</td>
+        <td>cloth simulation, persistent wrinkles, fabric dataset, differentiable simulation</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary>NeurIPS 2026-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td><a href="https://can-lee.github.io/deformmaster-web/">DeformMaster: An Interactive Physics-Neural World Model for Deformable Objects from Videos</a></td>
+        <td>Can Li, Zhoujian Li, Ren Li, Jie Gu, Lei Lei, Jingmin Chen, Lei Sun</td>
+        <td>deformable objects, interactive world model, physics-neural simulation, cloth dynamics</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td><a href="https://github.com/YuCrazing/ClothTransformer">ClothTransformer: Unified Latent-Space Transformers for Scalable Cloth Simulation</a></td>
+        <td>Yu Zhang, Yidi Shao, Wenqi Ouyang, Yushi Lan, Zhexin Liang, Chengrui Wu, Xudong Xu, Xingang Pan</td>
+        <td>cloth simulation, latent-space transformers, garment dynamics</td>
       </tr>
     </tbody>
   </table>
