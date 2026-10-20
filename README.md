@@ -108,6 +108,42 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td>Yu Zhang, Yidi Shao, Wenqi Ouyang, Yushi Lan, Zhexin Liang, Chengrui Wu, Xudong Xu, Xingang Pan</td>
         <td>cloth simulation, latent-space transformers, garment dynamics</td>
       </tr>
+      <tr>
+        <td>3</td>
+        <td><a href="https://dresswild.github.io/">DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images</a></td>
+        <td>Zeng Tao, Ying Jiang, Yunuo Chen, Tianyi Xie, Huamin Wang, Ying Nian Wu, Yin Yang, Abishek Sampath Kumar, Kenji Tashiro, Chenfanfu Jiang</td>
+        <td>sewing patterns, garment reconstruction, simulation-ready garments</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td><a href="https://arxiv.org/abs/2605.15824">FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization</a></td>
+        <td>Quanjian Song, Yefeng Shen, Mengting Chen, Hao Sun, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Liujuan Cao</td>
+        <td>garment customization, video generation, interactive virtual try-on</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td><a href="https://cvlab-kaist.github.io/CORAL/">CORAL: Correspondence Alignment for Improved Virtual Try-On</a></td>
+        <td>Jiyoung Kim, Youngjin Shin, Siyoon Jin, Dahyun Chung, Jisu Nam, Tongmin Kim, Jongjae Park, Hyeonwoo Kang, Seungryong Kim</td>
+        <td>virtual try-on, person-garment correspondence, diffusion transformer</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td><a href="https://arxiv.org/abs/2601.22725">OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation</a></td>
+        <td>Jin Li, Tao Chen, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu</td>
+        <td>virtual try-on, high-resolution benchmark, evaluation</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td><a href="https://yanweifu.github.io/Papers.html">VTBench: Disentangled and Human-Aligned Evaluation for Image-Based Virtual Try-on</a></td>
+        <td>Donghao Luo, Yujie Liang, Caoshuo Li, Xiaobin Hu, Zuxuan Wu, Yanwei Fu</td>
+        <td>virtual try-on, benchmark, human-aligned evaluation</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td><a href="https://arxiv.org/abs/2607.02220">DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation</a></td>
+        <td>Zijun Li, Yimin Zhou, Jia Sun, Honglie Wang, Pengcheng Wei, Junlong Wu, Yongrui Heng, Jiyuan Wang, Huan Ouyang, Boheng Zhang, Huaiqing Wang, Dewen Fan, Qianqian Gan, Fan Yang, Tingting Gao</td>
+        <td>fashion detail generation, garment texture, e-commerce benchmark</td>
+      </tr>
     </tbody>
   </table>
 </details>
