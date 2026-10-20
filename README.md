@@ -51,40 +51,6 @@ This is also the official repo of [Generative AI in Fashion: Overview (ACM TIST 
 Labels: 🏅best / 🏆oral / 🌟highlight.
 
 <details>
-  <summary>SIGGRAPH Asia 2026-Fashion-Related-Papers</summary>
-  <table>
-    <thead>
-      <tr>
-        <th>No</th>
-        <th>Title</th>
-        <th>Authors</th>
-        <th>Key words</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1</td>
-        <td><a href="https://github.com/humansensinglab/OmniFabric">OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction</a></td>
-        <td>Ding-Jiun Huang, Yuanhao Wang, Cheng Zhang, Hugo Bertiche, Alexandru-Eugen Ichim, Thabo Beeler, Fernando De la Torre</td>
-        <td>3D garment reconstruction, UV texture synthesis, garment texture</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td><a href="https://arxiv.org/abs/2605.20460">HyperBones: Realtime Bone-driven Neural Garment Simulation with Hypernetwork Conditioning</a></td>
-        <td>Astitva Srivastava, Hsiao-Yu Chen, Ryan Goldade, Philipp Herholz, Zhongshi Jiang, Gene Wei-Chin Lin, Lingchen Yang, Nikolaos Sarafianos, Tuur Stuyck, Doug Roble, Avinash Sharma, Egor Larionov</td>
-        <td>garment simulation, neural garment dynamics, cloth animation</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td><a href="https://github.com/GongDeshan/Fabric_101_for_Wrinkles">Learnable Persistent Wrinkle Formation in Cloth Simulation</a></td>
-        <td>Deshan Gong, Ningtao Mao, Xiaoyuan Yang, Xinyu Lu, He Wang, Taku Komura</td>
-        <td>cloth simulation, persistent wrinkles, fabric dataset, differentiable simulation</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
-<details>
   <summary>NeurIPS 2026-Fashion-Related-Papers</summary>
   <table>
     <thead>
@@ -143,6 +109,40 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://arxiv.org/abs/2607.02220">DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation</a></td>
         <td>Zijun Li, Yimin Zhou, Jia Sun, Honglie Wang, Pengcheng Wei, Junlong Wu, Yongrui Heng, Jiyuan Wang, Huan Ouyang, Boheng Zhang, Huaiqing Wang, Dewen Fan, Qianqian Gan, Fan Yang, Tingting Gao</td>
         <td>fashion detail generation, garment texture, e-commerce benchmark</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary>SIGGRAPH Asia 2026-Fashion-Related-Papers</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Key words</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td><a href="https://github.com/humansensinglab/OmniFabric">OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction</a></td>
+        <td>Ding-Jiun Huang, Yuanhao Wang, Cheng Zhang, Hugo Bertiche, Alexandru-Eugen Ichim, Thabo Beeler, Fernando De la Torre</td>
+        <td>3D garment reconstruction, UV texture synthesis, garment texture</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td><a href="https://arxiv.org/abs/2605.20460">HyperBones: Realtime Bone-driven Neural Garment Simulation with Hypernetwork Conditioning</a></td>
+        <td>Astitva Srivastava, Hsiao-Yu Chen, Ryan Goldade, Philipp Herholz, Zhongshi Jiang, Gene Wei-Chin Lin, Lingchen Yang, Nikolaos Sarafianos, Tuur Stuyck, Doug Roble, Avinash Sharma, Egor Larionov</td>
+        <td>garment simulation, neural garment dynamics, cloth animation</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td><a href="https://github.com/GongDeshan/Fabric_101_for_Wrinkles">Learnable Persistent Wrinkle Formation in Cloth Simulation</a></td>
+        <td>Deshan Gong, Ningtao Mao, Xiaoyuan Yang, Xinyu Lu, He Wang, Taku Komura</td>
+        <td>cloth simulation, persistent wrinkles, fabric dataset, differentiable simulation</td>
       </tr>
     </tbody>
   </table>
