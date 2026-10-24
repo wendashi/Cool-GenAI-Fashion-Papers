@@ -9,6 +9,7 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 
 <details>
   <summary>Change Log</summary>
+
   - 2026-10, Fashion-related papers in SIGGRAPH Asia/NIPS 2026 are updated.
   
   - 2026-08/09, Fashion-related papers in ECCV/SIGGRAPH Asia 2026 are updated.
@@ -351,6 +352,12 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://luh1124.github.io/MARCUS-Avatar-Projectpage/">Monocular Avatar Reconstruction via Cascaded Diffusion Priors and UV-Space Differentiable Shading</a></td>
         <td>Hong Li, Minqi Meng, Yanjun Liang, Chongjie Ye, Houyuan Chen, Weiqing Xiao, Xianda Guo, Guojun Lei, Xuhui Liu, Chaojie Yang, Yanlun Peng, Hao Zhao, Baochang Zhang</td>
         <td>avatar reconstruction, UV-space diffusion, PBR materials</td>
+      </tr>
+      <tr>
+        <td>33</td>
+        <td><a href="https://github.com/InternRobotics/SIM1#quick-start--data-generation">SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds</a></td>
+        <td>Yunsong Zhou, Hangxu Liu, Xuekun Jiang, Xing Shen,Yuanzhen Zhou, Hui Wang, Baole Fang, Yang Tian, Mulin Yu, Qiaojun Yu,Li Ma, Hengjie Li, Hanqing Wang, Jia Zeng and Jiangmiao Pang</td>
+        <td>cloth manipulation, garment simulation, cloth simulation</td>
       </tr>
     </tbody>
   </table>
