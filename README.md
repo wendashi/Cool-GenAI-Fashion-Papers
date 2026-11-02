@@ -10,6 +10,8 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
 
+  - 2026-11, Fashion-related papers in NeurIPS 2026 are updated.
+
   - 2026-10, Fashion-related papers in SIGGRAPH Asia/NIPS 2026 are updated.
   
   - 2026-08/09, Fashion-related papers in ECCV/SIGGRAPH Asia 2026 are updated.
@@ -110,6 +112,18 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://arxiv.org/abs/2607.02220">DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation</a></td>
         <td>Zijun Li, Yimin Zhou, Jia Sun, Honglie Wang, Pengcheng Wei, Junlong Wu, Yongrui Heng, Jiyuan Wang, Huan Ouyang, Boheng Zhang, Huaiqing Wang, Dewen Fan, Qianqian Gan, Fan Yang, Tingting Gao</td>
         <td>fashion detail generation, garment texture, e-commerce benchmark</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td><a href="https://zenoning.github.io/FitVTON/">FitVTON: Fit-aware Virtual Try-On via Body-Garment Size Control</a></td>
+        <td>Yiqun Ning, Ao Shen, Chenhang He, Lei Zhang</td>
+        <td>virtual try-on, fit-aware control, garment-body size, fitting fidelity</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td><a href="https://shaodingbao.github.io/InstructVVT/">InstructVVT: Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors</a></td>
+        <td>Dingbao Shao, Song Wu, Xinyu Chen, Qian Wang, Jiahang Li, Kuai Jiang, Jiang Lin, Yuhang Liu, Ziyu Chen, Duo Li, Jiaxin Hu, Shengrong Gu, Ziheng Tang, Rongrong Liu, Yanlun Peng, Liang Li, Junlan Feng, Lujia Jin, Ting Zhang, Jian Yang, Zili Yi</td>
+        <td>video virtual try-on, instruction-driven editing, garment conditioning, diffusion transformer</td>
       </tr>
     </tbody>
   </table>
