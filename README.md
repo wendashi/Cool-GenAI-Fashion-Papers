@@ -10,7 +10,7 @@ This repo collects the latest fashion-related papers on top AI conferences (in [
 <details>
   <summary>Change Log</summary>
 
-  - 2026-11, Fashion-related papers in NeurIPS 2026 are updated.
+  - 2026-11, Fashion-related papers in NeurIPS/SIGGRAPH Asia 2026 are updated.
 
   - 2026-10, Fashion-related papers in SIGGRAPH Asia/NIPS 2026 are updated.
   
@@ -158,6 +158,42 @@ Labels: 🏅best / 🏆oral / 🌟highlight.
         <td><a href="https://github.com/GongDeshan/Fabric_101_for_Wrinkles">Learnable Persistent Wrinkle Formation in Cloth Simulation</a></td>
         <td>Deshan Gong, Ningtao Mao, Xiaoyuan Yang, Xinyu Lu, He Wang, Taku Komura</td>
         <td>cloth simulation, persistent wrinkles, fabric dataset, differentiable simulation</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td><a href="https://sa2026.conference-schedule.org/presentation/?id=papers_2660&amp;sess=sess152">Controllable Virtual Try-On via Video Generative Models</a></td>
+        <td>Ziyi Liu, Haosen Yang, Xi Chen, Su Guo, Hongxun Yao</td>
+        <td>virtual try-on, video generative models, garment fitting</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td><a href="https://sa2026.conference-schedule.org/session/?sess=sess121">Automatic Sewing Pattern Layout by Graph-based Two-level Semantic Classification</a></td>
+        <td>Zhendong Wang, Haofeng Zhu, Chen Liu, Yao Jin, Ligang Liu, Huamin Wang</td>
+        <td>sewing pattern layout, garment design, graph-based classification</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td><a href="https://sa2026.conference-schedule.org/session/?sess=sess121">GarmentHiFi: Hierarchically Modulated Diffusion for Fine-textured 3D Garment Reconstruction</a></td>
+        <td>Xiang Li, Runze Tian, Yifei Huang, Boran Wang, Yan Zhang, Yuanqi Li, Yanwen Guo, Wenping Wang, Jie Guo</td>
+        <td>3D garment reconstruction, diffusion, fine-grained texture</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td><a href="https://sa2026.conference-schedule.org/presentation/?id=papers_1454&amp;sess=sess131">TailorRig: Controllable and Structured Auxiliary Skeleton Generation for Garment-Aware Rigging</a></td>
+        <td>Yajing Chen, Xin Chen, Saidan Lu, Yeqi Yuan, Weikai Chen, Changyu Hu, Cheng Zeng, Xin Wang</td>
+        <td>garment-aware rigging, auxiliary skeletons, animation</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td><a href="https://sa2026.conference-schedule.org/presentation/?id=papers_1654&amp;sess=sess128">CLOTHO: Canonicalizing IMUs from Loose Inertial Garments for Accurate Human Motion Tracking</a></td>
+        <td>Xiaoxia Gao, Ruonan Zheng, Qinze Zhou, Yu Yan, Zixuan Zeng, Shifan Jiang, Chengxu Zuo, Yuan Yao, Zhiyang Dou, Anjun Chen, Yipeng Qin, Shihui Guo, Jiawei Fang</td>
+        <td>inertial garments, motion capture, wearable sensors</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td><a href="https://sa2026.conference-schedule.org/session/?sess=sess121">Stitch Graphs for Interactive Modeling of Non-Local Knit Topologies</a></td>
+        <td>Georg Sperl, Jovana Kim</td>
+        <td>knit topology, textile modeling, interactive design</td>
       </tr>
     </tbody>
   </table>
